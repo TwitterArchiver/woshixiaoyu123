@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1979909323825553770",
+    "created_at": "2025-10-20T13:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T14:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980264879002112135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1949372174361411584",
+          "start": 0,
+          "username": "gogo1263482"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980264879002112135",
+    "in_reply_to_user_id": "1949372174361411584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980248802222329869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gogo1263482 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1979909323825553770",
+        "created_at": "2025-10-20T13:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980264879002112135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1949372174361411584",
+              "start": 0,
+              "username": "gogo1263482"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980264879002112135",
+        "in_reply_to_user_id": "1949372174361411584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980248802222329869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gogo1263482 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949372174361411584",
+        "conversation_id": "1979909323825553770",
+        "created_at": "2025-10-20T12:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T13:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980248802222329869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980248802222329869",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979909323825553770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 当时高考期间我拿这个做头像，结果换不掉了😄做了好几天小猫咪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8236,
+          "following_count": 162,
+          "like_count": 289,
+          "listed_count": 10,
+          "media_count": 731,
+          "tweet_count": 4359
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T07:32:20.000Z",
+        "description": "08｜纯吃饭和碎碎念，也爱看别人碎碎念，请务必找我互关玩，我赞推很勤的\n(￣y▽￣)~*喜欢发完就删帖。跟我讲话礼貌点我都会回｜所以大胸肌能不能给我吃一口?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gogo76925",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gogo76925",
+                "start": 0,
+                "url": "https://t.co/OcwG9M1Map"
+              }
+            ]
+          }
+        },
+        "id": "1949372174361411584",
+        "location": "其实我是社恐",
+        "name": "gogo",
+        "pinned_tweet_id": "1964526225466282375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976631306097233920/uQe_HmcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 88,
+          "like_count": 1531,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 383
+        },
+        "url": "https://t.co/OcwG9M1Map",
+        "username": "gogo1263482",
+        "verified": false
+      }
+    ]
+  }
+}

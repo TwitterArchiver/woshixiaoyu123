@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976694109348982785"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1976694112259915992",
+    "created_at": "2025-10-10T16:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T17:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976694112259915992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HC5Gib0xeM",
+          "end": 40,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1976694112259915992/photo/1",
+          "media_key": "3_1976694109348982785",
+          "start": 17,
+          "url": "https://t.co/HC5Gib0xeM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976694112259915992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种感觉...你们懂吗？！！！！ https://t.co/HC5Gib0xeM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 767,
+        "media_key": "3_1976694109348982785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26g0clacAEnZzn.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976694109348982785"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1976694112259915992",
+        "created_at": "2025-10-10T16:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976694112259915992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HC5Gib0xeM",
+              "end": 40,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1976694112259915992/photo/1",
+              "media_key": "3_1976694109348982785",
+              "start": 17,
+              "url": "https://t.co/HC5Gib0xeM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976694112259915992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种感觉...你们懂吗？！！！！ https://t.co/HC5Gib0xeM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你和别人玩的时候，不要忘了手机对面还有个我呀。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4204,
+          "following_count": 162,
+          "like_count": 272,
+          "listed_count": 6,
+          "media_count": 667,
+          "tweet_count": 4040
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

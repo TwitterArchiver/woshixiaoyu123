@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Sagittarius ",
+          "id": "1138889680588402688",
+          "name": "Sagittarius "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sagittarius ",
+          "id": "1138889680588402688",
+          "name": "Sagittarius "
+        }
+      }
+    ],
+    "conversation_id": "1982876602141958549",
+    "created_at": "2025-10-28T03:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T04:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983009258368315689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878633656924745728",
+          "start": 0,
+          "username": "aiyixingbaobao"
+        },
+        {
+          "end": 31,
+          "id": "1748531675573964800",
+          "start": 16,
+          "username": "dingansich8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983009258368315689",
+    "in_reply_to_user_id": "1878633656924745728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983004135625531762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiyixingbaobao @dingansich8964 你是一名忠实的弈星玩家，你每天最大的乐趣就是打开王者，看着自己全队第一的经济，你就知道这局已经无力回天了，即使你打出一局两个天地为局的逆天操作为水晶极限续命，也抵挡不住射手辅助阵前双双败亡，框了没人补控了没人跟对你来说已是常态，最后拿着独属弈星的逆天评分机制7.0+下线，晚上睡不着觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Sagittarius ",
+              "id": "1138889680588402688",
+              "name": "Sagittarius "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sagittarius ",
+              "id": "1138889680588402688",
+              "name": "Sagittarius "
+            }
+          }
+        ],
+        "conversation_id": "1982876602141958549",
+        "created_at": "2025-10-28T03:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T04:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983009258368315689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878633656924745728",
+              "start": 0,
+              "username": "aiyixingbaobao"
+            },
+            {
+              "end": 31,
+              "id": "1748531675573964800",
+              "start": 16,
+              "username": "dingansich8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983009258368315689",
+        "in_reply_to_user_id": "1878633656924745728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983004135625531762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiyixingbaobao @dingansich8964 你是一名忠实的弈星玩家，你每天最大的乐趣就是打开王者，看着自己全队第一的经济，你就知道这局已经无力回天了，即使你打出一局两个天地为局的逆天操作为水晶极限续命，也抵挡不住射手辅助阵前双双败亡，框了没人补控了没人跟对你来说已是常态，最后拿着独属弈星的逆天评分机制7.0+下线，晚上睡不着觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878633656924745728",
+        "conversation_id": "1982876602141958549",
+        "created_at": "2025-10-28T02:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T03:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983004135625531762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748531675573964800",
+              "start": 0,
+              "username": "dingansich8964"
+            },
+            {
+              "end": 31,
+              "id": "1892595590527377408",
+              "start": 16,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983004135625531762",
+        "in_reply_to_user_id": "1748531675573964800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982996335784800708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingansich8964 @woshixiaoyu123 我去，不早说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我一直在哭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8380,
+          "following_count": 164,
+          "like_count": 290,
+          "listed_count": 8,
+          "media_count": 737,
+          "tweet_count": 4433
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T02:42:51.000Z",
+        "description": "谁敢和我打王者🙄",
+        "id": "1878633656924745728",
+        "location": "菏泽",
+        "name": "弈星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879481882389123072/h5txzxOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 21,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "username": "aiyixingbaobao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T02:23:53.000Z",
+        "description": "已工作，生不如死。會發一些枯燥的日常。叫我物物就好。在國外工作。看動漫，健身，填词，聽古典樂。喜欢烹飪、園藝、最近还在看谢林。「だって、私、追いかけるのが好きなんだもの。」喜歡的人是@dingansich8964。電報@DINGANSICH648",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "dingansich8964"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "DINGANSICH648"
+              }
+            ]
+          }
+        },
+        "id": "1748531675573964800",
+        "name": "物凝主體",
+        "pinned_tweet_id": "1945457173599072557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897646810052886528/nBKqybTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 66,
+          "like_count": 33792,
+          "listed_count": 1,
+          "media_count": 1010,
+          "tweet_count": 9456
+        },
+        "username": "dingansich8964",
+        "verified": false
+      }
+    ]
+  }
+}

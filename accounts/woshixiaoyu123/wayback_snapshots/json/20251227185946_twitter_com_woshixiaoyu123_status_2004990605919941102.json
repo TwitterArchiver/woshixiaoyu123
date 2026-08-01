@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2004889979521302977",
+    "created_at": "2025-12-27T18:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T19:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004990605919941102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1857826426290155520",
+          "start": 0,
+          "username": "CHUNAIBMF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004990605919941102",
+    "in_reply_to_user_id": "1857826426290155520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004889979521302977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CHUNAIBMF 我超爱🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004889961125027840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9LMzBqaoAAI6h0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2004889961125027841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9LMzBqaoAEqIMS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2004889979521302977",
+        "created_at": "2025-12-27T18:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T19:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004990605919941102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1857826426290155520",
+              "start": 0,
+              "username": "CHUNAIBMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004990605919941102",
+        "in_reply_to_user_id": "1857826426290155520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004889979521302977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CHUNAIBMF 我超爱🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004889961125027840",
+            "3_2004889961125027841"
+          ]
+        },
+        "author_id": "1857826426290155520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2004889979521302977",
+        "created_at": "2025-12-27T12:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T13:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004889979521302977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvMAv2wjP9",
+              "end": 39,
+              "expanded_url": "https://x.com/CHUNAIBMF/status/2004889979521302977/photo/1",
+              "media_key": "3_2004889961125027840",
+              "start": 16,
+              "url": "https://t.co/MvMAv2wjP9"
+            },
+            {
+              "display_url": "pic.x.com/MvMAv2wjP9",
+              "end": 39,
+              "expanded_url": "https://x.com/CHUNAIBMF/status/2004889979521302977/photo/1",
+              "media_key": "3_2004889961125027841",
+              "start": 16,
+              "url": "https://t.co/MvMAv2wjP9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004889979521302977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4265,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂这一口！这个关节真的很好吃 https://t.co/MvMAv2wjP9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我//皮下男太多了 女宝（推广性）投稿麻烦发一下语音∏ω∏｜看投稿点媒体｜没有收费项目 投喂随意˃ 𖥦 ˂",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17715,
+          "following_count": 168,
+          "like_count": 336,
+          "listed_count": 15,
+          "media_count": 1445,
+          "tweet_count": 5682
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T16:42:06.000Z",
+        "description": "今天你吃饭了吗",
+        "id": "1857826426290155520",
+        "name": "纯爱白米饭🍚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001857771025965056/RDH6aaeX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 11,
+          "like_count": 14,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 124
+        },
+        "username": "CHUNAIBMF",
+        "verified": false
+      }
+    ]
+  }
+}

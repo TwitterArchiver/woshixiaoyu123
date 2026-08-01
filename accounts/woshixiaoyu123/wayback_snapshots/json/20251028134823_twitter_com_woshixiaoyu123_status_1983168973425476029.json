@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1983157401919647956",
+    "created_at": "2025-10-28T13:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T14:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983168973425476029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1790525363355013120",
+          "start": 0,
+          "username": "shaomingan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983168973425476029",
+    "in_reply_to_user_id": "1790525363355013120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983157401919647956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaomingan 好鸡冻。。。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983157395934400512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WXJPZb0AA5Yiw.jpg",
+        "width": 1061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1983157401919647956",
+        "created_at": "2025-10-28T13:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T14:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983168973425476029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1790525363355013120",
+              "start": 0,
+              "username": "shaomingan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983168973425476029",
+        "in_reply_to_user_id": "1790525363355013120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983157401919647956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaomingan 好鸡冻。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983157395934400512"
+          ]
+        },
+        "author_id": "1790525363355013120",
+        "conversation_id": "1983157401919647956",
+        "created_at": "2025-10-28T13:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T14:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983157401919647956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1892595590527377408",
+              "start": 4,
+              "username": "woshixiaoyu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8464llCfOq",
+              "end": 43,
+              "expanded_url": "https://x.com/shaomingan/status/1983157401919647956/photo/1",
+              "media_key": "3_1983157395934400512",
+              "start": 20,
+              "url": "https://t.co/8464llCfOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983157401919647956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好鸡冻！@woshixiaoyu123 https://t.co/8464llCfOq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我一直在哭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8570,
+          "following_count": 164,
+          "like_count": 288,
+          "listed_count": 8,
+          "media_count": 738,
+          "tweet_count": 4435
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T23:31:36.000Z",
+        "description": "无聊玩玩，只关注一个咪//匿名提问→https://t.co/DqqBv4bDLy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 41,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 18,
+                "url": "https://t.co/DqqBv4bDLy"
+              }
+            ]
+          }
+        },
+        "id": "1790525363355013120",
+        "location": "0.2km",
+        "name": "🌳",
+        "pinned_tweet_id": "1978376017778467256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978068813381054464/n-kxHXoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 1,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 205
+        },
+        "username": "shaomingan",
+        "verified": false
+      }
+    ]
+  }
+}

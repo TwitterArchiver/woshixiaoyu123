@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1983753720803578343",
+    "created_at": "2025-10-30T15:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T16:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983923701599891618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1674935686439522304",
+          "start": 0,
+          "username": "bi_zi20390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983923701599891618",
+    "in_reply_to_user_id": "1674935686439522304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983917585944248654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bi_zi20390 救命哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1983753720803578343",
+        "created_at": "2025-10-30T15:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983923701599891618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674935686439522304",
+              "start": 0,
+              "username": "bi_zi20390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983923701599891618",
+        "in_reply_to_user_id": "1674935686439522304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983917585944248654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bi_zi20390 救命哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674935686439522304",
+        "conversation_id": "1983753720803578343",
+        "created_at": "2025-10-30T15:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983917585944248654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983917585944248654",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983753720803578343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 你这里咋变成男性生理医院了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11340,
+          "following_count": 149,
+          "like_count": 288,
+          "listed_count": 10,
+          "media_count": 762,
+          "tweet_count": 4505
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T00:19:48.000Z",
+        "description": "来这逛逛",
+        "id": "1674935686439522304",
+        "name": "海报",
+        "pinned_tweet_id": "1876959780561948814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983923275412729857/JiSdnIB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 24,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "username": "bi_zi20390",
+        "verified": false
+      }
+    ]
+  }
+}

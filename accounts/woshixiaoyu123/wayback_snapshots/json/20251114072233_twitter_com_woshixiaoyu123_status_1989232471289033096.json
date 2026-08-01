@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989232468474634240"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989036044122222902",
+    "created_at": "2025-11-14T07:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T08:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989232471289033096"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pzdizct4s6",
+          "end": 52,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989232471289033096/photo/1",
+          "media_key": "3_1989232468474634240",
+          "start": 29,
+          "url": "https://t.co/pzdizct4s6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989232471289033096",
+    "in_reply_to_user_id": "1892595590527377408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989232344881045516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "稿主找到小帅了 帖子下啦⁺ʚ&gt; ·̫ &lt;ɞ⁺ https://t.co/pzdizct4s6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_1989232468474634240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ssZAMaoAA-U6b.jpg",
+        "width": 1255
+      },
+      {
+        "height": 1427,
+        "media_key": "3_1989232342318346240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ssRqOacAA1iw4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989232468474634240"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989036044122222902",
+        "created_at": "2025-11-14T07:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T08:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989232471289033096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzdizct4s6",
+              "end": 52,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989232471289033096/photo/1",
+              "media_key": "3_1989232468474634240",
+              "start": 29,
+              "url": "https://t.co/pzdizct4s6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989232471289033096",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989232344881045516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "稿主找到小帅了 帖子下啦⁺ʚ&gt; ·̫ &lt;ɞ⁺ https://t.co/pzdizct4s6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989232342318346240"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989036044122222902",
+        "created_at": "2025-11-14T07:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T08:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989232344881045516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/saqZLQBWXJ",
+              "end": 26,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989232344881045516/photo/1",
+              "media_key": "3_1989232342318346240",
+              "start": 3,
+              "url": "https://t.co/saqZLQBWXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989232344881045516",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989036044122222902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已开 https://t.co/saqZLQBWXJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "祝你幸福///不接纯交友...",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16810,
+          "following_count": 160,
+          "like_count": 314,
+          "listed_count": 11,
+          "media_count": 954,
+          "tweet_count": 4938
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

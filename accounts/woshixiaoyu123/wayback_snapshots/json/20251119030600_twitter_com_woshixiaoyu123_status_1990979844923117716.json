@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990979841655791616"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990979844923117716",
+    "created_at": "2025-11-19T03:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T04:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990979844923117716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1492048569162891265",
+          "start": 0,
+          "username": "lifengqi123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DaGH3P892F",
+          "end": 36,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1990979844923117716/photo/1",
+          "media_key": "3_1990979841655791616",
+          "start": 13,
+          "url": "https://t.co/DaGH3P892F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990979844923117716",
+    "in_reply_to_user_id": "1492048569162891265",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@lifengqi123 https://t.co/DaGH3P892F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1043,
+        "media_key": "3_1990979841655791616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FhngjbYAAXk0X.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990979841655791616"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990979844923117716",
+        "created_at": "2025-11-19T03:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T04:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990979844923117716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1492048569162891265",
+              "start": 0,
+              "username": "lifengqi123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DaGH3P892F",
+              "end": 36,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1990979844923117716/photo/1",
+              "media_key": "3_1990979841655791616",
+              "start": 13,
+              "url": "https://t.co/DaGH3P892F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990979844923117716",
+        "in_reply_to_user_id": "1492048569162891265",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@lifengqi123 https://t.co/DaGH3P892F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "爱吗",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16834,
+          "following_count": 168,
+          "like_count": 332,
+          "listed_count": 12,
+          "media_count": 1034,
+          "tweet_count": 5107
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T08:11:33.000Z",
+        "description": "虚拟恋➕",
+        "id": "1492048569162891265",
+        "location": "xuzhou",
+        "name": "结局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989006486815797248/sEVgMCeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 298,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "username": "lifengqi123",
+        "verified": false
+      }
+    ]
+  }
+}

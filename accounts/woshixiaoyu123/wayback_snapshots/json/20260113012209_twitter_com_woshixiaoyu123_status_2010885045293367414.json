@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010885042755756032"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "2010885045293367414",
+    "created_at": "2026-01-13T01:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T02:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010885045293367414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z5mwUioZsl",
+          "end": 30,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2010885045293367414/photo/1",
+          "media_key": "3_2010885042755756032",
+          "start": 7,
+          "url": "https://t.co/z5mwUioZsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010885045293367414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "带点属性的🚪 https://t.co/z5mwUioZsl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1035,
+        "media_key": "3_2010885042755756032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-gZStGaYAAqpCF.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010885042755756032"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "2010885045293367414",
+        "created_at": "2026-01-13T01:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T02:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010885045293367414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5mwUioZsl",
+              "end": 30,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2010885045293367414/photo/1",
+              "media_key": "3_2010885042755756032",
+              "start": 7,
+              "url": "https://t.co/z5mwUioZsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010885045293367414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带点属性的🚪 https://t.co/z5mwUioZsl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我｜答疑解惑｜看投稿点媒体",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18343,
+          "following_count": 171,
+          "like_count": 343,
+          "listed_count": 18,
+          "media_count": 1569,
+          "tweet_count": 5851
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

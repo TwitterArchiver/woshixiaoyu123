@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1973944437161288038",
+    "created_at": "2025-10-03T18:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T19:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974180960817267135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937334914808184834",
+          "start": 0,
+          "username": "VitaminC0327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974180960817267135",
+    "in_reply_to_user_id": "1937334914808184834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973944437161288038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VitaminC0327 我们好多互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1973944437161288038",
+        "created_at": "2025-10-03T18:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T19:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974180960817267135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937334914808184834",
+              "start": 0,
+              "username": "VitaminC0327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974180960817267135",
+        "in_reply_to_user_id": "1937334914808184834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973944437161288038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VitaminC0327 我们好多互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937334914808184834",
+        "conversation_id": "1973944437161288038",
+        "created_at": "2025-10-03T02:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T03:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973944437161288038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973944437161288038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47458,
+          "like_count": 258,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实我会视奸关注我的人。如果是小女孩我就回关了。如果不是小女孩但是很多互关关注了其实我也会回关…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "想我就来找我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3882,
+          "following_count": 166,
+          "like_count": 262,
+          "listed_count": 7,
+          "media_count": 642,
+          "tweet_count": 3863
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T02:20:19.000Z",
+        "description": "碎碎念｜分享日常｜喜欢和礼貌的宝宝一起玩耍｜我眼熟的互关可来找我加v｜自认为是高p｜我帖子会很多 甚至刷屏 介意勿关注可屏蔽｜只过眼熟经常互动的互关@JellyVitaminC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "JellyVitaminC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vitaminc0327",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vitaminc0327",
+                "start": 0,
+                "url": "https://t.co/AFsuEF1NBQ"
+              }
+            ]
+          }
+        },
+        "id": "1937334914808184834",
+        "location": "^ ^等你读懂我的隐喻 等我们的心脏共鸣^ ^",
+        "name": "VitaminC",
+        "pinned_tweet_id": "1970117470397853787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961282585948262400/RRe1el0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5098,
+          "following_count": 402,
+          "like_count": 4839,
+          "listed_count": 9,
+          "media_count": 463,
+          "tweet_count": 8395
+        },
+        "url": "https://t.co/AFsuEF1NBQ",
+        "username": "VitaminC0327",
+        "verified": false
+      }
+    ]
+  }
+}

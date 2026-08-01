@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1972073098800488846",
+    "created_at": "2025-09-28T04:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T05:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972161036183859374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1923770650906238976",
+          "start": 0,
+          "username": "namicf1137"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972161036183859374",
+    "in_reply_to_user_id": "1923770650906238976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972073098800488846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@namicf1137 我操这个世界太你妈坏了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 645,
+        "media_key": "3_1972073095658680321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G142CDHXMAEcB5d.jpg",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1972073098800488846",
+        "created_at": "2025-09-28T04:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T05:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972161036183859374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1923770650906238976",
+              "start": 0,
+              "username": "namicf1137"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972161036183859374",
+        "in_reply_to_user_id": "1923770650906238976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972073098800488846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@namicf1137 我操这个世界太你妈坏了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972073095658680321"
+          ]
+        },
+        "author_id": "1923770650906238976",
+        "conversation_id": "1972073098800488846",
+        "created_at": "2025-09-27T22:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T23:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972073098800488846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6Km5xOfEy",
+              "end": 23,
+              "expanded_url": "https://x.com/namicf1137/status/1972073098800488846/photo/1",
+              "media_key": "3_1972073095658680321",
+              "start": 0,
+              "url": "https://t.co/M6Km5xOfEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972073098800488846",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/M6Km5xOfEy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "多愁善感",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3773,
+          "following_count": 165,
+          "like_count": 237,
+          "listed_count": 6,
+          "media_count": 627,
+          "tweet_count": 3780
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-17T16:00:52.000Z",
+        "description": "( •᷄ὤ•᷅)？就爱发点废话/爱我给我点钱mua/不要喊我姐姐。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nami18334",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nami18334",
+                "start": 0,
+                "url": "https://t.co/QedWDqNPpw"
+              }
+            ]
+          }
+        },
+        "id": "1923770650906238976",
+        "location": "小事赞赏大事口令",
+        "name": "唉，呐咪",
+        "pinned_tweet_id": "1937629286531498149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968671877930360832/-g-TpKGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 153,
+          "like_count": 3336,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 3453
+        },
+        "url": "https://t.co/QedWDqNPpw",
+        "username": "namicf1137",
+        "verified": false
+      }
+    ]
+  }
+}

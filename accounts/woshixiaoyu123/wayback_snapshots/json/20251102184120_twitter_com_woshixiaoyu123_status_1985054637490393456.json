@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985054634235613184",
+        "3_1985054634646642688"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1985054637490393456",
+    "created_at": "2025-11-02T18:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T19:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985054637490393456"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EUfx5AHzyk",
+          "end": 27,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1985054637490393456/photo/1",
+          "media_key": "3_1985054634235613184",
+          "start": 4,
+          "url": "https://t.co/EUfx5AHzyk"
+        },
+        {
+          "display_url": "pic.x.com/EUfx5AHzyk",
+          "end": 27,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1985054637490393456/photo/1",
+          "media_key": "3_1985054634646642688",
+          "start": 4,
+          "url": "https://t.co/EUfx5AHzyk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985054637490393456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出生😭 https://t.co/EUfx5AHzyk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_1985054634235613184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4xUrC1bUAAU2lb.jpg",
+        "width": 983
+      },
+      {
+        "height": 720,
+        "media_key": "3_1985054634646642688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4xUrEXbIAAv9bd.jpg",
+        "width": 1529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985054634235613184",
+            "3_1985054634646642688"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985054637490393456",
+        "created_at": "2025-11-02T18:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T19:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985054637490393456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUfx5AHzyk",
+              "end": 27,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1985054637490393456/photo/1",
+              "media_key": "3_1985054634235613184",
+              "start": 4,
+              "url": "https://t.co/EUfx5AHzyk"
+            },
+            {
+              "display_url": "pic.x.com/EUfx5AHzyk",
+              "end": 27,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1985054637490393456/photo/1",
+              "media_key": "3_1985054634646642688",
+              "start": 4,
+              "url": "https://t.co/EUfx5AHzyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985054637490393456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出生😭 https://t.co/EUfx5AHzyk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "带我玩游戏好嘛(｡í _ ì｡)｜谢谢你们理我｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 62,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 39,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13505,
+          "following_count": 150,
+          "like_count": 298,
+          "listed_count": 11,
+          "media_count": 793,
+          "tweet_count": 4588
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

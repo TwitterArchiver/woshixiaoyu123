@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1986875677057163288",
+    "created_at": "2025-11-08T08:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T09:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987079101543494014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1965835674948657152",
+          "start": 0,
+          "username": "shaoyeTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987079101543494014",
+    "in_reply_to_user_id": "1965835674948657152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987064703127097554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaoyeTvT 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1986875677057163288",
+        "created_at": "2025-11-08T08:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T09:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987079101543494014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965835674948657152",
+              "start": 0,
+              "username": "shaoyeTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987079101543494014",
+        "in_reply_to_user_id": "1965835674948657152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987064703127097554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoyeTvT 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965835674948657152",
+        "conversation_id": "1986875677057163288",
+        "created_at": "2025-11-08T07:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T08:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987064703127097554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987064703127097554",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986875677057163288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 好帅爱上你了咪咪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你的少女心事我都懂",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14603,
+          "following_count": 152,
+          "like_count": 305,
+          "listed_count": 11,
+          "media_count": 833,
+          "tweet_count": 4703
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T17:52:22.000Z",
+        "description": "我在胡言乱语",
+        "id": "1965835674948657152",
+        "location": "0.1km",
+        "name": "狐狸",
+        "pinned_tweet_id": "1982443909130383793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980336661813768193/hVPyjDDm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 23,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1312
+        },
+        "username": "shaoyeTvT",
+        "verified": false
+      }
+    ]
+  }
+}

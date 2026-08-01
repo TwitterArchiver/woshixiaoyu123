@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1987183910216945734",
+    "created_at": "2025-11-08T17:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987207526560244039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906245698594742272",
+          "start": 0,
+          "username": "SkyeAnAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987207526560244039",
+    "in_reply_to_user_id": "1906245698594742272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987184867214541100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SkyeAnAT 为什么要直接吃芥末？？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1987183910216945734",
+        "created_at": "2025-11-08T17:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987207526560244039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906245698594742272",
+              "start": 0,
+              "username": "SkyeAnAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987207526560244039",
+        "in_reply_to_user_id": "1906245698594742272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987184867214541100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SkyeAnAT 为什么要直接吃芥末？？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906245698594742272",
+        "conversation_id": "1987183910216945734",
+        "created_at": "2025-11-08T15:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T16:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987184867214541100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987184867214541100",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987183910216945734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 我一直觉得芥末味的东西都很恐怖 之前吃过一大口芥末 感觉头快炸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我就是围着你转啊 我没有自己的生活的 我的手机一直在手边 一直不锁屏 看你有没有发信息 最喜欢你了 我已经离不开你了",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14648,
+          "following_count": 152,
+          "like_count": 305,
+          "listed_count": 11,
+          "media_count": 838,
+          "tweet_count": 4718
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T07:23:05.000Z",
+        "description": "当朋友圈随便发发",
+        "id": "1906245698594742272",
+        "name": "Skye",
+        "pinned_tweet_id": "1939359435685859745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942487438628143104/W02yxw7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 42,
+          "like_count": 2732,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 1109
+        },
+        "username": "SkyeAnAT",
+        "verified": false
+      }
+    ]
+  }
+}

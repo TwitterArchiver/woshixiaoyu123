@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1987274040244117533",
+    "created_at": "2025-11-09T11:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T12:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987477045182611555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1969421347802710016",
+          "start": 0,
+          "username": "l9579ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987477045182611555",
+    "in_reply_to_user_id": "1969421347802710016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987274040244117533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l9579ovo 好漂亮⁺ʚ&gt; ·̫ &lt;ɞ⁺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987274031385747458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Q3M9gbIAIUxdg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1987274040244117533",
+        "created_at": "2025-11-09T11:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T12:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987477045182611555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1969421347802710016",
+              "start": 0,
+              "username": "l9579ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987477045182611555",
+        "in_reply_to_user_id": "1969421347802710016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987274040244117533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l9579ovo 好漂亮⁺ʚ&gt; ·̫ &lt;ɞ⁺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987274031385747458"
+          ]
+        },
+        "author_id": "1969421347802710016",
+        "conversation_id": "1987274040244117533",
+        "created_at": "2025-11-08T21:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T22:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987274040244117533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sJLTlY0Ojt",
+              "end": 36,
+              "expanded_url": "https://x.com/l9579ovo/status/1987274040244117533/photo/1",
+              "media_key": "3_1987274031385747458",
+              "start": 13,
+              "url": "https://t.co/sJLTlY0Ojt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987274040244117533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐飞机我就这样一直拍自拍 https://t.co/sJLTlY0Ojt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你来看我啦=^ω^=",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14833,
+          "following_count": 155,
+          "like_count": 308,
+          "listed_count": 11,
+          "media_count": 845,
+          "tweet_count": 4737
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T15:20:27.000Z",
+        "description": "请跟我聊天捏🥺",
+        "id": "1969421347802710016",
+        "location": "177 75kg",
+        "name": "☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969421672194396160/a2HV_hLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 16,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 13
+        },
+        "username": "l9579ovo",
+        "verified": false
+      }
+    ]
+  }
+}

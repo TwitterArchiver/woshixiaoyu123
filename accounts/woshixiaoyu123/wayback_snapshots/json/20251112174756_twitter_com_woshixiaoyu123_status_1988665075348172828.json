@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988663753248997442",
+    "created_at": "2025-11-12T17:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T18:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988665075348172828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1648535821694402560",
+          "start": 0,
+          "username": "fenghelili"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988665075348172828",
+    "in_reply_to_user_id": "1648535821694402560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988664853259776289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fenghelili 我笑纳了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988663753248997442",
+        "created_at": "2025-11-12T17:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T18:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988665075348172828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1648535821694402560",
+              "start": 0,
+              "username": "fenghelili"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988665075348172828",
+        "in_reply_to_user_id": "1648535821694402560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988664853259776289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fenghelili 我笑纳了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648535821694402560",
+        "conversation_id": "1988663753248997442",
+        "created_at": "2025-11-12T17:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T18:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988664853259776289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988664853259776289",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988663753248997442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 你是不是已经受够了疯狂星期四无孔不入的营销？当其他人玩梗时还没吃过疯狂星期四的你有没有感觉被排挤？看到结尾是v我50的段子你是不是已经厌烦？v我一百💯我去吃麦当劳给你出气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "接求助/找🚪/找陪玩｜纯交友/游戏搭子可以去评论区蹲蹲",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16100,
+          "following_count": 159,
+          "like_count": 309,
+          "listed_count": 11,
+          "media_count": 895,
+          "tweet_count": 4833
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T03:55:51.000Z",
+        "description": "🇨🇳🇯🇵🇦🇺",
+        "id": "1648535821694402560",
+        "location": "距离你0.5km",
+        "name": "屁屁大王",
+        "pinned_tweet_id": "1719440068996419823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974363458125848576/Y58FFl2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 144,
+          "like_count": 394,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 614
+        },
+        "username": "fenghelili",
+        "verified": false
+      }
+    ]
+  }
+}

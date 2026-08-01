@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989007298094919680"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989006812583194833",
+    "created_at": "2025-11-13T16:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T17:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989007300502385094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bbopqTwOJX",
+          "end": 40,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989007300502385094/photo/1",
+          "media_key": "3_1989007298094919680",
+          "start": 17,
+          "url": "https://t.co/bbopqTwOJX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989007300502385094",
+    "in_reply_to_user_id": "1892595590527377408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989006812583194833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啥意思咋还给我打码 成人在哪？？ https://t.co/bbopqTwOJX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 763,
+        "media_key": "3_1989007298094919680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5pfmXKbcAAAouF.jpg",
+        "width": 1255
+      },
+      {
+        "height": 932,
+        "media_key": "3_1989006810226077696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5pfJ9tbsAANymu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989007298094919680"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989006812583194833",
+        "created_at": "2025-11-13T16:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T17:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989007300502385094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bbopqTwOJX",
+              "end": 40,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989007300502385094/photo/1",
+              "media_key": "3_1989007298094919680",
+              "start": 17,
+              "url": "https://t.co/bbopqTwOJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989007300502385094",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989006812583194833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啥意思咋还给我打码 成人在哪？？ https://t.co/bbopqTwOJX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989006810226077696"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989006812583194833",
+        "created_at": "2025-11-13T16:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T17:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989006812583194833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TqGWKC4UeK",
+              "end": 31,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989006812583194833/photo/1",
+              "media_key": "3_1989006810226077696",
+              "start": 8,
+              "url": "https://t.co/TqGWKC4UeK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989006812583194833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁陪我做33😔 https://t.co/TqGWKC4UeK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "祝你幸福｜交友请告诉我是否匿名˃ㅅ˂ 不匿会艾特｜不收费..硬要打赏我还是会笑纳的ovo",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16540,
+          "following_count": 160,
+          "like_count": 314,
+          "listed_count": 11,
+          "media_count": 931,
+          "tweet_count": 4893
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

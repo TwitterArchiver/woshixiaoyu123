@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989586805046611968",
+        "3_1989586805503750144"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989586813636243887",
+    "created_at": "2025-11-15T06:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T07:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989586813636243887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "1165517774011154433",
+          "start": 6,
+          "username": "haoxiangchirou6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YuDHdsC8Tm",
+          "end": 46,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989586813636243887/photo/1",
+          "media_key": "3_1989586805046611968",
+          "start": 23,
+          "url": "https://t.co/YuDHdsC8Tm"
+        },
+        {
+          "display_url": "pic.x.com/YuDHdsC8Tm",
+          "end": 46,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989586813636243887/photo/1",
+          "media_key": "3_1989586805503750144",
+          "start": 23,
+          "url": "https://t.co/YuDHdsC8Tm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989586813636243887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这也太美了\n@haoxiangchirou6 https://t.co/YuDHdsC8Tm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1277,
+        "media_key": "3_1989586805046611968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xuqGybkAAePnM.jpg",
+        "width": 1256
+      },
+      {
+        "height": 1855,
+        "media_key": "3_1989586805503750144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xuqIfa8AAUnso.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989586805046611968",
+            "3_1989586805503750144"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989586813636243887",
+        "created_at": "2025-11-15T06:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T07:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989586813636243887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1165517774011154433",
+              "start": 6,
+              "username": "haoxiangchirou6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YuDHdsC8Tm",
+              "end": 46,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989586813636243887/photo/1",
+              "media_key": "3_1989586805046611968",
+              "start": 23,
+              "url": "https://t.co/YuDHdsC8Tm"
+            },
+            {
+              "display_url": "pic.x.com/YuDHdsC8Tm",
+              "end": 46,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989586813636243887/photo/1",
+              "media_key": "3_1989586805503750144",
+              "start": 23,
+              "url": "https://t.co/YuDHdsC8Tm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989586813636243887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这也太美了\n@haoxiangchirou6 https://t.co/YuDHdsC8Tm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "12小时没回就是不接😔",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16891,
+          "following_count": 165,
+          "like_count": 325,
+          "listed_count": 13,
+          "media_count": 1004,
+          "tweet_count": 5026
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-25T06:54:53.000Z",
+        "description": "很色。很可爱。请先看置顶",
+        "id": "1165517774011154433",
+        "location": "Fujian",
+        "name": "深夜开车小孩",
+        "pinned_tweet_id": "1987239749837578359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988911551315591168/6xPEEslw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 146,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 56
+        },
+        "username": "haoxiangchirou6",
+        "verified": true
+      }
+    ]
+  }
+}

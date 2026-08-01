@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1983198883510661430",
+    "created_at": "2025-10-29T10:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T11:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983479448403161109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906245698594742272",
+          "start": 0,
+          "username": "SkyeAnAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983479448403161109",
+    "in_reply_to_user_id": "1906245698594742272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983198883510661430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SkyeAnAT 好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983198868545384449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4W83Q6asAEi5dk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1983198883510661430",
+        "created_at": "2025-10-29T10:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983479448403161109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906245698594742272",
+              "start": 0,
+              "username": "SkyeAnAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983479448403161109",
+        "in_reply_to_user_id": "1906245698594742272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983198883510661430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SkyeAnAT 好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983198868545384449"
+          ]
+        },
+        "author_id": "1906245698594742272",
+        "conversation_id": "1983198883510661430",
+        "created_at": "2025-10-28T15:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T16:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983198883510661430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCPx6bSNfQ",
+              "end": 26,
+              "expanded_url": "https://x.com/SkyeAnAT/status/1983198883510661430/photo/1",
+              "media_key": "3_1983198868545384449",
+              "start": 3,
+              "url": "https://t.co/fCPx6bSNfQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983198883510661430",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水晶 https://t.co/fCPx6bSNfQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9218,
+          "following_count": 152,
+          "like_count": 288,
+          "listed_count": 10,
+          "media_count": 747,
+          "tweet_count": 4451
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T07:23:05.000Z",
+        "description": "当朋友圈随便发发",
+        "id": "1906245698594742272",
+        "name": "Skye",
+        "pinned_tweet_id": "1939359435685859745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942487438628143104/W02yxw7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 41,
+          "like_count": 2492,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 967
+        },
+        "username": "SkyeAnAT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2047218947595120656",
+    "created_at": "2026-04-23T07:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T08:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047218947595120656"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047218947595120656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当我意识到 每次别人问什么我都实话实说，而且别人说什么我就信什么，从来没有怀疑过真假，我就知道我诚实热情的像一个智障。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2047218947595120656",
+        "created_at": "2026-04-23T07:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047218947595120656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047218947595120656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我意识到 每次别人问什么我都实话实说，而且别人说什么我就信什么，从来没有怀疑过真假，我就知道我诚实热情的像一个智障。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2038312886033084867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18795,
+          "following_count": 159,
+          "like_count": 367,
+          "listed_count": 17,
+          "media_count": 1728,
+          "tweet_count": 6343
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

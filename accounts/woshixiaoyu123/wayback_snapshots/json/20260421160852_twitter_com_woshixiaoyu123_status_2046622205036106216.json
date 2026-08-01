@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2046584077520887983",
+    "created_at": "2026-04-21T16:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T17:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046622205036106216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1582921343456407552",
+          "start": 0,
+          "username": "Ttbcy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046622205036106216",
+    "in_reply_to_user_id": "1582921343456407552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046584077520887983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ttbcy1 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046584067517550592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbtXbtbkAA-x05.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046584067572015104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbtXb6aoAA9cbv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1856,
+        "media_key": "3_2046584067597242368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbtXcAbkAAfI7A.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2046584077520887983",
+        "created_at": "2026-04-21T16:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046622205036106216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1582921343456407552",
+              "start": 0,
+              "username": "Ttbcy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046622205036106216",
+        "in_reply_to_user_id": "1582921343456407552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046584077520887983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ttbcy1 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046584067517550592",
+            "3_2046584067572015104",
+            "3_2046584067597242368"
+          ]
+        },
+        "author_id": "1582921343456407552",
+        "conversation_id": "2046584077520887983",
+        "created_at": "2026-04-21T13:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046584077520887983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRH66Rj8wU",
+              "end": 53,
+              "expanded_url": "https://x.com/Ttbcy1/status/2046584077520887983/photo/1",
+              "media_key": "3_2046584067517550592",
+              "start": 30,
+              "url": "https://t.co/pRH66Rj8wU"
+            },
+            {
+              "display_url": "pic.x.com/pRH66Rj8wU",
+              "end": 53,
+              "expanded_url": "https://x.com/Ttbcy1/status/2046584077520887983/photo/1",
+              "media_key": "3_2046584067572015104",
+              "start": 30,
+              "url": "https://t.co/pRH66Rj8wU"
+            },
+            {
+              "display_url": "pic.x.com/pRH66Rj8wU",
+              "end": 53,
+              "expanded_url": "https://x.com/Ttbcy1/status/2046584077520887983/photo/1",
+              "media_key": "3_2046584067597242368",
+              "start": 30,
+              "url": "https://t.co/pRH66Rj8wU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046584077520887983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3921,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兩眼一睜就是練 飯也不吃了水也不喝了 繩子也不玩了！😵‍💫 https://t.co/pRH66Rj8wU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2038312886033084867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18827,
+          "following_count": 159,
+          "like_count": 367,
+          "listed_count": 17,
+          "media_count": 1727,
+          "tweet_count": 6332
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T02:27:22.000Z",
+        "description": "繩縛/清水/請保持距離/૮ต•̤ ༝ •̤ตა@Ttbcy2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "Ttbcy2"
+              }
+            ]
+          }
+        },
+        "id": "1582921343456407552",
+        "location": "Hong Kong",
+        "name": "随时准备紫砂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908386998198689795/rNLYgHCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60671,
+          "following_count": 29,
+          "like_count": 1378,
+          "listed_count": 162,
+          "media_count": 74,
+          "tweet_count": 551
+        },
+        "username": "Ttbcy1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990252322036002816",
+        "3_1990252322002477056"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1990252325584433616",
+    "created_at": "2025-11-17T02:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T03:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990252325584433616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1791313275507847168",
+          "start": 0,
+          "username": "DeirdreLaw90502"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6DwOm0anrc",
+          "end": 46,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1990252325584433616/photo/1",
+          "media_key": "3_1990252322036002816",
+          "start": 23,
+          "url": "https://t.co/6DwOm0anrc"
+        },
+        {
+          "display_url": "pic.x.com/6DwOm0anrc",
+          "end": 46,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1990252325584433616/photo/1",
+          "media_key": "3_1990252322002477056",
+          "start": 23,
+          "url": "https://t.co/6DwOm0anrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990252325584433616",
+    "in_reply_to_user_id": "1791313275507847168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@DeirdreLaw90502 \n固聊dd https://t.co/6DwOm0anrc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 603,
+        "media_key": "3_1990252322036002816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57L8SxaMAAKi_S.jpg",
+        "width": 1256
+      },
+      {
+        "height": 1212,
+        "media_key": "3_1990252322002477056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57L8SpaoAAcEfs.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990252322036002816",
+            "3_1990252322002477056"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1990252325584433616",
+        "created_at": "2025-11-17T02:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T03:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990252325584433616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1791313275507847168",
+              "start": 0,
+              "username": "DeirdreLaw90502"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6DwOm0anrc",
+              "end": 46,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1990252325584433616/photo/1",
+              "media_key": "3_1990252322036002816",
+              "start": 23,
+              "url": "https://t.co/6DwOm0anrc"
+            },
+            {
+              "display_url": "pic.x.com/6DwOm0anrc",
+              "end": 46,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1990252325584433616/photo/1",
+              "media_key": "3_1990252322002477056",
+              "start": 23,
+              "url": "https://t.co/6DwOm0anrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990252325584433616",
+        "in_reply_to_user_id": "1791313275507847168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@DeirdreLaw90502 \n固聊dd https://t.co/6DwOm0anrc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你对我的赞许是我最大的幸福",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16936,
+          "following_count": 166,
+          "like_count": 328,
+          "listed_count": 12,
+          "media_count": 1048,
+          "tweet_count": 5090
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T03:42:34.000Z",
+        "description": "悲伤是有延迟性的 那些密密麻麻的同感交叉在一起 变成了千疮百孔的高楼 直到眼泪印湿枕头 我也不知道我为什么哭",
+        "id": "1791313275507847168",
+        "name": "Deirdre Lawson",
+        "pinned_tweet_id": "1978296862504259741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954201016729321472/GoWqPCSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5736,
+          "following_count": 20,
+          "like_count": 7,
+          "listed_count": 4,
+          "media_count": 17,
+          "tweet_count": 356
+        },
+        "username": "DeirdreLaw90502",
+        "verified": false
+      }
+    ]
+  }
+}

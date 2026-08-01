@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1983782313940189533",
+    "created_at": "2025-10-31T06:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T07:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984150531808661599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1824430325818331136",
+          "start": 0,
+          "username": "NNLJ778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984150531808661599",
+    "in_reply_to_user_id": "1824430325818331136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984137319495168428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NNLJ778 看片只是解决欲望 擦边大多是对对方抱有幻想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1983782313940189533",
+        "created_at": "2025-10-31T06:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T07:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984150531808661599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1824430325818331136",
+              "start": 0,
+              "username": "NNLJ778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984150531808661599",
+        "in_reply_to_user_id": "1824430325818331136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984137319495168428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NNLJ778 看片只是解决欲望 擦边大多是对对方抱有幻想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824430325818331136",
+        "conversation_id": "1983782313940189533",
+        "created_at": "2025-10-31T05:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T06:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984137319495168428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984137319495168428",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983782313940189533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 其实我不明白为什么女朋友可以让我看片但是不让我看擦边。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了｜男科问题去医院挂号我不是医生｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 70,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 47,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12653,
+          "following_count": 149,
+          "like_count": 288,
+          "listed_count": 11,
+          "media_count": 770,
+          "tweet_count": 4520
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T12:57:56.000Z",
+        "description": "广州/\n偶尔抽象，无不良嗜好熬夜除外，\n大2男生，\n永劫无间启动\n不好意思，我比较臊皮",
+        "id": "1824430325818331136",
+        "location": "China",
+        "name": "南国第一の刀",
+        "pinned_tweet_id": "1953163260699787315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977939799677009920/K4tlDknJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 160,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 326
+        },
+        "username": "NNLJ778",
+        "verified": false
+      }
+    ]
+  }
+}

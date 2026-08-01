@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983855800822136832"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1983855804584489265",
+    "created_at": "2025-10-30T11:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T12:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983855804584489265"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8LlhEcdbey",
+          "end": 27,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1983855804584489265/photo/1",
+          "media_key": "3_1983855800822136832",
+          "start": 4,
+          "url": "https://t.co/8LlhEcdbey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983855804584489265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃药？ https://t.co/8LlhEcdbey"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 776,
+        "media_key": "3_1983855800822136832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gSVwWaAAA_DQ5.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983855800822136832"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1983855804584489265",
+        "created_at": "2025-10-30T11:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983855804584489265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8LlhEcdbey",
+              "end": 27,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1983855804584489265/photo/1",
+              "media_key": "3_1983855800822136832",
+              "start": 4,
+              "url": "https://t.co/8LlhEcdbey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983855804584489265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃药？ https://t.co/8LlhEcdbey"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10617,
+          "following_count": 149,
+          "like_count": 288,
+          "listed_count": 10,
+          "media_count": 759,
+          "tweet_count": 4486
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

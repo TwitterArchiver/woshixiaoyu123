@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991827825142403072",
+        "3_1991827825163481088",
+        "3_1991827825138290690",
+        "3_1991827825175969792"
+      ],
+      "media_source_tweet_id": [
+        "1991827840153927709",
+        "1991827840153927709",
+        "1991827840153927709",
+        "1991827840153927709"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1991859788855365729",
+    "created_at": "2025-11-21T13:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T14:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991859788855365729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1886717304844771330",
+          "start": 3,
+          "username": "Stella10142"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OotPLkeOv8",
+          "end": 88,
+          "expanded_url": "https://x.com/Stella10142/status/1991827840153927709/photo/1",
+          "media_key": "3_1991827825142403072",
+          "start": 65,
+          "url": "https://t.co/OotPLkeOv8"
+        },
+        {
+          "display_url": "pic.x.com/OotPLkeOv8",
+          "end": 88,
+          "expanded_url": "https://x.com/Stella10142/status/1991827840153927709/photo/1",
+          "media_key": "3_1991827825163481088",
+          "start": 65,
+          "url": "https://t.co/OotPLkeOv8"
+        },
+        {
+          "display_url": "pic.x.com/OotPLkeOv8",
+          "end": 88,
+          "expanded_url": "https://x.com/Stella10142/status/1991827840153927709/photo/1",
+          "media_key": "3_1991827825138290690",
+          "start": 65,
+          "url": "https://t.co/OotPLkeOv8"
+        },
+        {
+          "display_url": "pic.x.com/OotPLkeOv8",
+          "end": 88,
+          "expanded_url": "https://x.com/Stella10142/status/1991827840153927709/photo/1",
+          "media_key": "3_1991827825175969792",
+          "start": 65,
+          "url": "https://t.co/OotPLkeOv8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991859788855365729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991827840153927709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Stella10142: 大部分的聊天记录我都贴出来了，而且我要纠正一点，188的🚪是不会给你看我的任何身体还有打视频的 https://t.co/OotPLkeOv8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991859788855365729].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991859788855365729",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991859788855365729"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991827825142403072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Rk2pNaEAAJ1mw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1792,
+        "media_key": "3_1991827825163481088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Rk2pSbsAA5MKD.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_1991827825138290690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Rk2pMbUAII8TP.jpg",
+        "width": 828
+      },
+      {
+        "height": 1027,
+        "media_key": "3_1991827825175969792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Rk2pVaQAA5HmE.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991827825142403072",
+            "3_1991827825163481088",
+            "3_1991827825138290690",
+            "3_1991827825175969792"
+          ]
+        },
+        "author_id": "1886717304844771330",
+        "conversation_id": "1991827840153927709",
+        "created_at": "2025-11-21T11:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T12:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991827840153927709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OotPLkeOv8",
+              "end": 71,
+              "expanded_url": "https://x.com/Stella10142/status/1991827840153927709/photo/1",
+              "media_key": "3_1991827825142403072",
+              "start": 48,
+              "url": "https://t.co/OotPLkeOv8"
+            },
+            {
+              "display_url": "pic.x.com/OotPLkeOv8",
+              "end": 71,
+              "expanded_url": "https://x.com/Stella10142/status/1991827840153927709/photo/1",
+              "media_key": "3_1991827825163481088",
+              "start": 48,
+              "url": "https://t.co/OotPLkeOv8"
+            },
+            {
+              "display_url": "pic.x.com/OotPLkeOv8",
+              "end": 71,
+              "expanded_url": "https://x.com/Stella10142/status/1991827840153927709/photo/1",
+              "media_key": "3_1991827825138290690",
+              "start": 48,
+              "url": "https://t.co/OotPLkeOv8"
+            },
+            {
+              "display_url": "pic.x.com/OotPLkeOv8",
+              "end": 71,
+              "expanded_url": "https://x.com/Stella10142/status/1991827840153927709/photo/1",
+              "media_key": "3_1991827825175969792",
+              "start": 48,
+              "url": "https://t.co/OotPLkeOv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991827840153927709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大部分的聊天记录我都贴出来了，而且我要纠正一点，188的🚪是不会给你看我的任何身体还有打视频的 https://t.co/OotPLkeOv8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "爱吗",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16634,
+          "following_count": 169,
+          "like_count": 331,
+          "listed_count": 12,
+          "media_count": 1048,
+          "tweet_count": 5131
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T10:04:01.000Z",
+        "description": "碎碎念｜咪的幸福花园",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ling2chun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ling2chun",
+                "start": 0,
+                "url": "https://t.co/5OxgWOGnCE"
+              }
+            ]
+          }
+        },
+        "id": "1886717304844771330",
+        "location": "鲸鱼",
+        "name": "Stella",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982789804099010560/rlquoTPU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 261,
+          "like_count": 1748,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 993
+        },
+        "url": "https://t.co/5OxgWOGnCE",
+        "username": "Stella10142",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1979750307145126101",
+    "created_at": "2025-10-19T12:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T13:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979887812054004006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1765311539047972864",
+          "start": 0,
+          "username": "cs666999lyp"
+        },
+        {
+          "end": 27,
+          "id": "1524064526030848002",
+          "start": 13,
+          "username": "muyan54656959"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979887812054004006",
+    "in_reply_to_user_id": "1765311539047972864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979878974546419862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cs666999lyp @muyan54656959 ...看到过好多人发 我艾特谁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1979750307145126101",
+        "created_at": "2025-10-19T12:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T13:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979887812054004006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1765311539047972864",
+              "start": 0,
+              "username": "cs666999lyp"
+            },
+            {
+              "end": 27,
+              "id": "1524064526030848002",
+              "start": 13,
+              "username": "muyan54656959"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979887812054004006",
+        "in_reply_to_user_id": "1765311539047972864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979878974546419862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cs666999lyp @muyan54656959 ...看到过好多人发 我艾特谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765311539047972864",
+        "conversation_id": "1979750307145126101",
+        "created_at": "2025-10-19T11:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T12:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979878974546419862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            },
+            {
+              "end": 30,
+              "id": "1524064526030848002",
+              "start": 16,
+              "username": "muyan54656959"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979878974546419862",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979752019780043260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 @muyan54656959 盗图起码艾特一下别人吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7064,
+          "following_count": 162,
+          "like_count": 288,
+          "listed_count": 10,
+          "media_count": 729,
+          "tweet_count": 4345
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T09:40:53.000Z",
+        "description": "",
+        "id": "1765311539047972864",
+        "name": "财神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800342764049285120/faL_buqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 322,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 74
+        },
+        "username": "cs666999lyp",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-10T16:31:42.000Z",
+        "description": "网瘾少年",
+        "id": "1524064526030848002",
+        "name": "无敌暴龙战士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524260908624621573/RcJk9xkk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 25,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 761
+        },
+        "username": "muyan54656959",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977087233149771877",
+    "created_at": "2025-10-12T16:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T17:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977407071651025183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1815961990390767616",
+          "start": 0,
+          "username": "ma_gou26508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977407071651025183",
+    "in_reply_to_user_id": "1815961990390767616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977395310730121686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ma_gou26508 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977087233149771877",
+        "created_at": "2025-10-12T16:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T17:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977407071651025183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1815961990390767616",
+              "start": 0,
+              "username": "ma_gou26508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977407071651025183",
+        "in_reply_to_user_id": "1815961990390767616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977395310730121686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ma_gou26508 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815961990390767616",
+        "conversation_id": "1977087233149771877",
+        "created_at": "2025-10-12T15:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T16:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977395310730121686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977395310730121686",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977087233149771877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 在推上还能见着这企鹅我也是服了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "开心 幸福｜不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4884,
+          "following_count": 159,
+          "like_count": 277,
+          "listed_count": 6,
+          "media_count": 689,
+          "tweet_count": 4125
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T04:07:43.000Z",
+        "description": "",
+        "id": "1815961990390767616",
+        "name": "玛卡巴卡扔狗逝",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 506,
+          "like_count": 2683,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "username": "ma_gou26508",
+        "verified": false
+      }
+    ]
+  }
+}

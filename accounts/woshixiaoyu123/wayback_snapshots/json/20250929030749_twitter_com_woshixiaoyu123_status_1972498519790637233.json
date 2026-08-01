@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1972323467405242490",
+    "created_at": "2025-09-29T03:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T04:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972498519790637233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1765084936028270592",
+          "start": 0,
+          "username": "KEY4015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972498519790637233",
+    "in_reply_to_user_id": "1765084936028270592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972483046696960221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KEY4015 行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972483043903643648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-q4LVboAAK9sl.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1972323467405242490",
+        "created_at": "2025-09-29T03:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T04:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972498519790637233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1765084936028270592",
+              "start": 0,
+              "username": "KEY4015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972498519790637233",
+        "in_reply_to_user_id": "1765084936028270592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972483046696960221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KEY4015 行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972483043903643648"
+          ]
+        },
+        "author_id": "1765084936028270592",
+        "conversation_id": "1972323467405242490",
+        "created_at": "2025-09-29T02:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T03:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972483046696960221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3V2nLKZfh",
+              "end": 48,
+              "expanded_url": "https://x.com/KEY4015/status/1972483046696960221/photo/1",
+              "media_key": "3_1972483043903643648",
+              "start": 25,
+              "url": "https://t.co/N3V2nLKZfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972483046696960221",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972323467405242490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 一起玩不我是高手 https://t.co/N3V2nLKZfh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我要打一辈子王者荣耀",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3883,
+          "following_count": 165,
+          "like_count": 238,
+          "listed_count": 6,
+          "media_count": 635,
+          "tweet_count": 3799
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T18:40:30.000Z",
+        "description": "QQ\n2366730226\n来看粉几把的备注一下",
+        "id": "1765084936028270592",
+        "name": "keyi4015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968183307914661888/7_pI3Mph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 46,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 27
+        },
+        "username": "KEY4015",
+        "verified": false
+      }
+    ]
+  }
+}

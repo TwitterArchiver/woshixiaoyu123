@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978015378686226432"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977993093208330469",
+    "created_at": "2025-10-14T08:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T09:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978015381626220702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1443980853625774080",
+          "start": 0,
+          "username": "liuhuayuling778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sy4067MLqN",
+          "end": 54,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1978015381626220702/photo/1",
+          "media_key": "3_1978015378686226432",
+          "start": 31,
+          "url": "https://t.co/sy4067MLqN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978015381626220702",
+    "in_reply_to_user_id": "1443980853625774080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978007553130082376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuhuayuling778 想要我30秒速通绝航教程吗 https://t.co/sy4067MLqN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 655,
+        "media_key": "3_1978015378686226432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3NSgcbaMAAE3Vb.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978015378686226432"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977993093208330469",
+        "created_at": "2025-10-14T08:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978015381626220702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1443980853625774080",
+              "start": 0,
+              "username": "liuhuayuling778"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sy4067MLqN",
+              "end": 54,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1978015381626220702/photo/1",
+              "media_key": "3_1978015378686226432",
+              "start": 31,
+              "url": "https://t.co/sy4067MLqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978015381626220702",
+        "in_reply_to_user_id": "1443980853625774080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978007553130082376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuhuayuling778 想要我30秒速通绝航教程吗 https://t.co/sy4067MLqN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443980853625774080",
+        "conversation_id": "1977993093208330469",
+        "created_at": "2025-10-14T07:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T08:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978007553130082376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978007553130082376",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977993093208330469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 主包能不能带我绝航肥肥撤离"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5779,
+          "following_count": 159,
+          "like_count": 281,
+          "listed_count": 7,
+          "media_count": 712,
+          "tweet_count": 4229
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-01T16:47:32.000Z",
+        "description": "02      INTJ",
+        "id": "1443980853625774080",
+        "location": "Hong Kong",
+        "name": "七彩牛牛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971974011979812865/oK8I9zb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "liuhuayuling778",
+        "verified": false
+      }
+    ]
+  }
+}

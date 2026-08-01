@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2059990999078973816",
+    "created_at": "2026-05-28T16:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060040304057778652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1584881828280029184",
+          "start": 0,
+          "username": "jiangmangmang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060040304057778652",
+    "in_reply_to_user_id": "1584881828280029184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059990999078973816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangmangmang 坏处呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2059990999078973816",
+        "created_at": "2026-05-28T16:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060040304057778652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1584881828280029184",
+              "start": 0,
+              "username": "jiangmangmang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060040304057778652",
+        "in_reply_to_user_id": "1584881828280029184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059990999078973816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangmangmang 坏处呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584881828280029184",
+        "conversation_id": "2059990999078973816",
+        "created_at": "2026-05-28T13:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059990999078973816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059990999078973816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5251,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看福算命，不准我吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2046785857198477733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19335,
+          "following_count": 155,
+          "like_count": 387,
+          "listed_count": 20,
+          "media_count": 1744,
+          "tweet_count": 6446
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-25T12:17:43.000Z",
+        "description": "一个普通的男的，分享一些喜欢的🔞视频，置顶推文是广告，注意辨别，视频均来自互联网，如有侵权私信联系删除，同款vpn: https://t.co/JfKKKOjVQz，\n粉丝群https://t.co/3O0uHUX7Je",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "j134.net/?code=pHHb",
+                "end": 82,
+                "expanded_url": "https://j134.net/?code=pHHb",
+                "start": 59,
+                "url": "https://t.co/JfKKKOjVQz"
+              },
+              {
+                "display_url": "t.me/jiangmangmang",
+                "end": 110,
+                "expanded_url": "https://t.me/jiangmangmang",
+                "start": 87,
+                "url": "https://t.co/3O0uHUX7Je"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/jiangmangmang",
+                "end": 23,
+                "expanded_url": "https://t.me/jiangmangmang",
+                "start": 0,
+                "url": "https://t.co/3O0uHUX7Je"
+              }
+            ]
+          }
+        },
+        "id": "1584881828280029184",
+        "name": "蒋茫茫",
+        "pinned_tweet_id": "2030575908655153507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776298761368772609/5lpEKhfm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162209,
+          "following_count": 61,
+          "like_count": 335,
+          "listed_count": 322,
+          "media_count": 472,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/3O0uHUX7Je",
+        "username": "jiangmangmang",
+        "verified": false
+      }
+    ]
+  }
+}

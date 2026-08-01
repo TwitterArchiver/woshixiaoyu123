@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2003828294630965698",
+    "created_at": "2025-12-24T16:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T17:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003863191240245450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1931319325920575488",
+          "start": 0,
+          "username": "ci_jiang57153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003863191240245450",
+    "in_reply_to_user_id": "1931319325920575488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003860433510564143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ci_jiang57153 太漂亮了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2003828294630965698",
+        "created_at": "2025-12-24T16:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T17:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003863191240245450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1931319325920575488",
+              "start": 0,
+              "username": "ci_jiang57153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003863191240245450",
+        "in_reply_to_user_id": "1931319325920575488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003860433510564143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_jiang57153 太漂亮了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931319325920575488",
+        "conversation_id": "2003828294630965698",
+        "created_at": "2025-12-24T16:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T17:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003860433510564143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003860433510564143",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003828294630965698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 为啥这条人那么多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17115,
+          "following_count": 167,
+          "like_count": 336,
+          "listed_count": 15,
+          "media_count": 1357,
+          "tweet_count": 5581
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-07T11:57:21.000Z",
+        "description": "https://t.co/vYwxFb88xr 我的匿名箱\n男喘",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/che_yu25936",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/che_yu25936",
+                "start": 0,
+                "url": "https://t.co/vYwxFb88xr"
+              }
+            ]
+          }
+        },
+        "id": "1931319325920575488",
+        "location": "上海",
+        "name": "江祠",
+        "pinned_tweet_id": "1986011801553867012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986011049670463488/bmMGfD-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 165,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "username": "ci_jiang57153",
+        "verified": false
+      }
+    ]
+  }
+}

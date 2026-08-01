@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2044105319585067264",
+    "created_at": "2026-04-22T18:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T19:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047020647377932475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1582921343456407552",
+          "start": 0,
+          "username": "Ttbcy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047020647377932475",
+    "in_reply_to_user_id": "1582921343456407552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044105319585067264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ttbcy1 好想你helphelp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1742,
+        "media_key": "3_2044105310722519040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4e8zEa8AAXuei.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2044105319585067264",
+        "created_at": "2026-04-22T18:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047020647377932475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1582921343456407552",
+              "start": 0,
+              "username": "Ttbcy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047020647377932475",
+        "in_reply_to_user_id": "1582921343456407552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044105319585067264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ttbcy1 好想你helphelp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044105310722519040"
+          ]
+        },
+        "author_id": "1582921343456407552",
+        "conversation_id": "2044105319585067264",
+        "created_at": "2026-04-14T17:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044105319585067264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExlnEIAZIA",
+              "end": 30,
+              "expanded_url": "https://x.com/Ttbcy1/status/2044105319585067264/photo/1",
+              "media_key": "3_2044105310722519040",
+              "start": 7,
+              "url": "https://t.co/ExlnEIAZIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044105319585067264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 20776,
+          "like_count": 543,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "悲傷逆流成河 https://t.co/ExlnEIAZIA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2038312886033084867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18802,
+          "following_count": 159,
+          "like_count": 367,
+          "listed_count": 17,
+          "media_count": 1727,
+          "tweet_count": 6337
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T02:27:22.000Z",
+        "description": "繩縛/清水/請保持距離/૮ต•̤ ༝ •̤ตა@Ttbcy2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "Ttbcy2"
+              }
+            ]
+          }
+        },
+        "id": "1582921343456407552",
+        "location": "Hong Kong",
+        "name": "随时准备紫砂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908386998198689795/rNLYgHCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60630,
+          "following_count": 29,
+          "like_count": 1377,
+          "listed_count": 162,
+          "media_count": 73,
+          "tweet_count": 554
+        },
+        "username": "Ttbcy1",
+        "verified": false
+      }
+    ]
+  }
+}

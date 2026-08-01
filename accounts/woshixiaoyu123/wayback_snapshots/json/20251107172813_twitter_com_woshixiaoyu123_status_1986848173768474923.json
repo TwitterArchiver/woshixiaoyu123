@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1986669531482497220",
+    "created_at": "2025-11-07T17:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T18:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986848173768474923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1959058125383987200",
+          "start": 0,
+          "username": "xiaoqibbqvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986848173768474923",
+    "in_reply_to_user_id": "1959058125383987200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986847765692051719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoqibbqvq 好！我会的⸝⸝&gt;  ̫ &lt;⸝⸝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1986669531482497220",
+        "created_at": "2025-11-07T17:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T18:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986848173768474923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1959058125383987200",
+              "start": 0,
+              "username": "xiaoqibbqvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986848173768474923",
+        "in_reply_to_user_id": "1959058125383987200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986847765692051719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqibbqvq 好！我会的⸝⸝&gt;  ̫ &lt;⸝⸝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959058125383987200",
+        "conversation_id": "1986669531482497220",
+        "created_at": "2025-11-07T17:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T18:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986847765692051719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986847765692051719",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986669531482497220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 宝宝注意自己身体啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你的少女心事我都懂",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14414,
+          "following_count": 151,
+          "like_count": 302,
+          "listed_count": 11,
+          "media_count": 828,
+          "tweet_count": 4689
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T01:00:44.000Z",
+        "description": "喜欢装高冷 有🚪！介意别问🥺                                   88/188/288",
+        "id": "1959058125383987200",
+        "name": "明天我又会成为谁的女友",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973472396943433731/pZaijPCN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 24,
+          "like_count": 1788,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 300
+        },
+        "username": "xiaoqibbqvq",
+        "verified": false
+      }
+    ]
+  }
+}

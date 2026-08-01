@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1990686163838119982",
+    "created_at": "2025-11-18T11:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T12:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990742419873341869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906245698594742272",
+          "start": 0,
+          "username": "SkyeAnAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990742419873341869",
+    "in_reply_to_user_id": "1906245698594742272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990717612204896266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SkyeAnAT 初中的时候喜欢玩 到现在两年没碰过了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1990686163838119982",
+        "created_at": "2025-11-18T11:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990742419873341869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906245698594742272",
+              "start": 0,
+              "username": "SkyeAnAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990742419873341869",
+        "in_reply_to_user_id": "1906245698594742272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990717612204896266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SkyeAnAT 初中的时候喜欢玩 到现在两年没碰过了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906245698594742272",
+        "conversation_id": "1990686163838119982",
+        "created_at": "2025-11-18T09:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990717612204896266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990717612204896266",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990705785845002510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 你也玩？我深海季入坑的 表演季毕业之后 九色鹿那里就没怎么玩了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "王者里面的金币怎么提现到微信和支付宝啊？",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16847,
+          "following_count": 166,
+          "like_count": 329,
+          "listed_count": 12,
+          "media_count": 1026,
+          "tweet_count": 5092
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T07:23:05.000Z",
+        "description": "当朋友圈随便发发",
+        "id": "1906245698594742272",
+        "name": "Skye",
+        "pinned_tweet_id": "1939359435685859745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942487438628143104/W02yxw7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 47,
+          "like_count": 3138,
+          "listed_count": 1,
+          "media_count": 353,
+          "tweet_count": 1310
+        },
+        "username": "SkyeAnAT",
+        "verified": false
+      }
+    ]
+  }
+}

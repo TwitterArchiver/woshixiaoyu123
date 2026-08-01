@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1976179284437028956",
+    "created_at": "2025-10-09T14:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T15:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976286822935466041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1899798141928357888",
+          "start": 0,
+          "username": "LuoyangBai9173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976286822935466041",
+    "in_reply_to_user_id": "1899798141928357888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976224405576614124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuoyangBai9173 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1976179284437028956",
+        "created_at": "2025-10-09T14:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T15:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976286822935466041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1899798141928357888",
+              "start": 0,
+              "username": "LuoyangBai9173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976286822935466041",
+        "in_reply_to_user_id": "1899798141928357888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976224405576614124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoyangBai9173 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899798141928357888",
+        "conversation_id": "1976179284437028956",
+        "created_at": "2025-10-09T09:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T10:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976224405576614124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976224405576614124",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976179284437028956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 老师，第一眼看成骑老爷爷过马路罚款28元还有救吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我一直在哭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4081,
+          "following_count": 161,
+          "like_count": 270,
+          "listed_count": 6,
+          "media_count": 662,
+          "tweet_count": 4003
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T12:23:00.000Z",
+        "description": "纯爱看些涩涩的东西，话痨，爱吐槽",
+        "id": "1899798141928357888",
+        "name": "白洛扬ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970789159083360256/m2Eq9obF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 72,
+          "like_count": 466,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 230
+        },
+        "username": "LuoyangBai9173",
+        "verified": false
+      }
+    ]
+  }
+}

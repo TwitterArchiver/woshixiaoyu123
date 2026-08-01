@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990045305925201920"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990044825299894335",
+    "created_at": "2025-11-16T13:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T14:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990045308362080288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1779854410740633601",
+          "start": 0,
+          "username": "mua7788520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VkeyZ6KgyG",
+          "end": 42,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1990045308362080288/photo/1",
+          "media_key": "3_1990045305925201920",
+          "start": 19,
+          "url": "https://t.co/VkeyZ6KgyG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990045308362080288",
+    "in_reply_to_user_id": "1779854410740633601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990045066937930158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mua7788520 我一直在哭！ https://t.co/VkeyZ6KgyG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_1990045305925201920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54PqXqa8AAlLAF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990045305925201920"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990044825299894335",
+        "created_at": "2025-11-16T13:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T14:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990045308362080288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1779854410740633601",
+              "start": 0,
+              "username": "mua7788520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VkeyZ6KgyG",
+              "end": 42,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1990045308362080288/photo/1",
+              "media_key": "3_1990045305925201920",
+              "start": 19,
+              "url": "https://t.co/VkeyZ6KgyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990045308362080288",
+        "in_reply_to_user_id": "1779854410740633601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990045066937930158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mua7788520 我一直在哭！ https://t.co/VkeyZ6KgyG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779854410740633601",
+        "conversation_id": "1990044825299894335",
+        "created_at": "2025-11-16T13:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T14:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990045066937930158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990045066937930158",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990044825299894335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 😂😂😂破产了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你对我的赞许是我最大的幸福",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16907,
+          "following_count": 165,
+          "like_count": 328,
+          "listed_count": 12,
+          "media_count": 1036,
+          "tweet_count": 5075
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T12:49:08.000Z",
+        "description": "让我占有你，占据你干净的心 温柔的声音 和完美柔软你的身体",
+        "id": "1779854410740633601",
+        "location": "🚪520/1314/3344/5200/8888",
+        "name": "幼の",
+        "pinned_tweet_id": "1989947942791479543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988954310932328448/hF15o9lV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26633,
+          "following_count": 16,
+          "like_count": 15555,
+          "listed_count": 58,
+          "media_count": 253,
+          "tweet_count": 4769
+        },
+        "username": "mua7788520",
+        "verified": false
+      }
+    ]
+  }
+}

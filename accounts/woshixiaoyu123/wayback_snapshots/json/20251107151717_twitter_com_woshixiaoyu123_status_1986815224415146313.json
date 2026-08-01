@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986815218371178496"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1986815224415146313",
+    "created_at": "2025-11-07T15:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T16:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986815224415146313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UpPuNe7cIP",
+          "end": 28,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1986815224415146313/photo/1",
+          "media_key": "3_1986815218371178496",
+          "start": 5,
+          "url": "https://t.co/UpPuNe7cIP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986815224415146313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要不要割 https://t.co/UpPuNe7cIP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 471,
+        "media_key": "3_1986815218371178496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KV6h1asAAH_iB.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986815218371178496"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1986815224415146313",
+        "created_at": "2025-11-07T15:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T16:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986815224415146313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UpPuNe7cIP",
+              "end": 28,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1986815224415146313/photo/1",
+              "media_key": "3_1986815218371178496",
+              "start": 5,
+              "url": "https://t.co/UpPuNe7cIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986815224415146313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要不要割 https://t.co/UpPuNe7cIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你的少女心事我都懂",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14328,
+          "following_count": 151,
+          "like_count": 302,
+          "listed_count": 11,
+          "media_count": 826,
+          "tweet_count": 4685
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

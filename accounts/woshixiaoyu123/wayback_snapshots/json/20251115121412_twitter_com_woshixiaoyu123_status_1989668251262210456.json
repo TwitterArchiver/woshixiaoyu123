@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989667237922574832",
+    "created_at": "2025-11-15T12:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T13:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989668251262210456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836291351123562496",
+          "start": 0,
+          "username": "gaiya320044"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989668251262210456",
+    "in_reply_to_user_id": "1836291351123562496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989667525211427190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaiya320044 没有哈哈哈那个号荣耀了 换了个号玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989667237922574832",
+        "created_at": "2025-11-15T12:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989668251262210456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836291351123562496",
+              "start": 0,
+              "username": "gaiya320044"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989668251262210456",
+        "in_reply_to_user_id": "1836291351123562496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989667525211427190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaiya320044 没有哈哈哈那个号荣耀了 换了个号玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836291351123562496",
+        "conversation_id": "1989667237922574832",
+        "created_at": "2025-11-15T12:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989667525211427190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989667525211427190",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989667237922574832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 昨天打回去的40星又掉下来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "12小时没回就是不接😔",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16887,
+          "following_count": 165,
+          "like_count": 325,
+          "listed_count": 12,
+          "media_count": 1024,
+          "tweet_count": 5054
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T06:29:20.000Z",
+        "description": "现在可以一直刷了因为给🪜充会员了\n冬天来了欲望不是一般的强啊，现在一天之内能🦌三次玛德",
+        "id": "1836291351123562496",
+        "name": "无敌麦当劳大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870762169417285632/OCTWQ_CD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 124,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 111
+        },
+        "username": "gaiya320044",
+        "verified": false
+      }
+    ]
+  }
+}

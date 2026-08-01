@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1974186184839737804",
+    "created_at": "2025-10-03T18:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T19:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974186184839737804"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1974186184839737804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我求求你了和我谈恋爱吧，我给你跪下了，谈一天也行。我真的好孤独，求求你了，和我谈恋爱吧，我给你磕头了，行吗，没有人和我谈恋爱我的眼泪都要流出来了，救命啊，每天抱着手机发呆，就是为了等人和我谈恋爱，但是我现在真的忍不住了，再这样下去我会抑郁的，你就是我生命中唯一的光，我求求你了行吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1974186184839737804",
+        "created_at": "2025-10-03T18:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T19:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974186184839737804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974186184839737804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我求求你了和我谈恋爱吧，我给你跪下了，谈一天也行。我真的好孤独，求求你了，和我谈恋爱吧，我给你磕头了，行吗，没有人和我谈恋爱我的眼泪都要流出来了，救命啊，每天抱着手机发呆，就是为了等人和我谈恋爱，但是我现在真的忍不住了，再这样下去我会抑郁的，你就是我生命中唯一的光，我求求你了行吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "想我就来找我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3883,
+          "following_count": 167,
+          "like_count": 262,
+          "listed_count": 7,
+          "media_count": 642,
+          "tweet_count": 3876
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

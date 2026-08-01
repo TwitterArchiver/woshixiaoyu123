@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978160391663525888"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1978159180339912839",
+    "created_at": "2025-10-14T18:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T19:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978160395530465722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1595424351876222976",
+          "start": 0,
+          "username": "chojdhuidn1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UZkrj03vwF",
+          "end": 47,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1978160395530465722/photo/1",
+          "media_key": "3_1978160391663525888",
+          "start": 24,
+          "url": "https://t.co/UZkrj03vwF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978160395530465722",
+    "in_reply_to_user_id": "1595424351876222976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978160104722866471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chojdhuidn1 看着我的眼睛再说一遍 https://t.co/UZkrj03vwF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_1978160391663525888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3PWZT3aIAAvcR9.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978160391663525888"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1978159180339912839",
+        "created_at": "2025-10-14T18:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T19:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978160395530465722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1595424351876222976",
+              "start": 0,
+              "username": "chojdhuidn1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZkrj03vwF",
+              "end": 47,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1978160395530465722/photo/1",
+              "media_key": "3_1978160391663525888",
+              "start": 24,
+              "url": "https://t.co/UZkrj03vwF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978160395530465722",
+        "in_reply_to_user_id": "1595424351876222976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978160104722866471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chojdhuidn1 看着我的眼睛再说一遍 https://t.co/UZkrj03vwF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595424351876222976",
+        "conversation_id": "1978159180339912839",
+        "created_at": "2025-10-14T18:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T19:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978160104722866471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978160104722866471",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978159180339912839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 摸摸，主播你是一个香香软软甜甜糯糯的宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6232,
+          "following_count": 160,
+          "like_count": 282,
+          "listed_count": 7,
+          "media_count": 712,
+          "tweet_count": 4256
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T14:29:49.000Z",
+        "description": "哥们就是来👀好康的，非常有素质且锲而不舍",
+        "id": "1595424351876222976",
+        "name": "让我来look一下",
+        "pinned_tweet_id": "1597647944445882368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976732612875239424/GRZfuyzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 289,
+          "like_count": 650,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 513
+        },
+        "username": "chojdhuidn1",
+        "verified": false
+      }
+    ]
+  }
+}

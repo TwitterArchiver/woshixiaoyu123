@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988830378904228148",
+    "created_at": "2025-11-13T04:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T05:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988830378904228148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HickeyRainrops…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/HickeyRainrops/status/1988810817391980590",
+          "start": 3,
+          "url": "https://t.co/3BZbz9zV60"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988830378904228148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988810817391980590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "避雷 https://t.co/3BZbz9zV60"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1988810789080428546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ms4CCacAI0bHi.jpg",
+        "width": 1771
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1988810789088862208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ms4CEbIAAnR7M.jpg",
+        "width": 1771
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1988810789063667712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ms4B-asAACJ3Q.jpg",
+        "width": 1771
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1988810789063688192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ms4B-bAAA9bOH.jpg",
+        "width": 1771
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988830378904228148",
+        "created_at": "2025-11-13T04:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988830378904228148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HickeyRainrops…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/HickeyRainrops/status/1988810817391980590",
+              "start": 3,
+              "url": "https://t.co/3BZbz9zV60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988830378904228148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988810817391980590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "避雷 https://t.co/3BZbz9zV60"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988810789080428546",
+            "3_1988810789088862208",
+            "3_1988810789063667712",
+            "3_1988810789063688192"
+          ]
+        },
+        "author_id": "1927403528240189440",
+        "conversation_id": "1988810817391980590",
+        "created_at": "2025-11-13T03:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988810817391980590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1886706166560124928",
+              "start": 5,
+              "username": "pornhub56789"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EBPDiQiJzU",
+              "end": 176,
+              "expanded_url": "https://x.com/HickeyRainrops/status/1988810817391980590/photo/1",
+              "media_key": "3_1988810789080428546",
+              "start": 153,
+              "url": "https://t.co/EBPDiQiJzU"
+            },
+            {
+              "display_url": "pic.x.com/EBPDiQiJzU",
+              "end": 176,
+              "expanded_url": "https://x.com/HickeyRainrops/status/1988810817391980590/photo/1",
+              "media_key": "3_1988810789088862208",
+              "start": 153,
+              "url": "https://t.co/EBPDiQiJzU"
+            },
+            {
+              "display_url": "pic.x.com/EBPDiQiJzU",
+              "end": 176,
+              "expanded_url": "https://x.com/HickeyRainrops/status/1988810817391980590/photo/1",
+              "media_key": "3_1988810789063667712",
+              "start": 153,
+              "url": "https://t.co/EBPDiQiJzU"
+            },
+            {
+              "display_url": "pic.x.com/EBPDiQiJzU",
+              "end": 176,
+              "expanded_url": "https://x.com/HickeyRainrops/status/1988810817391980590/photo/1",
+              "media_key": "3_1988810789063688192",
+              "start": 153,
+              "url": "https://t.co/EBPDiQiJzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988810817391980590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如图，避雷@pornhub56789 \n9.24付钱，10.3给图，一直到14号我换了图，但我换完后一直到今天，这位阿童木都没有回复我的私信。\n由于一直没有出图的迹象，所以我选择了提出退款，但也可以很清楚的看到并没有任何回应。\n我一直以为是没有上线，但是明明回了别人的帖子，为什么不回我呢？我的钱也是钱啊 https://t.co/EBPDiQiJzU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "接求助/找🚪/找陪玩｜纯交友/游戏搭子可以去评论区蹲蹲（有特殊条件可以来 o(╥﹏╥)o",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16261,
+          "following_count": 158,
+          "like_count": 311,
+          "listed_count": 12,
+          "media_count": 900,
+          "tweet_count": 4844
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T16:36:46.000Z",
+        "description": "你的痛苦我都添乱你休想解决",
+        "id": "1927403528240189440",
+        "name": "趣里嘟-u-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988804815267545088/7iiDGh5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 47,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "username": "HickeyRainrops",
+        "verified": false
+      }
+    ]
+  }
+}

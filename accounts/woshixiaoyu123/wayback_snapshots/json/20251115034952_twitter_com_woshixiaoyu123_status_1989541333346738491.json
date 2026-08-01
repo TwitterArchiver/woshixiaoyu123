@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1986029174340174085",
+    "created_at": "2025-11-15T03:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T04:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989541333346738491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884107462946742274",
+          "start": 0,
+          "username": "NEEDLM11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989541333346738491",
+    "in_reply_to_user_id": "1884107462946742274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986029174340174085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEEDLM11 我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986029162004635649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_LABraYAEDK87.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1986029174340174085",
+        "created_at": "2025-11-15T03:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989541333346738491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884107462946742274",
+              "start": 0,
+              "username": "NEEDLM11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989541333346738491",
+        "in_reply_to_user_id": "1884107462946742274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986029174340174085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEEDLM11 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986029162004635649"
+          ]
+        },
+        "author_id": "1884107462946742274",
+        "conversation_id": "1986029174340174085",
+        "created_at": "2025-11-05T11:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T12:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986029174340174085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDAiYdhibK",
+              "end": 25,
+              "expanded_url": "https://x.com/NEEDLM11/status/1986029174340174085/photo/1",
+              "media_key": "3_1986029162004635649",
+              "start": 2,
+              "url": "https://t.co/yDAiYdhibK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986029174340174085",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1067,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔕 https://t.co/yDAiYdhibK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "12小时没回就是不接😔",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16896,
+          "following_count": 165,
+          "like_count": 322,
+          "listed_count": 13,
+          "media_count": 994,
+          "tweet_count": 5011
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T05:13:32.000Z",
+        "description": "漂亮 善良 大方 专一 幽默 勇敢  乐观 话多 粘人的可爱女人| 只和正常人交流 | 碎碎念@1ONE1YI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "1ONE1YI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/needlm11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/needlm11",
+                "start": 0,
+                "url": "https://t.co/ndTnQZ2zS3"
+              }
+            ]
+          }
+        },
+        "id": "1884107462946742274",
+        "location": "匿名信箱📭",
+        "name": "九九七",
+        "pinned_tweet_id": "1973691620681027798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988622166343262208/rnpYkyVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2952,
+          "following_count": 22,
+          "like_count": 123,
+          "listed_count": 7,
+          "media_count": 35,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/ndTnQZ2zS3",
+        "username": "NEEDLM11",
+        "verified": false
+      }
+    ]
+  }
+}

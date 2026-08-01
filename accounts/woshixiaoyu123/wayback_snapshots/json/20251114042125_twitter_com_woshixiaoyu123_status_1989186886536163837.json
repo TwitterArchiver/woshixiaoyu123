@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988814296932053325",
+    "created_at": "2025-11-14T04:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T05:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989186886536163837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749848735436427265",
+          "start": 0,
+          "username": "Orangepeel98426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989186886536163837",
+    "in_reply_to_user_id": "1749848735436427265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988814296932053325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orangepeel98426 终于有人理解了...醋门😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988814296932053325",
+        "created_at": "2025-11-14T04:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989186886536163837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749848735436427265",
+              "start": 0,
+              "username": "Orangepeel98426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989186886536163837",
+        "in_reply_to_user_id": "1749848735436427265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988814296932053325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orangepeel98426 终于有人理解了...醋门😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749848735436427265",
+        "conversation_id": "1988814296932053325",
+        "created_at": "2025-11-13T03:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988814296932053325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988814296932053325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4942,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吃很多东西都会放致死量的醋，包括鸡蛋羹。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "祝你幸福///不接交友",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16746,
+          "following_count": 160,
+          "like_count": 314,
+          "listed_count": 11,
+          "media_count": 949,
+          "tweet_count": 4926
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T17:37:16.000Z",
+        "description": "一直在乱说话。一直在发照片。谢谢大家的喜欢^_^",
+        "id": "1749848735436427265",
+        "location": "大西洋中脊裂谷",
+        "name": "脆脆海苔橙子皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986370037511225344/XonbP0Yh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5262,
+          "following_count": 463,
+          "like_count": 171227,
+          "listed_count": 26,
+          "media_count": 64,
+          "tweet_count": 21136
+        },
+        "username": "Orangepeel98426",
+        "verified": false
+      }
+    ]
+  }
+}

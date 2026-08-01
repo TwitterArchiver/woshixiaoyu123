@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977991703345942740",
+    "created_at": "2025-10-14T08:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T09:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978015688808677639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1126891445439254528",
+          "start": 0,
+          "username": "Ginnnovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978015688808677639",
+    "in_reply_to_user_id": "1126891445439254528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977997415983775931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ginnnovo 那好吧 你可以插队"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977991703345942740",
+        "created_at": "2025-10-14T08:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978015688808677639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1126891445439254528",
+              "start": 0,
+              "username": "Ginnnovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978015688808677639",
+        "in_reply_to_user_id": "1126891445439254528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977997415983775931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ginnnovo 那好吧 你可以插队"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1126891445439254528",
+        "conversation_id": "1977991703345942740",
+        "created_at": "2025-10-14T07:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T08:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977997415983775931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977997415983775931",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977991703345942740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 我求你了宝宝。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5779,
+          "following_count": 159,
+          "like_count": 281,
+          "listed_count": 7,
+          "media_count": 712,
+          "tweet_count": 4231
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-10T16:47:12.000Z",
+        "description": "离异二娃妈，上网只是娱乐，勿扰",
+        "id": "1126891445439254528",
+        "name": "薄荷奶绿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955773488192741379/Xp_rolEk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 95,
+          "like_count": 854,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 935
+        },
+        "username": "Ginnnovo",
+        "verified": false
+      }
+    ]
+  }
+}

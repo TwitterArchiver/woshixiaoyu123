@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1983850201795457090",
+    "created_at": "2025-10-30T13:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T14:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983890659892404493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1680699006002020352",
+          "start": 0,
+          "username": "gvy_f70098"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983890659892404493",
+    "in_reply_to_user_id": "1680699006002020352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983883577311031335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gvy_f70098 带我。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 664,
+        "media_key": "3_1983883568880480260",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4grmEba8AQaPjN.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1983850201795457090",
+        "created_at": "2025-10-30T13:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983890659892404493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1680699006002020352",
+              "start": 0,
+              "username": "gvy_f70098"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983890659892404493",
+        "in_reply_to_user_id": "1680699006002020352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983883577311031335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gvy_f70098 带我。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983883568880480260"
+          ]
+        },
+        "author_id": "1680699006002020352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983850201795457090",
+        "created_at": "2025-10-30T13:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983883577311031335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7DGNPyvvQj",
+              "end": 46,
+              "expanded_url": "https://x.com/gvy_f70098/status/1983883577311031335/photo/1",
+              "media_key": "3_1983883568880480260",
+              "start": 23,
+              "url": "https://t.co/7DGNPyvvQj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983883577311031335",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983850201795457090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 这种什么实力 https://t.co/7DGNPyvvQj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10900,
+          "following_count": 149,
+          "like_count": 288,
+          "listed_count": 11,
+          "media_count": 759,
+          "tweet_count": 4492
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T22:00:53.000Z",
+        "description": "",
+        "id": "1680699006002020352",
+        "name": "f gvy gv ju h",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 19,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "gvy_f70098",
+        "verified": false
+      }
+    ]
+  }
+}

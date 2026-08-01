@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1990701923528552626",
+    "created_at": "2025-11-18T11:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T12:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990741460010909767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907051158751023104",
+          "start": 0,
+          "username": "YvqkUieQPi45554"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990741460010909767",
+    "in_reply_to_user_id": "1907051158751023104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990701923528552626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YvqkUieQPi45554 带派"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990701915362168832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Bk2EbaEAA9cpC.jpg",
+        "width": 1612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1990701923528552626",
+        "created_at": "2025-11-18T11:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990741460010909767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907051158751023104",
+              "start": 0,
+              "username": "YvqkUieQPi45554"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990741460010909767",
+        "in_reply_to_user_id": "1907051158751023104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990701923528552626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YvqkUieQPi45554 带派"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990701915362168832"
+          ]
+        },
+        "author_id": "1907051158751023104",
+        "conversation_id": "1990701923528552626",
+        "created_at": "2025-11-18T08:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990701923528552626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RILrhYxag3",
+              "end": 53,
+              "expanded_url": "https://x.com/YvqkUieQPi45554/status/1990701923528552626/photo/1",
+              "media_key": "3_1990701915362168832",
+              "start": 30,
+              "url": "https://t.co/RILrhYxag3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990701923528552626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 540,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天去水果店买水果 他们说没有会跳的香蕉 所以姐姐你家有吗 https://t.co/RILrhYxag3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "王者里面的金币怎么提现到微信和支付宝啊？",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16847,
+          "following_count": 166,
+          "like_count": 329,
+          "listed_count": 12,
+          "media_count": 1025,
+          "tweet_count": 5086
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T12:43:32.000Z",
+        "description": "我希望活到老做到老 🚪88/188/520/1314 ❗️推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "velcel.yycloud.tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://velcel.yycloud.tz86.vip/#/register?code=mLAisl1a",
+                "start": 0,
+                "url": "https://t.co/qKXtx7wOG2"
+              }
+            ]
+          }
+        },
+        "id": "1907051158751023104",
+        "location": "29元包年千G流量VPN👉🏻",
+        "name": "西门庆坐拖拉机看武大郎洗澡",
+        "pinned_tweet_id": "1989275745685025094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955361995068510208/UO09jzM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3539,
+          "following_count": 191,
+          "like_count": 571,
+          "listed_count": 5,
+          "media_count": 19,
+          "tweet_count": 634
+        },
+        "url": "https://t.co/qKXtx7wOG2",
+        "username": "YvqkUieQPi45554",
+        "verified": false
+      }
+    ]
+  }
+}

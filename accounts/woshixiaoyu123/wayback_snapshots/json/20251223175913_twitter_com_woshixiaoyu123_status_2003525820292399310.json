@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2003311441097687433",
+    "created_at": "2025-12-23T17:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T18:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003525820292399310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1274453862330494977",
+          "start": 0,
+          "username": "Betrayao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003525820292399310",
+    "in_reply_to_user_id": "1274453862330494977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003449704630354379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Betrayao 昨天梯子卡了 私信看了几个就刷不出来了，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2003311441097687433",
+        "created_at": "2025-12-23T17:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T18:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003525820292399310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1274453862330494977",
+              "start": 0,
+              "username": "Betrayao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003525820292399310",
+        "in_reply_to_user_id": "1274453862330494977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003449704630354379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Betrayao 昨天梯子卡了 私信看了几个就刷不出来了，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1274453862330494977",
+        "conversation_id": "2003311441097687433",
+        "created_at": "2025-12-23T12:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T13:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003449704630354379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003449704630354379",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003311441097687433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 咪老师没啥不理我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16918,
+          "following_count": 166,
+          "like_count": 336,
+          "listed_count": 14,
+          "media_count": 1317,
+          "tweet_count": 5537
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-20T21:27:46.000Z",
+        "description": "一起玩好朋友找我 ovo",
+        "id": "1274453862330494977",
+        "name": "，",
+        "pinned_tweet_id": "1509251893104881664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003461594165243904/qNdZK_EZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 3889,
+          "like_count": 3006,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 1058
+        },
+        "username": "Betrayao",
+        "verified": false
+      }
+    ]
+  }
+}

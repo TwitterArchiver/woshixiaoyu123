@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983971911832154112"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1983971914273190324",
+    "created_at": "2025-10-30T18:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T19:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983971914273190324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OES1EGjBzW",
+          "end": 40,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1983971914273190324/photo/1",
+          "media_key": "3_1983971911832154112",
+          "start": 17,
+          "url": "https://t.co/OES1EGjBzW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983971914273190324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "话说私信怎么变得全是问答了... https://t.co/OES1EGjBzW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_1983971911832154112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4h78TkbsAAe4_m.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983971911832154112"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1983971914273190324",
+        "created_at": "2025-10-30T18:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T19:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983971914273190324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OES1EGjBzW",
+              "end": 40,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1983971914273190324/photo/1",
+              "media_key": "3_1983971911832154112",
+              "start": 17,
+              "url": "https://t.co/OES1EGjBzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983971914273190324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说私信怎么变得全是问答了... https://t.co/OES1EGjBzW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 55,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 32,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11908,
+          "following_count": 149,
+          "like_count": 288,
+          "listed_count": 10,
+          "media_count": 768,
+          "tweet_count": 4513
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1974520597553279414",
+    "created_at": "2025-10-05T05:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T06:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974706455313019097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1576125310994731008",
+          "start": 0,
+          "username": "dianbeinaic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974706455313019097",
+    "in_reply_to_user_id": "1576125310994731008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974689260881252506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dianbeinaic 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1974520597553279414",
+        "created_at": "2025-10-05T05:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T06:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974706455313019097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1576125310994731008",
+              "start": 0,
+              "username": "dianbeinaic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974706455313019097",
+        "in_reply_to_user_id": "1576125310994731008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974689260881252506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dianbeinaic 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576125310994731008",
+        "conversation_id": "1974520597553279414",
+        "created_at": "2025-10-05T04:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T05:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974689260881252506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974689260881252506",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974520597553279414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 好像是情头吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "纯爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3886,
+          "following_count": 163,
+          "like_count": 265,
+          "listed_count": 7,
+          "media_count": 649,
+          "tweet_count": 3923
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T08:22:37.000Z",
+        "description": "鱼鱼or大王｜intp♐｜声控｜新手s｜4i不互｜卡颜｜贪财好色纯馋｜偶尔写文｜废话连篇",
+        "id": "1576125310994731008",
+        "location": "幽兰拿铁",
+        "name": "咸鱼大王",
+        "pinned_tweet_id": "1959709161291423749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974530542415622144/jEnfA5OX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 111,
+          "like_count": 1800,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 489
+        },
+        "username": "dianbeinaic",
+        "verified": false
+      }
+    ]
+  }
+}

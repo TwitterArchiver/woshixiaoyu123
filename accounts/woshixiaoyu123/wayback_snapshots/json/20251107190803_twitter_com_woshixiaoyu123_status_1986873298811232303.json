@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1986783082834464983",
+    "created_at": "2025-11-07T19:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T20:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986873298811232303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1736032220568244224",
+          "start": 0,
+          "username": "dhjdfg134142"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986873298811232303",
+    "in_reply_to_user_id": "1736032220568244224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986855144768860550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dhjdfg134142 什么。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1986783082834464983",
+        "created_at": "2025-11-07T19:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T20:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986873298811232303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1736032220568244224",
+              "start": 0,
+              "username": "dhjdfg134142"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986873298811232303",
+        "in_reply_to_user_id": "1736032220568244224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986855144768860550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dhjdfg134142 什么。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736032220568244224",
+        "conversation_id": "1986783082834464983",
+        "created_at": "2025-11-07T17:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T18:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986855144768860550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986855144768860550",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986783082834464983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 兄弟，我有一把满改只需6万的枪，你想不想要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你的少女心事我都懂",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14479,
+          "following_count": 151,
+          "like_count": 302,
+          "listed_count": 11,
+          "media_count": 828,
+          "tweet_count": 4690
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T14:35:44.000Z",
+        "description": "人生好梦，尽逐春风",
+        "id": "1736032220568244224",
+        "name": "小念",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736039141811585024/ph9l2TQS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 319,
+          "like_count": 265,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 355
+        },
+        "username": "dhjdfg134142",
+        "verified": false
+      }
+    ]
+  }
+}

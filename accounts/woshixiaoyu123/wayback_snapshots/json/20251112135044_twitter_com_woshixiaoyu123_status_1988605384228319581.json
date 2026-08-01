@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988557057377615969",
+    "created_at": "2025-11-12T13:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T14:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988605384228319581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1651118887684161537",
+          "start": 0,
+          "username": "04ranyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988605384228319581",
+    "in_reply_to_user_id": "1651118887684161537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988589590408745009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04ranyo 那些一堆转帖的是机器人 其他应该不是（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988557057377615969",
+        "created_at": "2025-11-12T13:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988605384228319581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1651118887684161537",
+              "start": 0,
+              "username": "04ranyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988605384228319581",
+        "in_reply_to_user_id": "1651118887684161537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988589590408745009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04ranyo 那些一堆转帖的是机器人 其他应该不是（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651118887684161537",
+        "conversation_id": "1988557057377615969",
+        "created_at": "2025-11-12T12:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988589590408745009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988589590408745009",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988557057377615969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 评论区🌚咋感觉全机器人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你的心事我都懂=^ω^=",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15961,
+          "following_count": 159,
+          "like_count": 308,
+          "listed_count": 11,
+          "media_count": 882,
+          "tweet_count": 4813
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T07:00:06.000Z",
+        "description": "泽",
+        "id": "1651118887684161537",
+        "name": "19.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738997889882279936/anNg5bJQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 229,
+          "like_count": 3953,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 42
+        },
+        "username": "04ranyo",
+        "verified": false
+      }
+    ]
+  }
+}

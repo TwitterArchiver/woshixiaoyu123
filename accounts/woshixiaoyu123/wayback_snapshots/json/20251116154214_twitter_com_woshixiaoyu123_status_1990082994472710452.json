@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990082991260102657"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1990082994472710452",
+    "created_at": "2025-11-16T15:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T16:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990082994472710452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wFlOw5lSTV",
+          "end": 26,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1990082994472710452/photo/1",
+          "media_key": "3_1990082991260102657",
+          "start": 3,
+          "url": "https://t.co/wFlOw5lSTV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990082994472710452",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "追竞 https://t.co/wFlOw5lSTV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_1990082991260102657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54x78ea8AEEzQm.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990082991260102657"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1990082994472710452",
+        "created_at": "2025-11-16T15:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990082994472710452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFlOw5lSTV",
+              "end": 26,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1990082994472710452/photo/1",
+              "media_key": "3_1990082991260102657",
+              "start": 3,
+              "url": "https://t.co/wFlOw5lSTV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990082994472710452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "追竞 https://t.co/wFlOw5lSTV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你对我的赞许是我最大的幸福",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16913,
+          "following_count": 165,
+          "like_count": 328,
+          "listed_count": 12,
+          "media_count": 1038,
+          "tweet_count": 5077
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

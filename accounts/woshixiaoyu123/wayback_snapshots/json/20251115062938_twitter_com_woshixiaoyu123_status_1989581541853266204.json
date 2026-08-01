@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989581526951137280"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1989581541853266204",
+    "created_at": "2025-11-15T06:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T07:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989581541853266204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5j4EqWYyMi",
+          "end": 95,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989581541853266204/photo/1",
+          "media_key": "3_1989581526951137280",
+          "start": 72,
+          "url": "https://t.co/5j4EqWYyMi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989581541853266204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于舍得出门了\n买了一堆吃的 买路边摊的时候还吃了个瓜 说什么有人喝多打架把警察叫来了...\n话说北方冬天穿裙子好难 厚白里面套厚黑 冷的要死 https://t.co/5j4EqWYyMi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989581526951137280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xp24WaEAA0vV9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989581526951137280"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1989581541853266204",
+        "created_at": "2025-11-15T06:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T07:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989581541853266204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5j4EqWYyMi",
+              "end": 95,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989581541853266204/photo/1",
+              "media_key": "3_1989581526951137280",
+              "start": 72,
+              "url": "https://t.co/5j4EqWYyMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989581541853266204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于舍得出门了\n买了一堆吃的 买路边摊的时候还吃了个瓜 说什么有人喝多打架把警察叫来了...\n话说北方冬天穿裙子好难 厚白里面套厚黑 冷的要死 https://t.co/5j4EqWYyMi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "12小时没回就是不接😔",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16888,
+          "following_count": 165,
+          "like_count": 325,
+          "listed_count": 13,
+          "media_count": 1002,
+          "tweet_count": 5024
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1994851063661490648",
+    "created_at": "2025-11-30T03:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T04:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994975455133536315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1597225730227982336",
+          "start": 0,
+          "username": "lfwn5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994975455133536315",
+    "in_reply_to_user_id": "1597225730227982336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994851063661490648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lfwn5 我睡醒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1994851063661490648",
+        "created_at": "2025-11-30T03:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994975455133536315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1597225730227982336",
+              "start": 0,
+              "username": "lfwn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994975455133536315",
+        "in_reply_to_user_id": "1597225730227982336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994851063661490648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lfwn5 我睡醒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597225730227982336",
+        "conversation_id": "1994851063661490648",
+        "created_at": "2025-11-29T19:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T20:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994851063661490648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994851063661490648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽完了家人们 除了一个后台私信没开的我都挨个私信了^_^ 以后应该还会有的^_^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "找我玩",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1983224068137750535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16259,
+          "following_count": 170,
+          "like_count": 334,
+          "listed_count": 12,
+          "media_count": 1104,
+          "tweet_count": 5220
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T13:48:41.000Z",
+        "description": "Seize me",
+        "id": "1597225730227982336",
+        "location": "United Kingdom",
+        "name": "一板一眼就会滋生弱点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743447990935887872/_Pz_rUXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 11,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 39
+        },
+        "username": "lfwn5",
+        "verified": false
+      }
+    ]
+  }
+}

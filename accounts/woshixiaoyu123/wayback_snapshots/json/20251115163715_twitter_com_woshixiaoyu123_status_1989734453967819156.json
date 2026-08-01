@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1989734432874651648"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989734453967819156",
+    "created_at": "2025-11-15T16:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T17:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989734453967819156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CRjOtUDnqR",
+          "end": 28,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989734453967819156/video/1",
+          "media_key": "7_1989734432874651648",
+          "start": 5,
+          "url": "https://t.co/CRjOtUDnqR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989734453967819156",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "踩奶🐱🐱 https://t.co/CRjOtUDnqR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11402,
+        "height": 1278,
+        "media_key": "7_1989734432874651648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1989734432874651648/pu/img/DUtmCJIa6AfjnKub.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989734432874651648/pu/vid/avc1/320x702/-urZz-aqqUL08Zoz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989734432874651648/pu/vid/avc1/480x1054/-rEDmJA_vMFkqBHP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989734432874651648/pu/vid/avc1/582x1278/RaQmPINa7T7N9aSo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1989734432874651648/pu/pl/QDT93EOIsmRfHwU6.m3u8?tag=12"
+          }
+        ],
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1989734432874651648"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989734453967819156",
+        "created_at": "2025-11-15T16:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T17:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989734453967819156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CRjOtUDnqR",
+              "end": 28,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989734453967819156/video/1",
+              "media_key": "7_1989734432874651648",
+              "start": 5,
+              "url": "https://t.co/CRjOtUDnqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989734453967819156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "踩奶🐱🐱 https://t.co/CRjOtUDnqR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "12小时没回就是不接😔｜不接找🚪哥///",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16906,
+          "following_count": 165,
+          "like_count": 324,
+          "listed_count": 12,
+          "media_count": 1024,
+          "tweet_count": 5057
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

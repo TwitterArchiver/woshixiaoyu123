@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1979909323825553770",
+    "created_at": "2025-10-20T13:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T14:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980264722999247306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1671458051889479681",
+          "start": 0,
+          "username": "CuiDewen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980264722999247306",
+    "in_reply_to_user_id": "1671458051889479681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980260288244129961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuiDewen 你咋这么坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1979909323825553770",
+        "created_at": "2025-10-20T13:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980264722999247306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1671458051889479681",
+              "start": 0,
+              "username": "CuiDewen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980264722999247306",
+        "in_reply_to_user_id": "1671458051889479681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980260288244129961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuiDewen 你咋这么坏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671458051889479681",
+        "conversation_id": "1979909323825553770",
+        "created_at": "2025-10-20T13:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980260288244129961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980260288244129961",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979909323825553770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 想顺着网线给你一耳刮子😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8236,
+          "following_count": 162,
+          "like_count": 289,
+          "listed_count": 10,
+          "media_count": 731,
+          "tweet_count": 4358
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-21T10:01:01.000Z",
+        "description": "孤独的灵魂",
+        "id": "1671458051889479681",
+        "location": "青岛",
+        "name": "咕咕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977491632531587072/78iSscnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 43,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "CuiDewen",
+        "verified": false
+      }
+    ]
+  }
+}

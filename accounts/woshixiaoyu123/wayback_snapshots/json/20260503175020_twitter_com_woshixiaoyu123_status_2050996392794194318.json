@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2050996392794194318",
+    "created_at": "2026-05-03T17:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T18:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050996392794194318"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050996392794194318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真正喜欢一个人的时候恰恰会更容易看到对方的不容易，会共情会心疼也会为对方鸣不平\n所以有好事降临到对方身上你会认为这是ta应得的，而不会觉得ta凭什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2050996392794194318",
+        "created_at": "2026-05-03T17:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T18:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050996392794194318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050996392794194318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真正喜欢一个人的时候恰恰会更容易看到对方的不容易，会共情会心疼也会为对方鸣不平\n所以有好事降临到对方身上你会认为这是ta应得的，而不会觉得ta凭什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2046785857198477733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19203,
+          "following_count": 157,
+          "like_count": 371,
+          "listed_count": 19,
+          "media_count": 1727,
+          "tweet_count": 6369
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989036041597308929"
+      ],
+      "media_source_tweet_id": [
+        "1989036044122222902"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989047543834230995",
+    "created_at": "2025-11-13T19:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T20:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989047543834230995"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "三杯瑞瑞",
+          "probability": 0.3586,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1892595590527377408",
+          "start": 3,
+          "username": "woshixiaoyu123"
+        },
+        {
+          "end": 37,
+          "id": "1531310260065271808",
+          "start": 27,
+          "username": "MissJuang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WVJbbmyEUS",
+          "end": 61,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989036044122222902/photo/1",
+          "media_key": "3_1989036041597308929",
+          "start": 38,
+          "url": "https://t.co/WVJbbmyEUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989047543834230995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989036044122222902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woshixiaoyu123: 抽三杯瑞瑞\n\n@MissJuang https://t.co/WVJbbmyEUS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989047543834230995].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989047543834230995",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989047543834230995"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_1989036041597308929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5p5vdDbUAE62cb.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989036041597308929"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989036044122222902",
+        "created_at": "2025-11-13T18:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T19:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989036044122222902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1531310260065271808",
+              "start": 7,
+              "username": "MissJuang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVJbbmyEUS",
+              "end": 41,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989036044122222902/photo/1",
+              "media_key": "3_1989036041597308929",
+              "start": 18,
+              "url": "https://t.co/WVJbbmyEUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989036044122222902",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1298,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抽三杯瑞瑞\n\n@MissJuang https://t.co/WVJbbmyEUS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "祝你幸福｜交友请告诉我是否匿名˃ㅅ˂ 不匿会艾特 不说默认不匿了｜不收费..硬要打赏我还是会笑纳的ovo",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16637,
+          "following_count": 160,
+          "like_count": 313,
+          "listed_count": 11,
+          "media_count": 942,
+          "tweet_count": 4911
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T16:23:18.000Z",
+        "description": "swi/少御音/瓦洲，欢迎和我聊天连麦玩游戏",
+        "id": "1531310260065271808",
+        "name": "Miss.Juang",
+        "pinned_tweet_id": "1987963701979472031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987582521748627456/r0QcXl30_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 21,
+          "like_count": 2,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 13
+        },
+        "username": "MissJuang",
+        "verified": false
+      }
+    ]
+  }
+}

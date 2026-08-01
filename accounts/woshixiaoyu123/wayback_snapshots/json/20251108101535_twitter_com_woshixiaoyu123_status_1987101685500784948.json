@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987101681902100482"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1987101685500784948",
+    "created_at": "2025-11-08T10:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T11:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987101685500784948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zOmWMofVPS",
+          "end": 36,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1987101685500784948/photo/1",
+          "media_key": "3_1987101681902100482",
+          "start": 13,
+          "url": "https://t.co/zOmWMofVPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987101685500784948",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小兵包里出金卡 我知足了 https://t.co/zOmWMofVPS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_1987101681902100482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Oac5pbIAI28vN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987101681902100482"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987101685500784948",
+        "created_at": "2025-11-08T10:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987101685500784948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zOmWMofVPS",
+              "end": 36,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1987101685500784948/photo/1",
+              "media_key": "3_1987101681902100482",
+              "start": 13,
+              "url": "https://t.co/zOmWMofVPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987101685500784948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小兵包里出金卡 我知足了 https://t.co/zOmWMofVPS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你的少女心事我都懂",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14604,
+          "following_count": 152,
+          "like_count": 305,
+          "listed_count": 11,
+          "media_count": 836,
+          "tweet_count": 4706
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

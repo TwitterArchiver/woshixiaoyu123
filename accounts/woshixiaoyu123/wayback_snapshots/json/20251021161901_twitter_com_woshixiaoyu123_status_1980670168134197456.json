@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1980669886277079449",
+    "created_at": "2025-10-21T16:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T17:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980670168134197456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1513753182182133762",
+          "start": 0,
+          "username": "wysgdmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980670168134197456",
+    "in_reply_to_user_id": "1513753182182133762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980669886277079449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wysgdmn 好讨厌冬天::&gt;_&lt;::"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1980669886277079449",
+        "created_at": "2025-10-21T16:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T17:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980670168134197456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1513753182182133762",
+              "start": 0,
+              "username": "wysgdmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980670168134197456",
+        "in_reply_to_user_id": "1513753182182133762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980669886277079449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wysgdmn 好讨厌冬天::&gt;_&lt;::"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513753182182133762",
+        "conversation_id": "1980669886277079449",
+        "created_at": "2025-10-21T16:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T17:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980669886277079449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980669886277079449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太冷了，好讨厌冬天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的你｜不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8429,
+          "following_count": 161,
+          "like_count": 289,
+          "listed_count": 9,
+          "media_count": 731,
+          "tweet_count": 4382
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T05:42:34.000Z",
+        "description": "不接骗人推广！从未做过中介！！\n天然奶，没做过更不推荐任何粉嫩手术！\n装b大号: @9_jfm 【🚪1314  仅为加vx不抵扣后续费用   全国可✈️过门问价，门槛不退请谨慎考虑】‖\n🍑店铺：doi用品🔍:   丸趣WannaPlay  ‖倒膜：黑科技工程机（进店搜丸崽）‖不卖视频图包，不玩其他软件，不要被骗！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 41,
+                "username": "9_jfm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wannaplay.taobao.com",
+                "end": 23,
+                "expanded_url": "https://wannaplay.taobao.com/",
+                "start": 0,
+                "url": "https://t.co/ItFzepNc5M"
+              }
+            ]
+          }
+        },
+        "id": "1513753182182133762",
+        "location": "淘宝店：丸趣WannaPlay",
+        "name": "狼",
+        "pinned_tweet_id": "1948398650779963518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916534128687906816/4vD55ziP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526854,
+          "following_count": 1,
+          "like_count": 999,
+          "listed_count": 749,
+          "media_count": 1305,
+          "tweet_count": 4623
+        },
+        "url": "https://t.co/ItFzepNc5M",
+        "username": "wysgdmn",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

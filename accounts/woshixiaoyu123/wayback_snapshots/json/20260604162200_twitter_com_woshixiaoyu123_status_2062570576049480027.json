@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2062341743102804204",
+    "created_at": "2026-06-04T16:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062570576049480027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055498819568062464",
+          "start": 0,
+          "username": "2dX6Olntmy34788"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062570576049480027",
+    "in_reply_to_user_id": "2055498819568062464",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062341743102804204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2dX6Olntmy34788 🥺，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2062341743102804204",
+        "created_at": "2026-06-04T16:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062570576049480027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055498819568062464",
+              "start": 0,
+              "username": "2dX6Olntmy34788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062570576049480027",
+        "in_reply_to_user_id": "2055498819568062464",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062341743102804204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2dX6Olntmy34788 🥺，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055498819568062464",
+        "conversation_id": "2062341743102804204",
+        "created_at": "2026-06-04T01:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062341743102804204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062341743102804204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 13964,
+          "like_count": 286,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我很喜欢看下位者道歉，我知道你没做错任何事，你也知道我没有生气，单纯就是为了取乐，为了戏耍，为了看你出糗，会经常性找茬，在日常生活中就地取材，然后看小狗红着脸蛋颤抖着赔礼道歉，想尽办法来取悦讨好，求我原谅，这时候就可以顺势提一些恶劣黑心的羞耻要求，我喜欢这种心照不宣的默契。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19316,
+          "following_count": 157,
+          "like_count": 395,
+          "listed_count": 20,
+          "media_count": 1748,
+          "tweet_count": 6479
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T04:01:31.000Z",
+        "description": "真实大于完美",
+        "id": "2055498819568062464",
+        "name": "默",
+        "pinned_tweet_id": "2060614208258179157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057006840186347520/iUt4TPZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 27,
+          "like_count": 117,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 85
+        },
+        "username": "2dX6Olntmy34788",
+        "verified": false
+      }
+    ]
+  }
+}

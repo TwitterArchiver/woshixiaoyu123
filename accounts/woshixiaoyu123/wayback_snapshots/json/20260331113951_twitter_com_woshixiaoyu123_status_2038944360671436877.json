@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2038944360671436877",
+    "created_at": "2026-03-31T11:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038944360671436877"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038944360671436877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家不要去张口要什么，对方都清楚出的知道你想要爱 想要陪伴 想要安全感 想要礼物还是什么，你没得到只是对方不为了你去做而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2038944360671436877",
+        "created_at": "2026-03-31T11:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038944360671436877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038944360671436877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家不要去张口要什么，对方都清楚出的知道你想要爱 想要陪伴 想要安全感 想要礼物还是什么，你没得到只是对方不为了你去做而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2038312886033084867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19204,
+          "following_count": 158,
+          "like_count": 368,
+          "listed_count": 19,
+          "media_count": 1720,
+          "tweet_count": 6260
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989172001978871988",
+    "created_at": "2025-11-14T04:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T05:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989185302616068282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1772516180554915840",
+          "start": 0,
+          "username": "LiuWu754"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989185302616068282",
+    "in_reply_to_user_id": "1772516180554915840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989182998693179651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuWu754 嘴一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989172001978871988",
+        "created_at": "2025-11-14T04:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989185302616068282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1772516180554915840",
+              "start": 0,
+              "username": "LiuWu754"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989185302616068282",
+        "in_reply_to_user_id": "1772516180554915840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989182998693179651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuWu754 嘴一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772516180554915840",
+        "conversation_id": "1989172001978871988",
+        "created_at": "2025-11-14T04:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989182998693179651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989182998693179651",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989172001978871988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 都喜欢该怎么选"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "祝你幸福///不接交友",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16741,
+          "following_count": 160,
+          "like_count": 314,
+          "listed_count": 11,
+          "media_count": 948,
+          "tweet_count": 4923
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T06:49:36.000Z",
+        "description": "不约  别问我哪里的  别问我多大  喜欢有礼貌的",
+        "id": "1772516180554915840",
+        "location": "6.8km",
+        "name": "LW",
+        "pinned_tweet_id": "1969767866330472938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988122651655905280/I88iV_TQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 87,
+          "like_count": 474,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 148
+        },
+        "username": "LiuWu754",
+        "verified": false
+      }
+    ]
+  }
+}

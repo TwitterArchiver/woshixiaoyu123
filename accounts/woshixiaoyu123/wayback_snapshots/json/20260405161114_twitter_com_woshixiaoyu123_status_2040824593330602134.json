@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2040824593330602134",
+    "created_at": "2026-04-05T16:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040824593330602134"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040824593330602134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在感情里我们通常把爱看的太重，排在第一名，实际上我们都忽略了在任何关系里自己的开心自己的幸福感受才应该是最重要的 ​​​。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2040824593330602134",
+        "created_at": "2026-04-05T16:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040824593330602134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040824593330602134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在感情里我们通常把爱看的太重，排在第一名，实际上我们都忽略了在任何关系里自己的开心自己的幸福感受才应该是最重要的 ​​​。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2038312886033084867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19082,
+          "following_count": 160,
+          "like_count": 371,
+          "listed_count": 19,
+          "media_count": 1720,
+          "tweet_count": 6291
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

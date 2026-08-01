@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977642491416567842",
+    "created_at": "2025-10-14T03:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T04:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977944664964829625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1882368462305325056",
+          "start": 0,
+          "username": "wKlNu6ZXAU85520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977944664964829625",
+    "in_reply_to_user_id": "1882368462305325056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977935688080253294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wKlNu6ZXAU85520 我们aug就是这么厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1977935665615482880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3MKAiGWMAAnfvP.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977642491416567842",
+        "created_at": "2025-10-14T03:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T04:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977944664964829625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1882368462305325056",
+              "start": 0,
+              "username": "wKlNu6ZXAU85520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977944664964829625",
+        "in_reply_to_user_id": "1882368462305325056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977935688080253294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wKlNu6ZXAU85520 我们aug就是这么厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977935665615482880"
+          ]
+        },
+        "author_id": "1882368462305325056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1977642491416567842",
+        "created_at": "2025-10-14T03:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T04:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977935688080253294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRTNBgmktI",
+              "end": 51,
+              "expanded_url": "https://x.com/wKlNu6ZXAU85520/status/1977935688080253294/photo/1",
+              "media_key": "3_1977935665615482880",
+              "start": 28,
+              "url": "https://t.co/zRTNBgmktI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977935688080253294",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977642491416567842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 3套Aug灭了一队六套 https://t.co/zRTNBgmktI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5581,
+          "following_count": 159,
+          "like_count": 281,
+          "listed_count": 6,
+          "media_count": 707,
+          "tweet_count": 4208
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T10:03:18.000Z",
+        "description": "",
+        "id": "1882368462305325056",
+        "name": "玖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956294264586919936/Bcgkgto0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 42,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "wKlNu6ZXAU85520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1990122149512663162",
+    "created_at": "2025-11-16T19:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T20:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990137108212933053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986698874338312192",
+          "start": 0,
+          "username": "lalala1017114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990137108212933053",
+    "in_reply_to_user_id": "1986698874338312192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990123853650243745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lalala1017114 匿名的， 她自己在评论区挑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1990122149512663162",
+        "created_at": "2025-11-16T19:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T20:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990137108212933053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986698874338312192",
+              "start": 0,
+              "username": "lalala1017114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990137108212933053",
+        "in_reply_to_user_id": "1986698874338312192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990123853650243745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lalala1017114 匿名的， 她自己在评论区挑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986698874338312192",
+        "conversation_id": "1990122149512663162",
+        "created_at": "2025-11-16T18:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T19:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990123853650243745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990123853650243745",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990122149512663162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 怎么不at了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你对我的赞许是我最大的幸福",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16929,
+          "following_count": 165,
+          "like_count": 328,
+          "listed_count": 12,
+          "media_count": 1047,
+          "tweet_count": 5089
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T07:36:00.000Z",
+        "description": "",
+        "id": "1986698874338312192",
+        "name": "啦啦啦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990120094371119104/HQ4rKSNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 83,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 27
+        },
+        "username": "lalala1017114",
+        "verified": false
+      }
+    ]
+  }
+}

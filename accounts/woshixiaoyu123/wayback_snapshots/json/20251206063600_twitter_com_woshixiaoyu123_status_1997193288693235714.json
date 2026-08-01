@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1997015558517412264",
+    "created_at": "2025-12-06T06:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T07:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997193288693235714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1908486978825289729",
+          "start": 0,
+          "username": "ice_29110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997193288693235714",
+    "in_reply_to_user_id": "1908486978825289729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997038145184190984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ice_29110 卧槽 你说的好对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1997015558517412264",
+        "created_at": "2025-12-06T06:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T07:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997193288693235714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1908486978825289729",
+              "start": 0,
+              "username": "ice_29110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997193288693235714",
+        "in_reply_to_user_id": "1908486978825289729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997038145184190984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ice_29110 卧槽 你说的好对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908486978825289729",
+        "conversation_id": "1997015558517412264",
+        "created_at": "2025-12-05T20:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T21:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997038145184190984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997038145184190984",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997015558517412264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 有的人拆开包装之前，从外观看是巧克力，拆开以后就是一坨正宗狗屎。你现在为了那层壳又想回去闻屎了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "找我玩",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16253,
+          "following_count": 169,
+          "like_count": 333,
+          "listed_count": 12,
+          "media_count": 1113,
+          "tweet_count": 5249
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T11:49:03.000Z",
+        "description": "双子｜intp｜傲沉｜慢热｜社恐｜双性恋｜异地仅线上｜1i 4i来回切换｜口令红包优先｜非绿不包质量｜过门和后续红包默认自愿赠与｜祝喜欢我的你永远幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukiho55394",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yukiho55394",
+                "start": 0,
+                "url": "https://t.co/UtIOq0NYPO"
+              }
+            ]
+          }
+        },
+        "id": "1908486978825289729",
+        "location": "🚪199｜299｜520｜1314",
+        "name": "Yukiho（冬季限定版）",
+        "pinned_tweet_id": "1987562770230046971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996538881181888512/d4Ig1FfO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 37,
+          "like_count": 11838,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 929
+        },
+        "url": "https://t.co/UtIOq0NYPO",
+        "username": "ice_29110",
+        "verified": false
+      }
+    ]
+  }
+}

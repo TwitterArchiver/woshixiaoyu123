@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2034693003932311670",
+    "created_at": "2026-03-19T18:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T19:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034693003932311670"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034693003932311670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉你是那种会用祛痘去皱消除发缝、醒图没有vip 退出来然后断网点草稿箱保存、用黑色妆容笔涂背景让画面没那么灰、p完感觉糊了用亮眼涂一遍五官一下子变清晰、用去黑眼圈减轻修容和收鼻翼、用手动磨皮把头发磨的很柔顺、拍侧脸觉得太宽，会把照片转九十度然后用拉腿把脸拉窄的那种人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2034693003932311670",
+        "created_at": "2026-03-19T18:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T19:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034693003932311670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034693003932311670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉你是那种会用祛痘去皱消除发缝、醒图没有vip 退出来然后断网点草稿箱保存、用黑色妆容笔涂背景让画面没那么灰、p完感觉糊了用亮眼涂一遍五官一下子变清晰、用去黑眼圈减轻修容和收鼻翼、用手动磨皮把头发磨的很柔顺、拍侧脸觉得太宽，会把照片转九十度然后用拉腿把脸拉窄的那种人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18907,
+          "following_count": 168,
+          "like_count": 351,
+          "listed_count": 17,
+          "media_count": 1714,
+          "tweet_count": 6170
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

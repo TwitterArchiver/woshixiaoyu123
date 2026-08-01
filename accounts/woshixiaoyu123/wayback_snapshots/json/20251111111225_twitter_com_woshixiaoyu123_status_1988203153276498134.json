@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988203151053438976"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988203153276498134",
+    "created_at": "2025-11-11T11:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T12:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988203153276498134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pDiRh1QggM",
+          "end": 41,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1988203153276498134/photo/1",
+          "media_key": "3_1988203151053438976",
+          "start": 18,
+          "url": "https://t.co/pDiRh1QggM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988203153276498134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把m的胸打出淤青 被拉黑了怎么办❔ https://t.co/pDiRh1QggM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_1988203151053438976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5eEO1_aQAATiVM.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988203151053438976"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988203153276498134",
+        "created_at": "2025-11-11T11:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T12:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988203153276498134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pDiRh1QggM",
+              "end": 41,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1988203153276498134/photo/1",
+              "media_key": "3_1988203151053438976",
+              "start": 18,
+              "url": "https://t.co/pDiRh1QggM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988203153276498134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把m的胸打出淤青 被拉黑了怎么办❔ https://t.co/pDiRh1QggM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "今天过的开心吗",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15694,
+          "following_count": 157,
+          "like_count": 307,
+          "listed_count": 11,
+          "media_count": 860,
+          "tweet_count": 4777
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

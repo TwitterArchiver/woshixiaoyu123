@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989998766456471734",
+    "created_at": "2025-11-16T10:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T11:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989998766456471734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tinaaaa9444/st…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/Tinaaaa9444/status/1989941170093658562",
+          "start": 87,
+          "url": "https://t.co/PmLnxihcQO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989998766456471734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989941170093658562",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看黄男就老老实实地用默认头像和弱智昵称就可以了好吗，不要再用忧郁头像把我骗进去杀了，以为是网络男神结果主页全是转发的片，回复全是在皮下男动态底下扣111，真的会很诙谐好不？ https://t.co/PmLnxihcQO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989998766456471734",
+        "created_at": "2025-11-16T10:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989998766456471734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tinaaaa9444/st…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/Tinaaaa9444/status/1989941170093658562",
+              "start": 87,
+              "url": "https://t.co/PmLnxihcQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989998766456471734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989941170093658562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看黄男就老老实实地用默认头像和弱智昵称就可以了好吗，不要再用忧郁头像把我骗进去杀了，以为是网络男神结果主页全是转发的片，回复全是在皮下男动态底下扣111，真的会很诙谐好不？ https://t.co/PmLnxihcQO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966173444414095360",
+        "conversation_id": "1989941170093658562",
+        "created_at": "2025-11-16T06:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989941170093658562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989941170093658562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6491,
+          "like_count": 113,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "看黄男就老老实实地用默认头像和弱智昵称就可以了好吗，不要再用忧郁头像把我骗进去杀了，以为是网络男神结果主页全是转发的片，回复全是在皮下男动态底下扣111，真的会很诙谐好不？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你对我的赞许是我最大的幸福",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16912,
+          "following_count": 165,
+          "like_count": 328,
+          "listed_count": 12,
+          "media_count": 1034,
+          "tweet_count": 5073
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T16:14:24.000Z",
+        "description": "怎么办 这个下午好无聊｜未关不回｜4i3i",
+        "id": "1966173444414095360",
+        "name": "小莲神",
+        "pinned_tweet_id": "1976608528753397888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989200653277941760/Icpvq4OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3265,
+          "following_count": 95,
+          "like_count": 9523,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 2883
+        },
+        "username": "Tinaaaa9444",
+        "verified": false
+      }
+    ]
+  }
+}

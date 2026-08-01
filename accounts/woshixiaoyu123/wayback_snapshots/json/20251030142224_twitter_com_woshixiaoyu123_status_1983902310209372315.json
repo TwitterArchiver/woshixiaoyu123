@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1983892688505360721",
+    "created_at": "2025-10-30T14:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T15:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983902310209372315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1972539098314190848",
+          "start": 0,
+          "username": "chi778789334542"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983902310209372315",
+    "in_reply_to_user_id": "1972539098314190848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983902246212661595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chi778789334542 我没招了我没招了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1983892688505360721",
+        "created_at": "2025-10-30T14:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983902310209372315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1972539098314190848",
+              "start": 0,
+              "username": "chi778789334542"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983902310209372315",
+        "in_reply_to_user_id": "1972539098314190848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983902246212661595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chi778789334542 我没招了我没招了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972539098314190848",
+        "conversation_id": "1983892688505360721",
+        "created_at": "2025-10-30T14:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983902246212661595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983902246212661595",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983892688505360721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 咪快变成接稿推了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11022,
+          "following_count": 149,
+          "like_count": 288,
+          "listed_count": 10,
+          "media_count": 762,
+          "tweet_count": 4501
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T05:49:15.000Z",
+        "description": "私会回｜爱好是涩涩和钱",
+        "id": "1972539098314190848",
+        "location": "North Carolina, USA",
+        "name": "蒸鸡蛋拌饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977433367822946304/zi_bw5GQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 87,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 52
+        },
+        "username": "chi778789334542",
+        "verified": false
+      }
+    ]
+  }
+}

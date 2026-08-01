@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1998075587039273297",
+    "created_at": "2025-12-08T18:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T19:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998091047558336524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1389761207872147458",
+          "start": 0,
+          "username": "E3MzyYxxKgt1N1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998091047558336524",
+    "in_reply_to_user_id": "1389761207872147458",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998085951797739947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@E3MzyYxxKgt1N1v 好用不哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1998075587039273297",
+        "created_at": "2025-12-08T18:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T19:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998091047558336524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1389761207872147458",
+              "start": 0,
+              "username": "E3MzyYxxKgt1N1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998091047558336524",
+        "in_reply_to_user_id": "1389761207872147458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998085951797739947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@E3MzyYxxKgt1N1v 好用不哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389761207872147458",
+        "conversation_id": "1998075587039273297",
+        "created_at": "2025-12-08T17:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T18:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998085951797739947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998085951797739947",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998075587039273297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16243,
+          "following_count": 168,
+          "like_count": 334,
+          "listed_count": 12,
+          "media_count": 1118,
+          "tweet_count": 5279
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-05T01:58:10.000Z",
+        "description": "我也想变得可爱！/社恐女绿/没什么门槛但是给我点钱会开心/先天小m圣体/不对恋爱抱有任何想法/骨科脑子/ 电子幽灵算命🥺…我觉得还算挺灵光的/ 坚决不涉及现实/…忙成狗屎了",
+        "id": "1389761207872147458",
+        "location": "（不会叫的布谷）",
+        "name": "布谷不吃辣",
+        "pinned_tweet_id": "1737471718564724737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957305735353860096/VzVcKoBW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 628,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1164
+        },
+        "username": "E3MzyYxxKgt1N1v",
+        "verified": false
+      }
+    ]
+  }
+}

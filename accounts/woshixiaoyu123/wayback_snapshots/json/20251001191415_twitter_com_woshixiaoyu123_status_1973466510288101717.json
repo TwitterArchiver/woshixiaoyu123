@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973466508149030912"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1973466510288101717",
+    "created_at": "2025-10-01T19:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T20:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973466510288101717"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yVR7Fvut5M",
+          "end": 29,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1973466510288101717/photo/1",
+          "media_key": "3_1973466508149030912",
+          "start": 6,
+          "url": "https://t.co/yVR7Fvut5M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973466510288101717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人懂吗🤤 https://t.co/yVR7Fvut5M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_1973466508149030912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2MpVVJagAAqfRe.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973466508149030912"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1973466510288101717",
+        "created_at": "2025-10-01T19:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T20:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973466510288101717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yVR7Fvut5M",
+              "end": 29,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1973466510288101717/photo/1",
+              "media_key": "3_1973466508149030912",
+              "start": 6,
+              "url": "https://t.co/yVR7Fvut5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973466510288101717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人懂吗🤤 https://t.co/yVR7Fvut5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "祝你开心",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3881,
+          "following_count": 166,
+          "like_count": 238,
+          "listed_count": 6,
+          "media_count": 639,
+          "tweet_count": 3819
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

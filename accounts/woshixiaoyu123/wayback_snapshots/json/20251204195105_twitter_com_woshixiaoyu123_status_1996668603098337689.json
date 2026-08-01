@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1996280680477827220",
+    "created_at": "2025-12-04T19:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T20:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996668603098337689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1809866842372206595",
+          "start": 0,
+          "username": "dkkwyq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996668603098337689",
+    "in_reply_to_user_id": "1809866842372206595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996602982952059203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dkkwyq 玩的机坝啦 打的蛮爽的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1996280680477827220",
+        "created_at": "2025-12-04T19:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T20:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996668603098337689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1809866842372206595",
+              "start": 0,
+              "username": "dkkwyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996668603098337689",
+        "in_reply_to_user_id": "1809866842372206595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996602982952059203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dkkwyq 玩的机坝啦 打的蛮爽的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809866842372206595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "1996280680477827220",
+        "created_at": "2025-12-04T15:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996602982952059203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996602982952059203",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996280680477827220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 m4狗都不用，准确的说是556狗都不用，也就AUG中远距离对枪有优势了 进了绝密m4杀个人的功夫够你死两次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "找我玩",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16272,
+          "following_count": 169,
+          "like_count": 333,
+          "listed_count": 12,
+          "media_count": 1111,
+          "tweet_count": 5243
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T08:27:49.000Z",
+        "description": "去码头整点薯条",
+        "id": "1809866842372206595",
+        "name": "整点薯条🍟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995829145096650753/SHnpSsO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 48,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 43
+        },
+        "username": "dkkwyq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004990469290557445"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2004990473283534938",
+    "created_at": "2025-12-27T18:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T19:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004990473283534938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RMazLfwoDq",
+          "end": 30,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2004990473283534938/photo/1",
+          "media_key": "3_2004990469290557445",
+          "start": 7,
+          "url": "https://t.co/RMazLfwoDq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004990473283534938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你的护一般😈 https://t.co/RMazLfwoDq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_2004990469290557445",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9MoNXwbgAUsikt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004990469290557445"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004990473283534938",
+        "created_at": "2025-12-27T18:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T19:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004990473283534938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RMazLfwoDq",
+              "end": 30,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2004990473283534938/photo/1",
+              "media_key": "3_2004990469290557445",
+              "start": 7,
+              "url": "https://t.co/RMazLfwoDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004990473283534938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的护一般😈 https://t.co/RMazLfwoDq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我//皮下男太多了 女宝（推广性）投稿麻烦发一下语音∏ω∏｜看投稿点媒体｜没有收费项目 投喂随意˃ 𖥦 ˂",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17714,
+          "following_count": 168,
+          "like_count": 336,
+          "listed_count": 15,
+          "media_count": 1445,
+          "tweet_count": 5681
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

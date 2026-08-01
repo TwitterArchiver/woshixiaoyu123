@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2004505402877304842",
+    "created_at": "2025-12-26T10:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T11:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004506422470750424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814894991795499009",
+          "start": 0,
+          "username": "malayingzai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004506422470750424",
+    "in_reply_to_user_id": "1814894991795499009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004506347900195315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@malayingzai 三角洲¯꒳¯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2004505402877304842",
+        "created_at": "2025-12-26T10:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T11:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004506422470750424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814894991795499009",
+              "start": 0,
+              "username": "malayingzai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004506422470750424",
+        "in_reply_to_user_id": "1814894991795499009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004506347900195315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@malayingzai 三角洲¯꒳¯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814894991795499009",
+        "conversation_id": "2004505402877304842",
+        "created_at": "2025-12-26T10:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T11:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004506347900195315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004506347900195315",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004505402877304842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 这是什么游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我//皮下男太多了 女宝（推广性）投稿麻烦发一下语音∏ω∏｜看投稿点媒体(๑╹ω╹๑ )",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17631,
+          "following_count": 167,
+          "like_count": 337,
+          "listed_count": 15,
+          "media_count": 1411,
+          "tweet_count": 5645
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T05:27:47.000Z",
+        "description": "发财被爱好运常伴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "velcel.yycloud.tz69.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://velcel.yycloud.tz69.vip/#/register?code=tDoeokhe",
+                "start": 0,
+                "url": "https://t.co/YloyRgKNTs"
+              }
+            ]
+          }
+        },
+        "id": "1814894991795499009",
+        "location": "233-588-1588🚪⬇️自用梯子（好用）",
+        "name": "金克丝💕",
+        "pinned_tweet_id": "1943628435147890937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998329940094459904/k-FgBLMK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 66,
+          "like_count": 65,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 1684
+        },
+        "url": "https://t.co/YloyRgKNTs",
+        "username": "malayingzai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1990465849527083108",
+    "created_at": "2025-11-18T07:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T08:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990687861105218038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680590578592120832",
+          "start": 0,
+          "username": "Rebornduckdiary"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990687861105218038",
+    "in_reply_to_user_id": "1680590578592120832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990636024079470951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rebornduckdiary 百鸟朝凤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1990465849527083108",
+        "created_at": "2025-11-18T07:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990687861105218038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680590578592120832",
+              "start": 0,
+              "username": "Rebornduckdiary"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990687861105218038",
+        "in_reply_to_user_id": "1680590578592120832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990636024079470951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rebornduckdiary 百鸟朝凤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680590578592120832",
+        "conversation_id": "1990465849527083108",
+        "created_at": "2025-11-18T04:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T05:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990636024079470951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990636024079470951",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990465849527083108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 出个牛子大赛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "//所有帖子真假自辩",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16870,
+          "following_count": 165,
+          "like_count": 329,
+          "listed_count": 12,
+          "media_count": 1022,
+          "tweet_count": 5078
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T14:50:01.000Z",
+        "description": "男的｜🇦🇺｜04｜外号叫虫虫｜ENFP｜饭在隔壁@Baobaolong1O_o｜cs2菜鸡玩家｜ 感谢关注😉｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "Baobaolong1O_o"
+              }
+            ]
+          }
+        },
+        "id": "1680590578592120832",
+        "location": "爆龙战士的温馨狗窝",
+        "name": "抖音干不了干抖m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909541307435171841/R4aNSADi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 1736,
+          "like_count": 83671,
+          "listed_count": 4,
+          "media_count": 455,
+          "tweet_count": 10638
+        },
+        "username": "Rebornduckdiary",
+        "verified": false
+      }
+    ]
+  }
+}

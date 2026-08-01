@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1971809596093485098",
+    "created_at": "2025-09-27T05:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T06:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971811414789816588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1903863202376458240",
+          "start": 0,
+          "username": "Bunnyo7O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971811414789816588",
+    "in_reply_to_user_id": "1903863202376458240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971809596093485098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunnyo7O 宝宝祝你现生快乐 要一直幸福🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1971809596093485098",
+        "created_at": "2025-09-27T05:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T06:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971811414789816588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1903863202376458240",
+              "start": 0,
+              "username": "Bunnyo7O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971811414789816588",
+        "in_reply_to_user_id": "1903863202376458240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971809596093485098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunnyo7O 宝宝祝你现生快乐 要一直幸福🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903863202376458240",
+        "conversation_id": "1971809596093485098",
+        "created_at": "2025-09-27T05:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T06:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971809596093485098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971809596093485098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小宝宝们谢谢大家的陪伴\n主播因为个人现生原因会把这个账号注销\n对不起俺的互关宝宝和粉丝宝宝们\n我们有缘再见\n谢谢大家的关心呜呜\n我真的在推上玩的很开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢哥哥怎么了",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3649,
+          "following_count": 168,
+          "like_count": 234,
+          "listed_count": 6,
+          "media_count": 620,
+          "tweet_count": 3750
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T17:35:58.000Z",
+        "description": "｡✩⁺˚♪º 18 ⇡ 🌈 ♡碎碎念⊹ 没门 ⊹ ೀ⋆⑅˚我有精神病见谁咬谁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/bunnyo7O/sendc…",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/bunnyo7O/sendchallenge",
+                "start": 0,
+                "url": "https://t.co/S5HKUGxDQ3"
+              }
+            ]
+          }
+        },
+        "id": "1903863202376458240",
+        "location": "ଲ泥萌嚎我想玩这个✑",
+        "name": "兔兔美",
+        "pinned_tweet_id": "1962098853165101497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954809160618704897/Y18iKx2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 251,
+          "like_count": 14449,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 5761
+        },
+        "url": "https://t.co/S5HKUGxDQ3",
+        "username": "Bunnyo7O",
+        "verified": false
+      }
+    ]
+  }
+}

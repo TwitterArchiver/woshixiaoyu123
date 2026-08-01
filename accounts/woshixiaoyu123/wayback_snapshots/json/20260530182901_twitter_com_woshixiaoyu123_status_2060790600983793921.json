@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2060716509694144839",
+    "created_at": "2026-05-30T18:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060790600983793921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2056969817400414208",
+          "start": 0,
+          "username": "9wvyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060790600983793921",
+    "in_reply_to_user_id": "2056969817400414208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060716509694144839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9wvyi 没那么多但还是想感叹：人机咋嫩多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2060716509694144839",
+        "created_at": "2026-05-30T18:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060790600983793921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2056969817400414208",
+              "start": 0,
+              "username": "9wvyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060790600983793921",
+        "in_reply_to_user_id": "2056969817400414208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060716509694144839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9wvyi 没那么多但还是想感叹：人机咋嫩多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056969817400414208",
+        "conversation_id": "2060716509694144839",
+        "created_at": "2026-05-30T13:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060716509694144839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060716509694144839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11620,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 74,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "那些主页所有帖子都是几百点赞的人 你们玩推到底是啥感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2046785857198477733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19351,
+          "following_count": 155,
+          "like_count": 388,
+          "listed_count": 20,
+          "media_count": 1750,
+          "tweet_count": 6462
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T05:27:09.000Z",
+        "description": "无🚪私信随缘回 一般会回粉丝的\n讨厌我的，骂我的，我直接把咱俩照片p成结婚照，你气不气？",
+        "id": "2056969817400414208",
+        "name": "昕雪",
+        "pinned_tweet_id": "2058510282000142363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057107534696329217/6Vm8L-px_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 56,
+          "like_count": 1490,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 215
+        },
+        "username": "9wvyi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2033590890019917897",
+    "created_at": "2026-03-16T17:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T18:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033590890019917897"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033590890019917897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我到底想要让我自己怎么样？我不准我嫉妒，不准我害怕，不准我懒，不准我哭，值得高兴的时候才高兴，值得愤怒的时候才愤怒。我恨不得把我当一块橡皮泥那样搓圆捏扁。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2033590890019917897",
+        "created_at": "2026-03-16T17:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T18:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033590890019917897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033590890019917897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到底想要让我自己怎么样？我不准我嫉妒，不准我害怕，不准我懒，不准我哭，值得高兴的时候才高兴，值得愤怒的时候才愤怒。我恨不得把我当一块橡皮泥那样搓圆捏扁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18934,
+          "following_count": 168,
+          "like_count": 351,
+          "listed_count": 18,
+          "media_count": 1712,
+          "tweet_count": 6150
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

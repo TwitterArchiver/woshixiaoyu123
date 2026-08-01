@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977815356652875807",
+    "created_at": "2025-10-14T03:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T04:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977945293246095626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1814930213383647233",
+          "start": 0,
+          "username": "haorenmanqian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977945293246095626",
+    "in_reply_to_user_id": "1814930213383647233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977919125801635926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haorenmanqian 我天呢 我两天就出来了一把 亏了块两千万了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977815356652875807",
+        "created_at": "2025-10-14T03:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T04:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977945293246095626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1814930213383647233",
+              "start": 0,
+              "username": "haorenmanqian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977945293246095626",
+        "in_reply_to_user_id": "1814930213383647233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977919125801635926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haorenmanqian 我天呢 我两天就出来了一把 亏了块两千万了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814930213383647233",
+        "conversation_id": "1977815356652875807",
+        "created_at": "2025-10-14T02:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T03:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977919125801635926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977919125801635926",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977815356652875807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 姐子，能带我打打吗，我快破产了，国庆差不多一天打丢一千万"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5581,
+          "following_count": 159,
+          "like_count": 281,
+          "listed_count": 6,
+          "media_count": 707,
+          "tweet_count": 4210
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T07:47:58.000Z",
+        "description": "好好吃饭，天天开心。",
+        "id": "1814930213383647233",
+        "location": "快乐星球",
+        "name": "抚八沙米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814933251494191104/bYENr-93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 85,
+          "like_count": 1645,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 1426
+        },
+        "username": "haorenmanqian",
+        "verified": false
+      }
+    ]
+  }
+}

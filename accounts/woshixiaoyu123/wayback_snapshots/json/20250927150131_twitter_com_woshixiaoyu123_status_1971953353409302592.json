@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1971623188867305639",
+    "created_at": "2025-09-27T15:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T16:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971953353409302592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954630909103403008",
+          "start": 0,
+          "username": "maino834797"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971953353409302592",
+    "in_reply_to_user_id": "1954630909103403008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971953255631507463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maino834797 青年音的话 是头猪我也认了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1971623188867305639",
+        "created_at": "2025-09-27T15:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T16:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971953353409302592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954630909103403008",
+              "start": 0,
+              "username": "maino834797"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971953353409302592",
+        "in_reply_to_user_id": "1954630909103403008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971953255631507463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maino834797 青年音的话 是头猪我也认了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954630909103403008",
+        "conversation_id": "1971623188867305639",
+        "created_at": "2025-09-27T15:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T16:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971953255631507463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971953255631507463",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971623188867305639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 青年音吗 真的不会爆猪吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "多愁善感",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3713,
+          "following_count": 166,
+          "like_count": 234,
+          "listed_count": 6,
+          "media_count": 622,
+          "tweet_count": 3762
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T19:48:27.000Z",
+        "description": "..接帅哥卡颜 不约 爱回私信",
+        "id": "1954630909103403008",
+        "name": "甜哨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961874237951778816/OfumiICI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 10,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 71
+        },
+        "username": "maino834797",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1976709034003861694",
+    "created_at": "2025-10-11T17:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T18:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977061224451129436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952639372257296384",
+          "start": 0,
+          "username": "wei78dddd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977061224451129436",
+    "in_reply_to_user_id": "1952639372257296384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977055132228764034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wei78dddd 那好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1976709034003861694",
+        "created_at": "2025-10-11T17:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T18:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977061224451129436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952639372257296384",
+              "start": 0,
+              "username": "wei78dddd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977061224451129436",
+        "in_reply_to_user_id": "1952639372257296384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977055132228764034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wei78dddd 那好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952639372257296384",
+        "conversation_id": "1976709034003861694",
+        "created_at": "2025-10-11T16:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T17:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977055132228764034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977055132228764034",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976709034003861694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 给我换一张"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢青年音",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4596,
+          "following_count": 159,
+          "like_count": 276,
+          "listed_count": 6,
+          "media_count": 683,
+          "tweet_count": 4097
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T07:54:53.000Z",
+        "description": "我是男的",
+        "id": "1952639372257296384",
+        "location": "Saint-Mandé, France",
+        "name": "我想你们都会幸福",
+        "pinned_tweet_id": "1954523955588415597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975525660908208128/4qe-NO9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 560,
+          "like_count": 6527,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1904
+        },
+        "username": "wei78dddd",
+        "verified": false
+      }
+    ]
+  }
+}

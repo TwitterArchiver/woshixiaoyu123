@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977991703345942740",
+    "created_at": "2025-10-14T06:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T07:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977992173837754572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1848964804268199937",
+          "start": 0,
+          "username": "jrr23456180772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977992173837754572",
+    "in_reply_to_user_id": "1848964804268199937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977991989758152768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jrr23456180772 那还说啥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977991703345942740",
+        "created_at": "2025-10-14T06:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T07:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977992173837754572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1848964804268199937",
+              "start": 0,
+              "username": "jrr23456180772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977992173837754572",
+        "in_reply_to_user_id": "1848964804268199937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977991989758152768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jrr23456180772 那还说啥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848964804268199937",
+        "conversation_id": "1977991703345942740",
+        "created_at": "2025-10-14T06:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T07:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977991989758152768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977991989758152768",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977991703345942740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 小妖精，馋死哥哥了🤟👅🤟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5720,
+          "following_count": 159,
+          "like_count": 281,
+          "listed_count": 6,
+          "media_count": 710,
+          "tweet_count": 4222
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T05:49:06.000Z",
+        "description": "",
+        "id": "1848964804268199937",
+        "name": "jrr23456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971232328534867968/obqbeNqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 227,
+          "like_count": 2797,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 117
+        },
+        "username": "jrr23456180772",
+        "verified": false
+      }
+    ]
+  }
+}

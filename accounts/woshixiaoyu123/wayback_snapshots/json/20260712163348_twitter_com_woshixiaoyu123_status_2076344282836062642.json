@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2076031886565277759",
+    "created_at": "2026-07-12T16:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076344282836062642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2076253997560946688",
+          "start": 0,
+          "username": "AnneBlankauhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076344282836062642",
+    "in_reply_to_user_id": "2076253997560946688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076333641333125276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnneBlankauhb 听哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2076031886565277759",
+        "created_at": "2026-07-12T16:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076344282836062642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2076253997560946688",
+              "start": 0,
+              "username": "AnneBlankauhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076344282836062642",
+        "in_reply_to_user_id": "2076253997560946688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076333641333125276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnneBlankauhb 听哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076253997560946688",
+        "conversation_id": "2076031886565277759",
+        "created_at": "2026-07-12T15:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076333641333125276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076333641333125276",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076031886565277759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 陪一杯毕竟我前男友幸福了 crush不回信息了 暧昧对象被我聊成兄弟了 上吊的绳子发现是别人走绳用的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19262,
+          "following_count": 153,
+          "like_count": 393,
+          "listed_count": 19,
+          "media_count": 1751,
+          "tweet_count": 6542
+        },
+        "url": "",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T10:35:40.000Z",
+        "description": "",
+        "id": "2076253997560946688",
+        "name": "AnneBlank",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076330931988959233/X6AuQYLa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 36,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "AnneBlankauhb",
+        "verified": false
+      }
+    ]
+  }
+}

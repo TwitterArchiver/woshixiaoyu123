@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1976431044489585034",
+    "created_at": "2025-10-10T07:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T08:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976558121989607748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1804188039465570311",
+          "start": 0,
+          "username": "imyuanmissu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976558121989607748",
+    "in_reply_to_user_id": "1804188039465570311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976431044489585034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imyuanmissu 。。谁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1976431044489585034",
+        "created_at": "2025-10-10T07:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T08:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976558121989607748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1804188039465570311",
+              "start": 0,
+              "username": "imyuanmissu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976558121989607748",
+        "in_reply_to_user_id": "1804188039465570311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976431044489585034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imyuanmissu 。。谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804188039465570311",
+        "conversation_id": "1976431044489585034",
+        "created_at": "2025-10-09T23:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T00:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976431044489585034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976431044489585034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2327,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到一个博主专门截图推文发微博，我已经看到好几个熟人和互关了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你和别人玩的时候，不要忘了手机对面还有个我呀。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4133,
+          "following_count": 161,
+          "like_count": 271,
+          "listed_count": 6,
+          "media_count": 665,
+          "tweet_count": 4022
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T16:22:11.000Z",
+        "description": "˵^•𖥦•^˵我喜欢女的，推广锁评自辩。",
+        "id": "1804188039465570311",
+        "name": "菇",
+        "pinned_tweet_id": "1970085680807297235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976372234479403008/BfCxMuPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 88,
+          "like_count": 15194,
+          "listed_count": 3,
+          "media_count": 488,
+          "tweet_count": 7467
+        },
+        "username": "imyuanmissu",
+        "verified": false
+      }
+    ]
+  }
+}

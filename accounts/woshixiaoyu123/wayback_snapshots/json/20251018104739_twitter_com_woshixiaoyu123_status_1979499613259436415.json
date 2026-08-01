@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979499610293837825"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1979499613259436415",
+    "created_at": "2025-10-18T10:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T11:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979499613259436415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UE76i71nC6",
+          "end": 40,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1979499613259436415/photo/1",
+          "media_key": "3_1979499610293837825",
+          "start": 17,
+          "url": "https://t.co/UE76i71nC6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979499613259436415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有声音骚了吧唧的唱这个给我听 https://t.co/UE76i71nC6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2121,
+        "media_key": "3_1979499610293837825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3iYaGCWoAEmLEp.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979499610293837825"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1979499613259436415",
+        "created_at": "2025-10-18T10:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T11:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979499613259436415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UE76i71nC6",
+              "end": 40,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1979499613259436415/photo/1",
+              "media_key": "3_1979499610293837825",
+              "start": 17,
+              "url": "https://t.co/UE76i71nC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979499613259436415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有声音骚了吧唧的唱这个给我听 https://t.co/UE76i71nC6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6836,
+          "following_count": 160,
+          "like_count": 290,
+          "listed_count": 9,
+          "media_count": 727,
+          "tweet_count": 4332
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

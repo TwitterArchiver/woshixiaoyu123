@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977815356652875807",
+    "created_at": "2025-10-14T03:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T04:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977946770823880943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1856345684192178178",
+          "start": 0,
+          "username": "zhujiu_09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977946770823880943",
+    "in_reply_to_user_id": "1856345684192178178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977832762028822991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhujiu_09 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977815356652875807",
+        "created_at": "2025-10-14T03:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T04:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977946770823880943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1856345684192178178",
+              "start": 0,
+              "username": "zhujiu_09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977946770823880943",
+        "in_reply_to_user_id": "1856345684192178178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977832762028822991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhujiu_09 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856345684192178178",
+        "conversation_id": "1977815356652875807",
+        "created_at": "2025-10-13T20:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T21:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977832762028822991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977832762028822991",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977815356652875807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 其实队友还在架我已经把胸挂和包直接换身上看了👉👈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5587,
+          "following_count": 159,
+          "like_count": 281,
+          "listed_count": 6,
+          "media_count": 707,
+          "tweet_count": 4213
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T14:38:05.000Z",
+        "description": "男高（已成年） 双 正常上课中\n精神疾病：双向\n喜欢安静，会莫名其妙烦躁，有时候会（尤其是你吵到我的时候）\n平时爱打点游戏：光遇三角洲王者逆水寒崩铁\nsm随机切换 爱看点涩图 喜欢可爱的🩲  但是不约\n私信聊的好可加q（门是为了防白嫖怪） 可语聊涩涩 文爱甚至光遇小黑屋",
+        "id": "1856345684192178178",
+        "location": "过🚪20加私人q",
+        "name": "煮酒不喝酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856365374155198464/6TmuBU9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 42,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 51
+        },
+        "username": "zhujiu_09",
+        "verified": false
+      }
+    ]
+  }
+}

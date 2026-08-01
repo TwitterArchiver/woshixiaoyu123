@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990617626004086784"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1990617630986871281",
+    "created_at": "2025-11-18T03:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T04:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990617630986871281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1874107986945466368",
+          "start": 0,
+          "username": "QQMM571113"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qz3RiFBGVk",
+          "end": 35,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1990617630986871281/photo/1",
+          "media_key": "3_1990617626004086784",
+          "start": 12,
+          "url": "https://t.co/Qz3RiFBGVk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990617630986871281",
+    "in_reply_to_user_id": "1874107986945466368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@QQMM571113 https://t.co/Qz3RiFBGVk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 639,
+        "media_key": "3_1990617626004086784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6AYLyGa4AANarP.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990617626004086784"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1990617630986871281",
+        "created_at": "2025-11-18T03:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T04:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990617630986871281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1874107986945466368",
+              "start": 0,
+              "username": "QQMM571113"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qz3RiFBGVk",
+              "end": 35,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1990617630986871281/photo/1",
+              "media_key": "3_1990617626004086784",
+              "start": 12,
+              "url": "https://t.co/Qz3RiFBGVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990617630986871281",
+        "in_reply_to_user_id": "1874107986945466368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@QQMM571113 https://t.co/Qz3RiFBGVk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "//所有帖子真假自辩",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16905,
+          "following_count": 166,
+          "like_count": 329,
+          "listed_count": 12,
+          "media_count": 1021,
+          "tweet_count": 5076
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T14:59:06.000Z",
+        "description": "ENFP白羊座Brat switch 嘴贱攻击力强",
+        "id": "1874107986945466368",
+        "name": "王旺汪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899854280871624704/ohgmUW03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 77,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 246
+        },
+        "username": "QQMM571113",
+        "verified": false
+      }
+    ]
+  }
+}

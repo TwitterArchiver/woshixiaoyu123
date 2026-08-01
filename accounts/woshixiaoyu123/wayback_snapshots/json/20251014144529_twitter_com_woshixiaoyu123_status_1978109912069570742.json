@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977993093208330469",
+    "created_at": "2025-10-14T14:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T15:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978109912069570742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1564613336045477898",
+          "start": 0,
+          "username": "XLJTB1231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978109912069570742",
+    "in_reply_to_user_id": "1564613336045477898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978109830188438001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XLJTB1231 行吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977993093208330469",
+        "created_at": "2025-10-14T14:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T15:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978109912069570742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1564613336045477898",
+              "start": 0,
+              "username": "XLJTB1231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978109912069570742",
+        "in_reply_to_user_id": "1564613336045477898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978109830188438001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XLJTB1231 行吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564613336045477898",
+        "conversation_id": "1977993093208330469",
+        "created_at": "2025-10-14T14:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T15:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978109830188438001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978109830188438001",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977993093208330469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 我没关注啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6028,
+          "following_count": 159,
+          "like_count": 281,
+          "listed_count": 6,
+          "media_count": 708,
+          "tweet_count": 4239
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-30T13:58:10.000Z",
+        "description": "6",
+        "id": "1564613336045477898",
+        "location": "山东",
+        "name": "QQ萘萘的香辣牛逼鸡腿堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878843560059133952/HXIF6Glf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 30,
+          "like_count": 20711,
+          "listed_count": 3,
+          "media_count": 1383,
+          "tweet_count": 16154
+        },
+        "username": "XLJTB1231",
+        "verified": false
+      }
+    ]
+  }
+}

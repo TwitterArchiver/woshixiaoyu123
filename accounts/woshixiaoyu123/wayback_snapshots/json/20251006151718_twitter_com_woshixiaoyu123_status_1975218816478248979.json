@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1975209246662017056",
+    "created_at": "2025-10-06T15:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T16:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975218816478248979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1854930959172616192",
+          "start": 0,
+          "username": "agir0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975218816478248979",
+    "in_reply_to_user_id": "1854930959172616192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975211084530536757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@agir0721 漂亮的都喜欢˶&gt; ᎑ &lt;˶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1975209246662017056",
+        "created_at": "2025-10-06T15:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T16:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975218816478248979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1854930959172616192",
+              "start": 0,
+              "username": "agir0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975218816478248979",
+        "in_reply_to_user_id": "1854930959172616192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975211084530536757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@agir0721 漂亮的都喜欢˶&gt; ᎑ &lt;˶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854930959172616192",
+        "conversation_id": "1975209246662017056",
+        "created_at": "2025-10-06T14:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975211084530536757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975211084530536757",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975209246662017056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 煮啵喜欢什么花"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "纯爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3949,
+          "following_count": 163,
+          "like_count": 265,
+          "listed_count": 7,
+          "media_count": 655,
+          "tweet_count": 3959
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T16:56:39.000Z",
+        "description": "祝点开我主页看简介的你幸福快乐一辈子ヾ(＠ ˘ω˘ ＠)ノ",
+        "id": "1854930959172616192",
+        "name": "果鸽狸ψ(｀∇´)ψ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854931680714526720/o4GEo5FT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 60,
+          "like_count": 3740,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2726
+        },
+        "username": "agir0721",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1982814108954083481",
+    "created_at": "2025-10-27T18:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T19:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982877176199528792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1582921343456407552",
+          "start": 0,
+          "username": "Ttbcy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982877176199528792",
+    "in_reply_to_user_id": "1582921343456407552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982814108954083481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ttbcy1 可爱宝宝( ´•̥  ̫ •̥` )🩷!!!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982814100351520768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Re6zsWkAAfEXU.jpg",
+        "width": 1576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1982814108954083481",
+        "created_at": "2025-10-27T18:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T19:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982877176199528792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1582921343456407552",
+              "start": 0,
+              "username": "Ttbcy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982877176199528792",
+        "in_reply_to_user_id": "1582921343456407552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982814108954083481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ttbcy1 可爱宝宝( ´•̥  ̫ •̥` )🩷!!!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982814100351520768"
+          ]
+        },
+        "author_id": "1582921343456407552",
+        "conversation_id": "1982814108954083481",
+        "created_at": "2025-10-27T14:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T15:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982814108954083481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJdH8pZ8O4",
+              "end": 27,
+              "expanded_url": "https://x.com/Ttbcy1/status/1982814108954083481/photo/1",
+              "media_key": "3_1982814100351520768",
+              "start": 4,
+              "url": "https://t.co/CJdH8pZ8O4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982814108954083481",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 4767,
+          "like_count": 230,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "o·0 https://t.co/CJdH8pZ8O4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我一直在哭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8372,
+          "following_count": 160,
+          "like_count": 289,
+          "listed_count": 8,
+          "media_count": 736,
+          "tweet_count": 4428
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T02:27:22.000Z",
+        "description": "sub/绳縛/純綠/清水/喜歡我哥有什麼錯 🈴：@Ttbcy2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 24,
+                "username": "Ttbcy2"
+              }
+            ]
+          }
+        },
+        "id": "1582921343456407552",
+        "location": "Hong Kong",
+        "name": "随时准备紫砂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908386998198689795/rNLYgHCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56000,
+          "following_count": 23,
+          "like_count": 1249,
+          "listed_count": 172,
+          "media_count": 64,
+          "tweet_count": 486
+        },
+        "username": "Ttbcy1",
+        "verified": false
+      }
+    ]
+  }
+}

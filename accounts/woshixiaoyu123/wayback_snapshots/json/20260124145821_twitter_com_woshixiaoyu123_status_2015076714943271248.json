@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015076711621332992"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "2015076714943271248",
+    "created_at": "2026-01-24T14:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T15:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015076714943271248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869454218140217344",
+          "start": 0,
+          "username": "binglengxinshi1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OTljZlJFbI",
+          "end": 40,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2015076714943271248/photo/1",
+          "media_key": "3_2015076711621332992",
+          "start": 17,
+          "url": "https://t.co/OTljZlJFbI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015076714943271248",
+    "in_reply_to_user_id": "1869454218140217344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@binglengxinshi1 https://t.co/OTljZlJFbI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 287,
+        "media_key": "3_2015076711621332992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_b9l8daEAAXyNK.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015076711621332992"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "2015076714943271248",
+        "created_at": "2026-01-24T14:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T15:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015076714943271248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869454218140217344",
+              "start": 0,
+              "username": "binglengxinshi1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTljZlJFbI",
+              "end": 40,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2015076714943271248/photo/1",
+              "media_key": "3_2015076711621332992",
+              "start": 17,
+              "url": "https://t.co/OTljZlJFbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015076714943271248",
+        "in_reply_to_user_id": "1869454218140217344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@binglengxinshi1 https://t.co/OTljZlJFbI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我｜答疑解惑｜看投稿点媒体｜不接推广",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18710,
+          "following_count": 174,
+          "like_count": 345,
+          "listed_count": 18,
+          "media_count": 1669,
+          "tweet_count": 5968
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T18:46:43.000Z",
+        "description": "",
+        "id": "1869454218140217344",
+        "location": "Los Angeles, CA",
+        "name": "Noneing",
+        "pinned_tweet_id": "1906549325511180762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003476801998495744/Kg3iEX2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 75,
+          "like_count": 855,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 439
+        },
+        "username": "binglengxinshi1",
+        "verified": false
+      }
+    ]
+  }
+}

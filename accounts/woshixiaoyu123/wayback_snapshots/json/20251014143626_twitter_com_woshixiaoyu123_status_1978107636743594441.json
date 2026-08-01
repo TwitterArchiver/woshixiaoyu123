@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977993093208330469",
+    "created_at": "2025-10-14T14:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T15:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978107636743594441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "983210657381142528",
+          "start": 0,
+          "username": "xxxxhaoxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978107636743594441",
+    "in_reply_to_user_id": "983210657381142528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978042038873715073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxxhaoxxx 说谢谢了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978042028803141633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Nqvr2asAErIgG.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977993093208330469",
+        "created_at": "2025-10-14T14:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T15:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978107636743594441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "983210657381142528",
+              "start": 0,
+              "username": "xxxxhaoxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978107636743594441",
+        "in_reply_to_user_id": "983210657381142528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978042038873715073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxxhaoxxx 说谢谢了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978042028803141633"
+          ]
+        },
+        "author_id": "983210657381142528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1977993093208330469",
+        "created_at": "2025-10-14T10:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T11:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978042038873715073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tmv13tUZDi",
+              "end": 53,
+              "expanded_url": "https://x.com/xxxxhaoxxx/status/1978042038873715073/photo/1",
+              "media_key": "3_1978042028803141633",
+              "start": 30,
+              "url": "https://t.co/Tmv13tUZDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978042038873715073",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977993093208330469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 因为这个关注的，害得我笑了 https://t.co/Tmv13tUZDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6019,
+          "following_count": 159,
+          "like_count": 281,
+          "listed_count": 6,
+          "media_count": 712,
+          "tweet_count": 4239
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-09T05:11:02.000Z",
+        "description": "我再多睡一会",
+        "id": "983210657381142528",
+        "name": "郁闷的大番薯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937069842491666432/s30FPz1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 125,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 56
+        },
+        "username": "xxxxhaoxxx",
+        "verified": false
+      }
+    ]
+  }
+}

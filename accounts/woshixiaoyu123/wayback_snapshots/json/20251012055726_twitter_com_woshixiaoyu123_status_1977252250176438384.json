@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977252247202639873",
+        "3_1977252244564365312"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977252250176438384",
+    "created_at": "2025-10-12T05:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T06:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977252250176438384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xPDEkLpG9v",
+          "end": 36,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1977252250176438384/photo/1",
+          "media_key": "3_1977252247202639873",
+          "start": 13,
+          "url": "https://t.co/xPDEkLpG9v"
+        },
+        {
+          "display_url": "pic.x.com/xPDEkLpG9v",
+          "end": 36,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1977252250176438384/photo/1",
+          "media_key": "3_1977252244564365312",
+          "start": 13,
+          "url": "https://t.co/xPDEkLpG9v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977252250176438384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回一下(｡ì _ í｡) https://t.co/xPDEkLpG9v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1912,
+        "media_key": "3_1977252247202639873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CccWHbMAEiG2c.jpg",
+        "width": 1256
+      },
+      {
+        "height": 1400,
+        "media_key": "3_1977252244564365312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CccMSaUAAatrF.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977252247202639873",
+            "3_1977252244564365312"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977252250176438384",
+        "created_at": "2025-10-12T05:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T06:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977252250176438384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPDEkLpG9v",
+              "end": 36,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1977252250176438384/photo/1",
+              "media_key": "3_1977252247202639873",
+              "start": 13,
+              "url": "https://t.co/xPDEkLpG9v"
+            },
+            {
+              "display_url": "pic.x.com/xPDEkLpG9v",
+              "end": 36,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1977252250176438384/photo/1",
+              "media_key": "3_1977252244564365312",
+              "start": 13,
+              "url": "https://t.co/xPDEkLpG9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977252250176438384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回一下(｡ì _ í｡) https://t.co/xPDEkLpG9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我喜欢被在乎的感觉(´-ω-`）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4709,
+          "following_count": 159,
+          "like_count": 277,
+          "listed_count": 6,
+          "media_count": 687,
+          "tweet_count": 4119
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

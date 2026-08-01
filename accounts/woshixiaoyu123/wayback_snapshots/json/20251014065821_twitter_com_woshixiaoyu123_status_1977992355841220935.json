@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977990394966392984",
+    "created_at": "2025-10-14T06:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T07:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977992355841220935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1976563376697577472",
+          "start": 0,
+          "username": "ijdygyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977992355841220935",
+    "in_reply_to_user_id": "1976563376697577472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977992095601447231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ijdygyg 我主页挂了一个链接点进去跳转浏览器可以直接发\n我帖子往下滑有我闺蜜的链接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977990394966392984",
+        "created_at": "2025-10-14T06:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T07:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977992355841220935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1976563376697577472",
+              "start": 0,
+              "username": "ijdygyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977992355841220935",
+        "in_reply_to_user_id": "1976563376697577472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977992095601447231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ijdygyg 我主页挂了一个链接点进去跳转浏览器可以直接发\n我帖子往下滑有我闺蜜的链接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976563376697577472",
+        "conversation_id": "1977990394966392984",
+        "created_at": "2025-10-14T06:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T07:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977992095601447231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977992095601447231",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977990394966392984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 什么软件"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5719,
+          "following_count": 159,
+          "like_count": 281,
+          "listed_count": 6,
+          "media_count": 710,
+          "tweet_count": 4223
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T08:20:18.000Z",
+        "description": "",
+        "id": "1976563376697577472",
+        "name": "ijdygyg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976563769724764164/FlMnikXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 65,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "ijdygyg",
+        "verified": false
+      }
+    ]
+  }
+}

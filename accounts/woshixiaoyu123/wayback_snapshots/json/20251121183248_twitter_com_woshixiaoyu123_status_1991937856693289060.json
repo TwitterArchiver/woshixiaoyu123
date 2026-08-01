@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1991937856693289060",
+    "created_at": "2025-11-21T18:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T19:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991937856693289060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Dreamwith_you_…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Dreamwith_you_/status/1991318502968574103",
+          "start": 7,
+          "url": "https://t.co/znuchXKvg4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991937856693289060",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991318502968574103",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎就是... https://t.co/znuchXKvg4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1991937856693289060",
+        "created_at": "2025-11-21T18:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T19:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991937856693289060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dreamwith_you_…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Dreamwith_you_/status/1991318502968574103",
+              "start": 7,
+              "url": "https://t.co/znuchXKvg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991937856693289060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991318502968574103",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎就是... https://t.co/znuchXKvg4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363287901438504964",
+        "conversation_id": "1991318502968574103",
+        "created_at": "2025-11-20T01:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T02:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991318502968574103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991318502968574103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 162228,
+          "like_count": 1215,
+          "quote_count": 8,
+          "reply_count": 29,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "其实叫爸爸不是真把对方当成爸爸玩禁忌之恋啊…就好像戴猫耳朵做爱也不是要和猫做爱一样，更多时候只是满足双方的征服欲和被征服欲🥹大家都友善一点尊重各种不违法的性癖好不，喜欢粗口就被打上厌女的标签也是真的很无奈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "碎碎念发着玩的",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1983224068137750535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16641,
+          "following_count": 169,
+          "like_count": 333,
+          "listed_count": 12,
+          "media_count": 1052,
+          "tweet_count": 5151
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T00:42:32.000Z",
+        "description": "04 单身不恋爱不聊骚丨匿名提问https://t.co/LtdUFK4bts",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamwith_you_",
+                "end": 39,
+                "expanded_url": "https://ngl.link/dreamwith_you_",
+                "start": 16,
+                "url": "https://t.co/LtdUFK4bts"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "usr.tachvip.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://usr.tachvip.com/#/register?code=ZZtU3l6c",
+                "start": 0,
+                "url": "https://t.co/DEC6qQtRp2"
+              }
+            ]
+          }
+        },
+        "id": "1363287901438504964",
+        "location": "距离你1.7km",
+        "name": "莺",
+        "pinned_tweet_id": "1991819489923707172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988585052855525376/5Pd89Zlf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27642,
+          "following_count": 452,
+          "like_count": 17158,
+          "listed_count": 41,
+          "media_count": 70,
+          "tweet_count": 9936
+        },
+        "url": "https://t.co/DEC6qQtRp2",
+        "username": "Dreamwith_you_",
+        "verified": false
+      }
+    ]
+  }
+}

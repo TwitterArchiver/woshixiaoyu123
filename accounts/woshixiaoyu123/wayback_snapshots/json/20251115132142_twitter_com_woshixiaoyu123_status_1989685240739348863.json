@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989667237922574832",
+    "created_at": "2025-11-15T13:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T14:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989685240739348863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1536057419666796544",
+          "start": 0,
+          "username": "3f5321f523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989685240739348863",
+    "in_reply_to_user_id": "1536057419666796544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989669896431775764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3f5321f523 带带我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_1989669885925113856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5y6ODLbwAACDjl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989667237922574832",
+        "created_at": "2025-11-15T13:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989685240739348863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1536057419666796544",
+              "start": 0,
+              "username": "3f5321f523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989685240739348863",
+        "in_reply_to_user_id": "1536057419666796544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989669896431775764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3f5321f523 带带我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989669885925113856"
+          ]
+        },
+        "author_id": "1536057419666796544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989667237922574832",
+        "created_at": "2025-11-15T12:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989669896431775764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PWWKuRIcyu",
+              "end": 46,
+              "expanded_url": "https://x.com/3f5321f523/status/1989669896431775764/photo/1",
+              "media_key": "3_1989669885925113856",
+              "start": 23,
+              "url": "https://t.co/PWWKuRIcyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989669896431775764",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989667237922574832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 你挂机都能赢 https://t.co/PWWKuRIcyu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "12小时没回就是不接😔",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16895,
+          "following_count": 165,
+          "like_count": 325,
+          "listed_count": 12,
+          "media_count": 1024,
+          "tweet_count": 5056
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T18:46:47.000Z",
+        "description": "北京178健身男",
+        "id": "1536057419666796544",
+        "location": "北京",
+        "name": "小🐑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743327974097895428/BdNkNA_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 268,
+          "like_count": 657,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 195
+        },
+        "username": "3f5321f523",
+        "verified": false
+      }
+    ]
+  }
+}

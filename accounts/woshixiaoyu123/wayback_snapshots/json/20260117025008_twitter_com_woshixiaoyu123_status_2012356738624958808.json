@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012356736368443392"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "2012356738624958808",
+    "created_at": "2026-01-17T02:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T03:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012356738624958808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1736710149757407232",
+          "start": 0,
+          "username": "66666wwwy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UPq9rVGWgl",
+          "end": 34,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2012356738624958808/photo/1",
+          "media_key": "3_2012356736368443392",
+          "start": 11,
+          "url": "https://t.co/UPq9rVGWgl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012356738624958808",
+    "in_reply_to_user_id": "1736710149757407232",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@66666wwwy https://t.co/UPq9rVGWgl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 204,
+        "media_key": "3_2012356736368443392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1TyjCbAAADBXj.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012356736368443392"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "2012356738624958808",
+        "created_at": "2026-01-17T02:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T03:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012356738624958808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1736710149757407232",
+              "start": 0,
+              "username": "66666wwwy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPq9rVGWgl",
+              "end": 34,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2012356738624958808/photo/1",
+              "media_key": "3_2012356736368443392",
+              "start": 11,
+              "url": "https://t.co/UPq9rVGWgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012356738624958808",
+        "in_reply_to_user_id": "1736710149757407232",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@66666wwwy https://t.co/UPq9rVGWgl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我｜答疑解惑｜看投稿点媒体｜不接推广",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18926,
+          "following_count": 172,
+          "like_count": 345,
+          "listed_count": 18,
+          "media_count": 1624,
+          "tweet_count": 5914
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T11:29:08.000Z",
+        "description": "52🚪具体内容✉️",
+        "id": "1736710149757407232",
+        "location": "Hong Kong",
+        "name": "悦",
+        "pinned_tweet_id": "2002758834226708744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008750318734200832/AUYO2K3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 45,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 206
+        },
+        "username": "66666wwwy",
+        "verified": false
+      }
+    ]
+  }
+}

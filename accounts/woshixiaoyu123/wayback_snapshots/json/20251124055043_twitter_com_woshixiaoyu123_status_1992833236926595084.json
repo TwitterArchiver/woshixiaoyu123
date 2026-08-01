@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992833234607243264"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1992833236926595084",
+    "created_at": "2025-11-24T05:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T06:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992833236926595084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933018297479684096",
+          "start": 0,
+          "username": "Re2xNfxJYn12293"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5DjgE2Tlzu",
+          "end": 40,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1992833236926595084/photo/1",
+          "media_key": "3_1992833234607243264",
+          "start": 17,
+          "url": "https://t.co/5DjgE2Tlzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992833236926595084",
+    "in_reply_to_user_id": "1933018297479684096",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Re2xNfxJYn12293 https://t.co/5DjgE2Tlzu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_1992833234607243264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6f3RLVbgAAJe_8.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992833234607243264"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1992833236926595084",
+        "created_at": "2025-11-24T05:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992833236926595084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933018297479684096",
+              "start": 0,
+              "username": "Re2xNfxJYn12293"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DjgE2Tlzu",
+              "end": 40,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1992833236926595084/photo/1",
+              "media_key": "3_1992833234607243264",
+              "start": 17,
+              "url": "https://t.co/5DjgE2Tlzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992833236926595084",
+        "in_reply_to_user_id": "1933018297479684096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Re2xNfxJYn12293 https://t.co/5DjgE2Tlzu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "碎碎念发着玩的",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1983224068137750535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16488,
+          "following_count": 170,
+          "like_count": 334,
+          "listed_count": 12,
+          "media_count": 1078,
+          "tweet_count": 5184
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T04:28:31.000Z",
+        "description": "",
+        "id": "1933018297479684096",
+        "name": "泡沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933018554405957635/arznfMUq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 58,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 82
+        },
+        "username": "Re2xNfxJYn12293",
+        "verified": false
+      }
+    ]
+  }
+}

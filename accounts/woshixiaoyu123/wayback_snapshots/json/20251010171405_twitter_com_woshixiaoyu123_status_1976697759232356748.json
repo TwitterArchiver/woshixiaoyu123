@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1976697026781036713",
+    "created_at": "2025-10-10T17:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T18:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976697759232356748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975973442186051584",
+          "start": 0,
+          "username": "Riddler_WAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976697759232356748",
+    "in_reply_to_user_id": "1975973442186051584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976697300333609385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riddler_WAI 哎...我真得压抑了...那种欲望达到顶峰但又释放不出来。。像被寸止了 爽又好难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1976697026781036713",
+        "created_at": "2025-10-10T17:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976697759232356748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975973442186051584",
+              "start": 0,
+              "username": "Riddler_WAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976697759232356748",
+        "in_reply_to_user_id": "1975973442186051584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976697300333609385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riddler_WAI 哎...我真得压抑了...那种欲望达到顶峰但又释放不出来。。像被寸止了 爽又好难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975973442186051584",
+        "conversation_id": "1976697026781036713",
+        "created_at": "2025-10-10T17:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976697300333609385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976697300333609385",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976697026781036713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 咪老师今天晚上真的很爽了看起来🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你和别人玩的时候，不要忘了手机对面还有个我呀。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4206,
+          "following_count": 162,
+          "like_count": 273,
+          "listed_count": 6,
+          "media_count": 667,
+          "tweet_count": 4048
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T17:16:07.000Z",
+        "description": "025 04 男的\n臭搞音乐的...臭写随笔的...\n...我就来发泄发泄...\n纯碎碎念...没人看也念...\n有人看最好...找我私信聊聊天好不好🥺https://t.co/2aQ1p5CYnF 不想私信这个也可以😭😭😭我只想聊天说说话😭😭😭😭",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ednygma",
+                "end": 99,
+                "expanded_url": "https://ngl.link/ednygma",
+                "start": 76,
+                "url": "https://t.co/2aQ1p5CYnF"
+              }
+            ]
+          }
+        },
+        "id": "1975973442186051584",
+        "location": "南京",
+        "name": "Ed Nygma",
+        "pinned_tweet_id": "1975981975853990322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975975979584729088/Znp34jxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 70,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 60
+        },
+        "username": "Riddler_WAI",
+        "verified": false
+      }
+    ]
+  }
+}

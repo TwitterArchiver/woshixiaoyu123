@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1975971944408416421",
+    "created_at": "2025-10-09T03:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T04:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976123312976625711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1488415952316530689",
+          "start": 0,
+          "username": "jiuniangnaiqin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976123312976625711",
+    "in_reply_to_user_id": "1488415952316530689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976007730189172807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuniangnaiqin 我哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1975971944408416421",
+        "created_at": "2025-10-09T03:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T04:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976123312976625711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1488415952316530689",
+              "start": 0,
+              "username": "jiuniangnaiqin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976123312976625711",
+        "in_reply_to_user_id": "1488415952316530689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976007730189172807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuniangnaiqin 我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488415952316530689",
+        "conversation_id": "1975971944408416421",
+        "created_at": "2025-10-08T19:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T20:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976007730189172807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976007730189172807",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975971944408416421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 你的非洲之心怎么是红色的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我一直在哭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4060,
+          "following_count": 161,
+          "like_count": 270,
+          "listed_count": 6,
+          "media_count": 661,
+          "tweet_count": 3999
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-01T07:36:42.000Z",
+        "description": "吃光世界上所有汉堡🙏🏻 \n喝光世界上所有奶茶🙏🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuniangnaiqin1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuniangnaiqin1",
+                "start": 0,
+                "url": "https://t.co/faNht91mU8"
+              }
+            ]
+          }
+        },
+        "id": "1488415952316530689",
+        "location": "地铁口出门右转五十米处天桥下的那个小摊",
+        "name": "酒酿奶青ฅ",
+        "pinned_tweet_id": "1858223479780454895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960767634867388416/MHUj_ahX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 247,
+          "like_count": 5844,
+          "listed_count": 6,
+          "media_count": 131,
+          "tweet_count": 2562
+        },
+        "url": "https://t.co/faNht91mU8",
+        "username": "jiuniangnaiqin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988915033850417347",
+    "created_at": "2025-11-13T10:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T11:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988920744269472121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876279846005047296",
+          "start": 0,
+          "username": "jie_xun34212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988920744269472121",
+    "in_reply_to_user_id": "1876279846005047296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988916933375205852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jie_xun34212 还没上 想提前问问在哪个平台上映"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988916921790808064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oNZxMawAAzKjh.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988915033850417347",
+        "created_at": "2025-11-13T10:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988920744269472121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876279846005047296",
+              "start": 0,
+              "username": "jie_xun34212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988920744269472121",
+        "in_reply_to_user_id": "1876279846005047296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988916933375205852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jie_xun34212 还没上 想提前问问在哪个平台上映"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988916921790808064"
+          ]
+        },
+        "author_id": "1876279846005047296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988915033850417347",
+        "created_at": "2025-11-13T10:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988916933375205852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6tzxOmU2tq",
+              "end": 43,
+              "expanded_url": "https://x.com/jie_xun34212/status/1988916933375205852/photo/1",
+              "media_key": "3_1988916921790808064",
+              "start": 20,
+              "url": "https://t.co/6tzxOmU2tq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988916933375205852",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988915033850417347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 没上啊 https://t.co/6tzxOmU2tq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你这些年 不停的去爱 我好想问你 你理解的自由 到底在哪 到底是什么样子的",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16389,
+          "following_count": 160,
+          "like_count": 312,
+          "listed_count": 11,
+          "media_count": 916,
+          "tweet_count": 4874
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T14:49:20.000Z",
+        "description": "",
+        "id": "1876279846005047296",
+        "name": "玉面手雷王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892235075842142208/e2C6_U_9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 46,
+          "like_count": 3178,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 833
+        },
+        "username": "jie_xun34212",
+        "verified": false
+      }
+    ]
+  }
+}

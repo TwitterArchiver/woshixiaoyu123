@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1974521978225824194",
+    "created_at": "2025-10-04T17:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T18:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974522546734415984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1730210778865647616",
+          "start": 0,
+          "username": "kkko419"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974522546734415984",
+    "in_reply_to_user_id": "1730210778865647616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974522414609707046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkko419 wwww好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1974521978225824194",
+        "created_at": "2025-10-04T17:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974522546734415984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1730210778865647616",
+              "start": 0,
+              "username": "kkko419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974522546734415984",
+        "in_reply_to_user_id": "1730210778865647616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974522414609707046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkko419 wwww好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730210778865647616",
+        "conversation_id": "1974521978225824194",
+        "created_at": "2025-10-04T17:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974522414609707046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974522414609707046",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974521978225824194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 是的长时间低头缘故去找个地方按下肩颈会舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "想我就来找我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3884,
+          "following_count": 162,
+          "like_count": 263,
+          "listed_count": 7,
+          "media_count": 644,
+          "tweet_count": 3907
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T13:03:01.000Z",
+        "description": "还有点呼吸可以救救",
+        "id": "1730210778865647616",
+        "name": "icon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730225137981571073/k-5w6tUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 166,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 939
+        },
+        "username": "kkko419",
+        "verified": false
+      }
+    ]
+  }
+}

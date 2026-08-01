@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2076797724373164093",
+    "created_at": "2026-07-13T22:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T23:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076797724373164093"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076797724373164093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想要的聊天不是我一句你一句，是你给我发一堆信息，什么都分享给我，想发给我的时候就发给我，不是博弈，不是猜测，你懂吗你明白吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2076797724373164093",
+        "created_at": "2026-07-13T22:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T23:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076797724373164093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076797724373164093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要的聊天不是我一句你一句，是你给我发一堆信息，什么都分享给我，想发给我的时候就发给我，不是博弈，不是猜测，你懂吗你明白吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19269,
+          "following_count": 153,
+          "like_count": 395,
+          "listed_count": 19,
+          "media_count": 1752,
+          "tweet_count": 6550
+        },
+        "url": "",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

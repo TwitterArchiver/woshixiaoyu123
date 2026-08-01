@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1974155622133436896",
+    "created_at": "2025-10-03T18:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T19:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974183416901021735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1484077799678050305",
+          "start": 0,
+          "username": "soaweerl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974183416901021735",
+    "in_reply_to_user_id": "1484077799678050305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974155622133436896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soaweerl 这个和康师傅瓶装绿茶哪个好喝哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974155613086294016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2WcEhFaIAApoB4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1974155622133436896",
+        "created_at": "2025-10-03T18:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T19:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974183416901021735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1484077799678050305",
+              "start": 0,
+              "username": "soaweerl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974183416901021735",
+        "in_reply_to_user_id": "1484077799678050305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974155622133436896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soaweerl 这个和康师傅瓶装绿茶哪个好喝哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974155613086294016"
+          ]
+        },
+        "author_id": "1484077799678050305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1974155622133436896",
+        "created_at": "2025-10-03T16:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T17:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974155622133436896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bv4sOAhZwD",
+              "end": 28,
+              "expanded_url": "https://x.com/soaweerl/status/1974155622133436896/photo/1",
+              "media_key": "3_1974155613086294016",
+              "start": 5,
+              "url": "https://t.co/bv4sOAhZwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974155622133436896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧od https://t.co/bv4sOAhZwD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "想我就来找我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3883,
+          "following_count": 167,
+          "like_count": 262,
+          "listed_count": 7,
+          "media_count": 642,
+          "tweet_count": 3871
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T08:18:22.000Z",
+        "description": "海量碎碎念日常号 怨气很重。",
+        "id": "1484077799678050305",
+        "name": "衣姨",
+        "pinned_tweet_id": "1960568603801215219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967152210841944064/zUr8UK_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 212,
+          "like_count": 4223,
+          "listed_count": 1,
+          "media_count": 832,
+          "tweet_count": 4510
+        },
+        "username": "soaweerl",
+        "verified": false
+      }
+    ]
+  }
+}

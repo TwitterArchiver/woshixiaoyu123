@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2028441031914721356",
+    "created_at": "2026-03-02T13:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T14:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028455904396673494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1671291168917958657",
+          "start": 0,
+          "username": "ply000315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028455904396673494",
+    "in_reply_to_user_id": "1671291168917958657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028451512343736365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ply000315 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2028441031914721356",
+        "created_at": "2026-03-02T13:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028455904396673494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1671291168917958657",
+              "start": 0,
+              "username": "ply000315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028455904396673494",
+        "in_reply_to_user_id": "1671291168917958657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028451512343736365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ply000315 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671291168917958657",
+        "conversation_id": "2028441031914721356",
+        "created_at": "2026-03-02T12:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028451512343736365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028451512343736365",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028441031914721356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 这个世界太随便了，仿佛语言没有重量，伤人的话语随口而出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18576,
+          "following_count": 170,
+          "like_count": 347,
+          "listed_count": 18,
+          "media_count": 1701,
+          "tweet_count": 6050
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T22:57:30.000Z",
+        "description": "hev",
+        "id": "1671291168917958657",
+        "location": "Oregon, USA",
+        "name": "卿如雾里花",
+        "pinned_tweet_id": "2011953298996404255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028431613554737152/giW3iiyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 430,
+          "like_count": 1641,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 96
+        },
+        "username": "ply000315",
+        "verified": false
+      }
+    ]
+  }
+}

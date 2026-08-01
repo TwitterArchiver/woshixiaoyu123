@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2062197113824669745",
+    "created_at": "2026-06-03T17:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062225551675498875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1582921343456407552",
+          "start": 0,
+          "username": "Ttbcy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062225551675498875",
+    "in_reply_to_user_id": "1582921343456407552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062197113824669745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ttbcy1 宝宝身高体重多少呀 好萌好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062197065724379136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5lTidawAADN-8.jpg",
+        "width": 1550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2062197113824669745",
+        "created_at": "2026-06-03T17:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062225551675498875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1582921343456407552",
+              "start": 0,
+              "username": "Ttbcy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062225551675498875",
+        "in_reply_to_user_id": "1582921343456407552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062197113824669745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ttbcy1 宝宝身高体重多少呀 好萌好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062197065724379136"
+          ]
+        },
+        "author_id": "1582921343456407552",
+        "conversation_id": "2062197113824669745",
+        "created_at": "2026-06-03T15:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062197113824669745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J90jhfxG4U",
+              "end": 31,
+              "expanded_url": "https://x.com/Ttbcy1/status/2062197113824669745/photo/1",
+              "media_key": "3_2062197065724379136",
+              "start": 8,
+              "url": "https://t.co/J90jhfxG4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062197113824669745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1636,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我也不太了解她 https://t.co/J90jhfxG4U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19314,
+          "following_count": 156,
+          "like_count": 393,
+          "listed_count": 20,
+          "media_count": 1748,
+          "tweet_count": 6475
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T02:27:22.000Z",
+        "description": "繩縛/清水/請保持距離/૮ต•̤ ༝ •̤ตა@Ttbcy2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "Ttbcy2"
+              }
+            ]
+          }
+        },
+        "id": "1582921343456407552",
+        "location": "Hong Kong",
+        "name": "随时准备紫砂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908386998198689795/rNLYgHCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62431,
+          "following_count": 29,
+          "like_count": 1430,
+          "listed_count": 173,
+          "media_count": 78,
+          "tweet_count": 570
+        },
+        "username": "Ttbcy1",
+        "verified": false
+      }
+    ]
+  }
+}

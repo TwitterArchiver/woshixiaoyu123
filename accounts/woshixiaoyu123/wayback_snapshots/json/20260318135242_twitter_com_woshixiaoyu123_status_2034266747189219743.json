@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2034266747189219743",
+    "created_at": "2026-03-18T13:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T14:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034266747189219743"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034266747189219743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么越撸越没劲，却还是忍不住？答案是肯定的，首先多巴胺是身体的快乐激素，DIY带来强烈快感时，大脑会释放大量多巴胺，从而产生愉悦感，但重复刺激，大脑会减少多巴胺受体数量，就像调低音响音量，快感逐渐减弱，同时神经信号传递效率降低，快感体验缩水，让人增加刺激频率或强度，却往往事倍功半"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2034266747189219743",
+        "created_at": "2026-03-18T13:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T14:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034266747189219743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034266747189219743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么越撸越没劲，却还是忍不住？答案是肯定的，首先多巴胺是身体的快乐激素，DIY带来强烈快感时，大脑会释放大量多巴胺，从而产生愉悦感，但重复刺激，大脑会减少多巴胺受体数量，就像调低音响音量，快感逐渐减弱，同时神经信号传递效率降低，快感体验缩水，让人增加刺激频率或强度，却往往事倍功半"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18915,
+          "following_count": 168,
+          "like_count": 351,
+          "listed_count": 18,
+          "media_count": 1712,
+          "tweet_count": 6157
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

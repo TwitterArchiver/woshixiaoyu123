@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989040483100995820",
+    "created_at": "2025-11-13T18:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T19:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989042846226346222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1547868015705788419",
+          "start": 0,
+          "username": "KKKinzey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989042846226346222",
+    "in_reply_to_user_id": "1547868015705788419",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989042466234986991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKKinzey 我哭了好久"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989040483100995820",
+        "created_at": "2025-11-13T18:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T19:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989042846226346222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1547868015705788419",
+              "start": 0,
+              "username": "KKKinzey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989042846226346222",
+        "in_reply_to_user_id": "1547868015705788419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989042466234986991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKKinzey 我哭了好久"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547868015705788419",
+        "conversation_id": "1989040483100995820",
+        "created_at": "2025-11-13T18:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T19:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989042466234986991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989042466234986991",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989040483100995820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 我打王者痛苦的流眼泪了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "祝你幸福｜交友请告诉我是否匿名˃ㅅ˂ 不匿会艾特 不说默认不匿了｜不收费..硬要打赏我还是会笑纳的ovo",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16632,
+          "following_count": 160,
+          "like_count": 313,
+          "listed_count": 11,
+          "media_count": 940,
+          "tweet_count": 4909
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T08:58:12.000Z",
+        "description": "infp切换entp｜碎碎念｜你也喜欢我吧",
+        "id": "1547868015705788419",
+        "name": "お湯baby",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985360978624835585/dAjezYkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 147,
+          "like_count": 6048,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 37
+        },
+        "username": "KKKinzey",
+        "verified": false
+      }
+    ]
+  }
+}

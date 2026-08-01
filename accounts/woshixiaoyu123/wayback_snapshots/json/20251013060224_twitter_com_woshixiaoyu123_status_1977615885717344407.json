@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977441668883492969",
+    "created_at": "2025-10-13T06:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T07:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977615885717344407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1691197797876236289",
+          "start": 0,
+          "username": "GGBOOS20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977615885717344407",
+    "in_reply_to_user_id": "1691197797876236289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977605811225743438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GGBOOS20 五十多我记得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977441668883492969",
+        "created_at": "2025-10-13T06:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T07:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977615885717344407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1691197797876236289",
+              "start": 0,
+              "username": "GGBOOS20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977615885717344407",
+        "in_reply_to_user_id": "1691197797876236289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977605811225743438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GGBOOS20 五十多我记得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691197797876236289",
+        "conversation_id": "1977441668883492969",
+        "created_at": "2025-10-13T05:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T06:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977605811225743438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977605811225743438",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977441668883492969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 多少钱的枪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5106,
+          "following_count": 159,
+          "like_count": 279,
+          "listed_count": 6,
+          "media_count": 692,
+          "tweet_count": 4164
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T21:19:25.000Z",
+        "description": "",
+        "id": "1691197797876236289",
+        "name": "Summer Henson",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "GGBOOS20",
+        "verified": false
+      }
+    ]
+  }
+}

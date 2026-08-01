@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988864950899732484"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988864953713877457",
+    "created_at": "2025-11-13T07:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T08:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988864953713877457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6GHEoKcHNs",
+          "end": 32,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1988864953713877457/photo/1",
+          "media_key": "3_1988864950899732484",
+          "start": 9,
+          "url": "https://t.co/6GHEoKcHNs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988864953713877457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上海185+dd https://t.co/6GHEoKcHNs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 530,
+        "media_key": "3_1988864950899732484",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5neIqiacAQ3FrD.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988864950899732484"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988864953713877457",
+        "created_at": "2025-11-13T07:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T08:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988864953713877457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6GHEoKcHNs",
+              "end": 32,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1988864953713877457/photo/1",
+              "media_key": "3_1988864950899732484",
+              "start": 9,
+              "url": "https://t.co/6GHEoKcHNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988864953713877457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上海185+dd https://t.co/6GHEoKcHNs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "ⓘ 该账号涉嫌搞纯爱已被封禁",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16303,
+          "following_count": 159,
+          "like_count": 312,
+          "listed_count": 11,
+          "media_count": 909,
+          "tweet_count": 4859
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

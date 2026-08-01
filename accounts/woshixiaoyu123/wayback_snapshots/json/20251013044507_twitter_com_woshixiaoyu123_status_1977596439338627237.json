@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977441450091827424",
+    "created_at": "2025-10-13T04:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T05:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977596439338627237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804896956113948672",
+          "start": 0,
+          "username": "pathetic___ccc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977596439338627237",
+    "in_reply_to_user_id": "1804896956113948672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977513673523609736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pathetic___ccc 我不行了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977441450091827424",
+        "created_at": "2025-10-13T04:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977596439338627237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804896956113948672",
+              "start": 0,
+              "username": "pathetic___ccc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977596439338627237",
+        "in_reply_to_user_id": "1804896956113948672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977513673523609736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pathetic___ccc 我不行了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804896956113948672",
+        "conversation_id": "1977441450091827424",
+        "created_at": "2025-10-12T23:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T00:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977513673523609736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977513673523609736",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977441450091827424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 这是俺拾嘞 咦 俺以为莫人要嘞 咦 你看看你看看这是整嘞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5078,
+          "following_count": 159,
+          "like_count": 279,
+          "listed_count": 6,
+          "media_count": 691,
+          "tweet_count": 4159
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T15:19:13.000Z",
+        "description": "infp带有双向的一个废柴 爱好是睡觉💤 愿望是一睡不起 梦想是变成睡觉大王👑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%92%B1%E5%B0%8F%E9%92%B1",
+                "start": 0,
+                "url": "https://t.co/qvfl1zWF4z"
+              }
+            ]
+          }
+        },
+        "id": "1804896956113948672",
+        "location": "Hong Kong",
+        "name": "小钱小钱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970906777630932993/nISAfyt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 54,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/qvfl1zWF4z",
+        "username": "pathetic___ccc",
+        "verified": false
+      }
+    ]
+  }
+}

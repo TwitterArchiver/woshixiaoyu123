@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996667866243096576",
+        "3_1996667866826133506"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1996667869229470111",
+    "created_at": "2025-12-04T19:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T20:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996667869229470111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ykhE1Vvasd",
+          "end": 55,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1996667869229470111/photo/1",
+          "media_key": "3_1996667866243096576",
+          "start": 32,
+          "url": "https://t.co/ykhE1Vvasd"
+        },
+        {
+          "display_url": "pic.x.com/ykhE1Vvasd",
+          "end": 55,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1996667869229470111/photo/1",
+          "media_key": "3_1996667866826133506",
+          "start": 32,
+          "url": "https://t.co/ykhE1Vvasd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996667869229470111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去玩麦晓雯➕俩张姐 一个报点两个去换命 打了几天机坝怒赚三千万 https://t.co/ykhE1Vvasd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996667866243096576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7WW2HXbYAAs9Mh.jpg",
+        "width": 932
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996667866826133506",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7WW2Jib0AIwilA.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996667866243096576",
+            "3_1996667866826133506"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996667869229470111",
+        "created_at": "2025-12-04T19:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T20:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996667869229470111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykhE1Vvasd",
+              "end": 55,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1996667869229470111/photo/1",
+              "media_key": "3_1996667866243096576",
+              "start": 32,
+              "url": "https://t.co/ykhE1Vvasd"
+            },
+            {
+              "display_url": "pic.x.com/ykhE1Vvasd",
+              "end": 55,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1996667869229470111/photo/1",
+              "media_key": "3_1996667866826133506",
+              "start": 32,
+              "url": "https://t.co/ykhE1Vvasd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996667869229470111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去玩麦晓雯➕俩张姐 一个报点两个去换命 打了几天机坝怒赚三千万 https://t.co/ykhE1Vvasd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "找我玩",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16272,
+          "following_count": 169,
+          "like_count": 333,
+          "listed_count": 12,
+          "media_count": 1111,
+          "tweet_count": 5242
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

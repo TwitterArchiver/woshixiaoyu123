@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1987895559597002875",
+    "created_at": "2025-11-10T14:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T15:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987895559597002875"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987895559597002875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2405,
+      "like_count": 7,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是恋痛，我喜欢身上的淤青，我迷恋啃咬脖子掐腰。但不是让你推开我，不是让你精神凌辱我，不是践踏我的真心。你不懂，你不懂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1987895559597002875",
+        "created_at": "2025-11-10T14:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987895559597002875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987895559597002875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2405,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是恋痛，我喜欢身上的淤青，我迷恋啃咬脖子掐腰。但不是让你推开我，不是让你精神凌辱我，不是践踏我的真心。你不懂，你不懂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "今天过的开心吗",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15405,
+          "following_count": 155,
+          "like_count": 308,
+          "listed_count": 11,
+          "media_count": 856,
+          "tweet_count": 4764
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

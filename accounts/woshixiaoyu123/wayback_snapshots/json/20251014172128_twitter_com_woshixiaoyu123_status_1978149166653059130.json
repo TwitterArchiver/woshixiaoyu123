@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1978149166653059130",
+    "created_at": "2025-10-14T17:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T18:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978149166653059130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790525363355013120",
+          "start": 3,
+          "username": "shaomingan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978149166653059130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978148160510861682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shaomingan: 今天一直在睡觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1978149166653059130",
+        "created_at": "2025-10-14T17:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T18:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978149166653059130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790525363355013120",
+              "start": 3,
+              "username": "shaomingan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978149166653059130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978148160510861682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shaomingan: 今天一直在睡觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790525363355013120",
+        "conversation_id": "1978148160510861682",
+        "created_at": "2025-10-14T17:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T18:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978148160510861682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978148160510861682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天一直在睡觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6194,
+          "following_count": 160,
+          "like_count": 282,
+          "listed_count": 7,
+          "media_count": 710,
+          "tweet_count": 4248
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T23:31:36.000Z",
+        "description": "",
+        "id": "1790525363355013120",
+        "name": "🌳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978068813381054464/n-kxHXoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "shaomingan",
+        "verified": false
+      }
+    ]
+  }
+}

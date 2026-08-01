@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1978152565905785215",
+    "created_at": "2025-10-14T17:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T18:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978152565905785215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790525363355013120",
+          "start": 3,
+          "username": "shaomingan"
+        }
+      ],
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/xingfu99",
+          "end": 39,
+          "expanded_url": "https://ngl.link/xingfu99",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/1977817317510950912/hQtVqlV1?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1977817317510950912/hQtVqlV1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "@xingfu99: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/xingfu99",
+          "url": "https://t.co/OsEyrxfp65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978152565905785215",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978150598152196433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shaomingan: https://t.co/OsEyrxfp65"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1978152565905785215].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1978152565905785215",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1978152565905785215"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790525363355013120",
+        "conversation_id": "1978150598152196433",
+        "created_at": "2025-10-14T17:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T18:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978150598152196433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/xingfu99",
+              "end": 23,
+              "expanded_url": "https://ngl.link/xingfu99",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/1977817317510950912/hQtVqlV1?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1977817317510950912/hQtVqlV1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "@xingfu99: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/xingfu99",
+              "url": "https://t.co/OsEyrxfp65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978150598152196433",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OsEyrxfp65"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6210,
+          "following_count": 160,
+          "like_count": 282,
+          "listed_count": 7,
+          "media_count": 710,
+          "tweet_count": 4250
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T23:31:36.000Z",
+        "description": "无聊玩玩，只关注一个咪",
+        "id": "1790525363355013120",
+        "name": "🌳",
+        "pinned_tweet_id": "1978150598152196433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978068813381054464/n-kxHXoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "shaomingan",
+        "verified": false
+      }
+    ]
+  }
+}

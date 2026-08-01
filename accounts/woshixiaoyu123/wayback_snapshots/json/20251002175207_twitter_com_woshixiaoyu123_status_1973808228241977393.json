@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1973709073834217943",
+    "created_at": "2025-10-02T17:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T18:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973808228241977393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1890352369277513728",
+          "start": 0,
+          "username": "linzyuan_juan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973808228241977393",
+    "in_reply_to_user_id": "1890352369277513728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973709073834217943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linzyuan_juan 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_1973709068561960960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2QF8NGaUAAeT-F.jpg",
+        "width": 1342
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1973709073834217943",
+        "created_at": "2025-10-02T17:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T18:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973808228241977393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1890352369277513728",
+              "start": 0,
+              "username": "linzyuan_juan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973808228241977393",
+        "in_reply_to_user_id": "1890352369277513728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973709073834217943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linzyuan_juan 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973709068561960960"
+          ]
+        },
+        "author_id": "1890352369277513728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1973709073834217943",
+        "created_at": "2025-10-02T11:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T12:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973709073834217943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsCWWxtQi8",
+              "end": 40,
+              "expanded_url": "https://x.com/linzyuan_juan/status/1973709073834217943/photo/1",
+              "media_key": "3_1973709068561960960",
+              "start": 17,
+              "url": "https://t.co/IsCWWxtQi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973709073834217943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "队友我求你们了我一打开辅助全黑了 https://t.co/IsCWWxtQi8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你喜欢猫吗喵",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3875,
+          "following_count": 165,
+          "like_count": 262,
+          "listed_count": 6,
+          "media_count": 639,
+          "tweet_count": 3847
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T10:49:05.000Z",
+        "description": "想见你",
+        "id": "1890352369277513728",
+        "name": "昭昭如愿",
+        "pinned_tweet_id": "1966084104266592578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970823279364747264/yyip_EOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 204,
+          "like_count": 4241,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 4929
+        },
+        "username": "linzyuan_juan",
+        "verified": false
+      }
+    ]
+  }
+}

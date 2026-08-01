@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977438175732895760",
+    "created_at": "2025-10-12T18:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T19:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977438827481624687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1595424351876222976",
+          "start": 0,
+          "username": "chojdhuidn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977438827481624687",
+    "in_reply_to_user_id": "1595424351876222976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977438682727731260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chojdhuidn1 什么？？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977438175732895760",
+        "created_at": "2025-10-12T18:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T19:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977438827481624687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1595424351876222976",
+              "start": 0,
+              "username": "chojdhuidn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977438827481624687",
+        "in_reply_to_user_id": "1595424351876222976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977438682727731260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chojdhuidn1 什么？？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595424351876222976",
+        "conversation_id": "1977438175732895760",
+        "created_at": "2025-10-12T18:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T19:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977438682727731260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977438682727731260",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977438175732895760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 头塞进去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4929,
+          "following_count": 159,
+          "like_count": 277,
+          "listed_count": 6,
+          "media_count": 689,
+          "tweet_count": 4132
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T14:29:49.000Z",
+        "description": "哥们就是来👀好康的，非常有素质且锲而不舍",
+        "id": "1595424351876222976",
+        "name": "让我来look一下",
+        "pinned_tweet_id": "1597647944445882368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976732612875239424/GRZfuyzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 262,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 447
+        },
+        "username": "chojdhuidn1",
+        "verified": false
+      }
+    ]
+  }
+}

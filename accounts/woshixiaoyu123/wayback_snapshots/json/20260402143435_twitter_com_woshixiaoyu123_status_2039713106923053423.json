@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2039713106923053423",
+    "created_at": "2026-04-02T14:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T15:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039713106923053423"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039713106923053423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "送围巾不会分手，做手工也不会分手，用心也不会分手，不爱才会分手，因为分手前恰好送了围巾，所以才把一切原因归结到围巾上想出了可笑的围巾定律，人们什么时候才能明白事在人为"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2039713106923053423",
+        "created_at": "2026-04-02T14:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039713106923053423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039713106923053423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "送围巾不会分手，做手工也不会分手，用心也不会分手，不爱才会分手，因为分手前恰好送了围巾，所以才把一切原因归结到围巾上想出了可笑的围巾定律，人们什么时候才能明白事在人为"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2038312886033084867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19189,
+          "following_count": 158,
+          "like_count": 371,
+          "listed_count": 19,
+          "media_count": 1720,
+          "tweet_count": 6278
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

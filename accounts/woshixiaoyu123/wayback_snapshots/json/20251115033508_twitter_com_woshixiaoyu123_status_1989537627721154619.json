@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989537571916189697",
+        "7_1989537588328411137"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989537627721154619",
+    "created_at": "2025-11-15T03:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T04:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989537627721154619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UqEsgWoQMm",
+          "end": 29,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989537627721154619/video/1",
+          "media_key": "3_1989537571916189697",
+          "start": 6,
+          "url": "https://t.co/UqEsgWoQMm"
+        },
+        {
+          "display_url": "pic.x.com/UqEsgWoQMm",
+          "end": 29,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989537627721154619/video/1",
+          "media_key": "7_1989537588328411137",
+          "start": 6,
+          "url": "https://t.co/UqEsgWoQMm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989537627721154619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我沦陷了。 https://t.co/UqEsgWoQMm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2102,
+        "media_key": "3_1989537571916189697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xB4XFbkAEdLTp.jpg",
+        "width": 1254
+      },
+      {
+        "duration_ms": 13421,
+        "height": 1278,
+        "media_key": "7_1989537588328411137",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1989537588328411137/pu/img/1uXiG_WQOajijnFn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989537588328411137/pu/vid/avc1/320x574/3Lp2qH68a-vtC6j1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989537588328411137/pu/vid/avc1/480x860/ygm-UhUmN7Mp8ZAg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989537588328411137/pu/vid/avc1/712x1278/duQUwcYNpoAv3WF2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1989537588328411137/pu/pl/0nHg5A7sbqI8vBBG.m3u8?tag=12"
+          }
+        ],
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989537571916189697",
+            "7_1989537588328411137"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989537627721154619",
+        "created_at": "2025-11-15T03:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989537627721154619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UqEsgWoQMm",
+              "end": 29,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989537627721154619/video/1",
+              "media_key": "3_1989537571916189697",
+              "start": 6,
+              "url": "https://t.co/UqEsgWoQMm"
+            },
+            {
+              "display_url": "pic.x.com/UqEsgWoQMm",
+              "end": 29,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989537627721154619/video/1",
+              "media_key": "7_1989537588328411137",
+              "start": 6,
+              "url": "https://t.co/UqEsgWoQMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989537627721154619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我沦陷了。 https://t.co/UqEsgWoQMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "12小时没回就是不接😔",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16897,
+          "following_count": 165,
+          "like_count": 319,
+          "listed_count": 13,
+          "media_count": 990,
+          "tweet_count": 4997
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

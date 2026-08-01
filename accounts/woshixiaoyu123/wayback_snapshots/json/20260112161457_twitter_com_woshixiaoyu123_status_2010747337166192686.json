@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2010745389780181383",
+    "created_at": "2026-01-12T16:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T17:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010747337166192686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971871363926577154",
+          "start": 0,
+          "username": "ke_cheng77830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010747337166192686",
+    "in_reply_to_user_id": "1971871363926577154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010745949535248882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ke_cheng77830 嘿嘿！谢谢宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2010745389780181383",
+        "created_at": "2026-01-12T16:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010747337166192686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971871363926577154",
+              "start": 0,
+              "username": "ke_cheng77830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010747337166192686",
+        "in_reply_to_user_id": "1971871363926577154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010745949535248882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ke_cheng77830 嘿嘿！谢谢宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971871363926577154",
+        "conversation_id": "2010745389780181383",
+        "created_at": "2026-01-12T16:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010745949535248882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010745949535248882",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010745389780181383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 我去，咪老师生日快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我｜答疑解惑｜看投稿点媒体",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18038,
+          "following_count": 171,
+          "like_count": 343,
+          "listed_count": 18,
+          "media_count": 1558,
+          "tweet_count": 5831
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T09:35:57.000Z",
+        "description": "我想我会幸福",
+        "id": "1971871363926577154",
+        "location": "武汉",
+        "name": "ピーマン嫌い",
+        "pinned_tweet_id": "2009955375156703594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981931256469180416/KrdLBuVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 133,
+          "like_count": 682,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 648
+        },
+        "username": "ke_cheng77830",
+        "verified": false
+      }
+    ]
+  }
+}

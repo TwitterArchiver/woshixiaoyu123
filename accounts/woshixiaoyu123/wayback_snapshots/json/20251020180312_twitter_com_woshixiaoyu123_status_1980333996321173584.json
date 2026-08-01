@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1980226166515810386",
+    "created_at": "2025-10-20T18:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T19:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980333996321173584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906245698594742272",
+          "start": 0,
+          "username": "SkyeAnAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980333996321173584",
+    "in_reply_to_user_id": "1906245698594742272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980226166515810386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SkyeAnAT 我讨厌你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1980226166515810386",
+        "created_at": "2025-10-20T18:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T19:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980333996321173584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906245698594742272",
+              "start": 0,
+              "username": "SkyeAnAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980333996321173584",
+        "in_reply_to_user_id": "1906245698594742272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980226166515810386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SkyeAnAT 我讨厌你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906245698594742272",
+        "conversation_id": "1980226166515810386",
+        "created_at": "2025-10-20T10:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T11:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980226166515810386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bigglesworthx/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/bigglesworthx/status/1980029451347083498",
+              "start": 4,
+              "url": "https://t.co/O95HDD2pUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980226166515810386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980029451347083498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "锅巴诶 https://t.co/O95HDD2pUf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的你｜不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8443,
+          "following_count": 162,
+          "like_count": 289,
+          "listed_count": 10,
+          "media_count": 734,
+          "tweet_count": 4370
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T07:23:05.000Z",
+        "description": "当朋友圈随便发发",
+        "id": "1906245698594742272",
+        "name": "Skye",
+        "pinned_tweet_id": "1939359435685859745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942487438628143104/W02yxw7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 43,
+          "like_count": 2252,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 876
+        },
+        "username": "SkyeAnAT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007168776073326592",
+        "3_2007168776647946241",
+        "3_2007168777423831040",
+        "3_2007168777616826368"
+      ],
+      "media_source_tweet_id": [
+        "2007168779923664937",
+        "2007168779923664937",
+        "2007168779923664937",
+        "2007168779923664937"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "2007698051511824704",
+    "created_at": "2026-01-04T06:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T07:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007698051511824704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1804171207241330688",
+          "start": 3,
+          "username": "BarryBa76395410"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bdAMwGwUA8",
+          "end": 66,
+          "expanded_url": "https://x.com/BarryBa76395410/status/2007168779923664937/photo/1",
+          "media_key": "3_2007168776073326592",
+          "start": 43,
+          "url": "https://t.co/bdAMwGwUA8"
+        },
+        {
+          "display_url": "pic.x.com/bdAMwGwUA8",
+          "end": 66,
+          "expanded_url": "https://x.com/BarryBa76395410/status/2007168779923664937/photo/1",
+          "media_key": "3_2007168776647946241",
+          "start": 43,
+          "url": "https://t.co/bdAMwGwUA8"
+        },
+        {
+          "display_url": "pic.x.com/bdAMwGwUA8",
+          "end": 66,
+          "expanded_url": "https://x.com/BarryBa76395410/status/2007168779923664937/photo/1",
+          "media_key": "3_2007168777423831040",
+          "start": 43,
+          "url": "https://t.co/bdAMwGwUA8"
+        },
+        {
+          "display_url": "pic.x.com/bdAMwGwUA8",
+          "end": 66,
+          "expanded_url": "https://x.com/BarryBa76395410/status/2007168779923664937/photo/1",
+          "media_key": "3_2007168777616826368",
+          "start": 43,
+          "url": "https://t.co/bdAMwGwUA8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007698051511824704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007168779923664937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BarryBa76395410: 骗子都该死呀😭😭😭，女生被男生骗的有几个😭 https://t.co/bdAMwGwUA8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007698051511824704].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007698051511824704",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007698051511824704"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1775,
+        "media_key": "3_2007168776073326592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9rlXg4bMAA_RT0.jpg",
+        "width": 1059
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007168776647946241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9rlXjBbMAEHG6E.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007168777423831040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9rlXl6aQAAZIxp.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007168777616826368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9rlXmobIAAMOmq.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007168776073326592",
+            "3_2007168776647946241",
+            "3_2007168777423831040",
+            "3_2007168777616826368"
+          ]
+        },
+        "author_id": "1804171207241330688",
+        "conversation_id": "2007168779923664937",
+        "created_at": "2026-01-02T19:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T20:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007168779923664937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bdAMwGwUA8",
+              "end": 45,
+              "expanded_url": "https://x.com/BarryBa76395410/status/2007168779923664937/photo/1",
+              "media_key": "3_2007168776073326592",
+              "start": 22,
+              "url": "https://t.co/bdAMwGwUA8"
+            },
+            {
+              "display_url": "pic.x.com/bdAMwGwUA8",
+              "end": 45,
+              "expanded_url": "https://x.com/BarryBa76395410/status/2007168779923664937/photo/1",
+              "media_key": "3_2007168776647946241",
+              "start": 22,
+              "url": "https://t.co/bdAMwGwUA8"
+            },
+            {
+              "display_url": "pic.x.com/bdAMwGwUA8",
+              "end": 45,
+              "expanded_url": "https://x.com/BarryBa76395410/status/2007168779923664937/photo/1",
+              "media_key": "3_2007168777423831040",
+              "start": 22,
+              "url": "https://t.co/bdAMwGwUA8"
+            },
+            {
+              "display_url": "pic.x.com/bdAMwGwUA8",
+              "end": 45,
+              "expanded_url": "https://x.com/BarryBa76395410/status/2007168779923664937/photo/1",
+              "media_key": "3_2007168777616826368",
+              "start": 22,
+              "url": "https://t.co/bdAMwGwUA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007168779923664937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "骗子都该死呀😭😭😭，女生被男生骗的有几个😭 https://t.co/bdAMwGwUA8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17633,
+          "following_count": 171,
+          "like_count": 342,
+          "listed_count": 17,
+          "media_count": 1504,
+          "tweet_count": 5758
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T15:15:20.000Z",
+        "description": "06女-高164 体111坐标河南-绝对真实卖家\n#原味 #原味内裤 #原味袜子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 25,
+                "tag": "原味"
+              },
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "原味内裤"
+              },
+              {
+                "end": 40,
+                "start": 35,
+                "tag": "原味袜子"
+              }
+            ]
+          }
+        },
+        "id": "1804171207241330688",
+        "name": "吱味 c",
+        "pinned_tweet_id": "2007168779923664937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993583082319101953/HxepjJQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 8,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 62
+        },
+        "username": "BarryBa76395410",
+        "verified": false
+      }
+    ]
+  }
+}

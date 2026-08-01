@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006608425640407046"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "2006608428345823541",
+    "created_at": "2026-01-01T06:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T07:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006608428345823541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1987532529218547712",
+          "start": 0,
+          "username": "AA94701"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/azvt4npiMz",
+          "end": 32,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2006608428345823541/photo/1",
+          "media_key": "3_2006608425640407046",
+          "start": 9,
+          "url": "https://t.co/azvt4npiMz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006608428345823541",
+    "in_reply_to_user_id": "1987532529218547712",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@AA94701 https://t.co/azvt4npiMz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 418,
+        "media_key": "3_2006608425640407046",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9jnu02aMAYmR_o.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006608425640407046"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "2006608428345823541",
+        "created_at": "2026-01-01T06:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T07:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006608428345823541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1987532529218547712",
+              "start": 0,
+              "username": "AA94701"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/azvt4npiMz",
+              "end": 32,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2006608428345823541/photo/1",
+              "media_key": "3_2006608425640407046",
+              "start": 9,
+              "url": "https://t.co/azvt4npiMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006608428345823541",
+        "in_reply_to_user_id": "1987532529218547712",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@AA94701 https://t.co/azvt4npiMz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17643,
+          "following_count": 170,
+          "like_count": 342,
+          "listed_count": 16,
+          "media_count": 1497,
+          "tweet_count": 5749
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T14:47:45.000Z",
+        "description": "",
+        "id": "1987532529218547712",
+        "location": "广州",
+        "name": "池",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003831509250387968/6HZOiP0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 20,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "AA94701",
+        "verified": false
+      }
+    ]
+  }
+}

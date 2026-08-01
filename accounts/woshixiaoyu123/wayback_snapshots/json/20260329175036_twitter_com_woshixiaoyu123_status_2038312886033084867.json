@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2038312886033084867",
+    "created_at": "2026-03-29T17:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T18:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038312886033084867"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038312886033084867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果我长的好看我会天天发自拍 如果我身材好我会天天秀身材 如果我声音好听我就不打字发语音 如果我游戏打的好我会天天晒战绩 如果我有钱我会天天买买买 可是我一样都没占 只会天天发段子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2038312886033084867",
+        "created_at": "2026-03-29T17:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038312886033084867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038312886033084867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我长的好看我会天天发自拍 如果我身材好我会天天秀身材 如果我声音好听我就不打字发语音 如果我游戏打的好我会天天晒战绩 如果我有钱我会天天买买买 可是我一样都没占 只会天天发段子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19223,
+          "following_count": 159,
+          "like_count": 368,
+          "listed_count": 18,
+          "media_count": 1720,
+          "tweet_count": 6253
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1972275027778404404",
+    "created_at": "2025-09-28T12:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T13:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972275027778404404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woshixiaoyu123…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/woshixiaoyu123/status/1964037551909474468",
+          "start": 5,
+          "url": "https://t.co/zFnrWdrmWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972275027778404404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964037551909474468",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依旧圈钱 https://t.co/zFnrWdrmWT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964037547677409280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0GpvmLXYAA3Bpo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1972275027778404404",
+        "created_at": "2025-09-28T12:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T13:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972275027778404404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woshixiaoyu123…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/woshixiaoyu123/status/1964037551909474468",
+              "start": 5,
+              "url": "https://t.co/zFnrWdrmWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972275027778404404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964037551909474468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧圈钱 https://t.co/zFnrWdrmWT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964037547677409280"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1964037551909474468",
+        "created_at": "2025-09-05T18:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T19:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964037551909474468"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "怜爱我",
+              "probability": 0.7282,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z2rpRfB1R8",
+              "end": 37,
+              "expanded_url": "https://x.com/lngyj147021/status/1964037551909474468/photo/1",
+              "media_key": "3_1964037547677409280",
+              "start": 14,
+              "url": "https://t.co/z2rpRfB1R8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964037551909474468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6083,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怜爱我ᐡ•͈ ·̭ •͈ᐡ https://t.co/z2rpRfB1R8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我要打一辈子王者荣耀",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3821,
+          "following_count": 165,
+          "like_count": 238,
+          "listed_count": 6,
+          "media_count": 635,
+          "tweet_count": 3794
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

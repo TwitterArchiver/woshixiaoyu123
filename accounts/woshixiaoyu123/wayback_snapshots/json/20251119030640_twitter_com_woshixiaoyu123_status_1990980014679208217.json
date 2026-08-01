@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990980012145848322"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1990980014679208217",
+    "created_at": "2025-11-19T03:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T04:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990980014679208217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1715156765602353152",
+          "start": 0,
+          "username": "FanXingDianYe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z5RquzmH9K",
+          "end": 38,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1990980014679208217/photo/1",
+          "media_key": "3_1990980012145848322",
+          "start": 15,
+          "url": "https://t.co/z5RquzmH9K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990980014679208217",
+    "in_reply_to_user_id": "1715156765602353152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@FanXingDianYe https://t.co/z5RquzmH9K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 839,
+        "media_key": "3_1990980012145848322",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FhxbrbMAId1dL.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990980012145848322"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1990980014679208217",
+        "created_at": "2025-11-19T03:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T04:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990980014679208217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1715156765602353152",
+              "start": 0,
+              "username": "FanXingDianYe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5RquzmH9K",
+              "end": 38,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1990980014679208217/photo/1",
+              "media_key": "3_1990980012145848322",
+              "start": 15,
+              "url": "https://t.co/z5RquzmH9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990980014679208217",
+        "in_reply_to_user_id": "1715156765602353152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@FanXingDianYe https://t.co/z5RquzmH9K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "爱吗",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16834,
+          "following_count": 168,
+          "like_count": 332,
+          "listed_count": 12,
+          "media_count": 1035,
+          "tweet_count": 5108
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T00:03:49.000Z",
+        "description": "。哦",
+        "id": "1715156765602353152",
+        "location": "火星",
+        "name": "潇潇",
+        "pinned_tweet_id": "1722080064156676377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986957957188202496/th2srQKQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 47,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "FanXingDianYe",
+        "verified": false
+      }
+    ]
+  }
+}

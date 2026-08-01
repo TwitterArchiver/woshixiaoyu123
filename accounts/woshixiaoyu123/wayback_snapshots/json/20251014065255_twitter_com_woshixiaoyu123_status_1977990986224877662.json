@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977990983657947137"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977990986224877662",
+    "created_at": "2025-10-14T06:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T07:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977990986224877662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hk4tdQqWdR",
+          "end": 29,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1977990986224877662/photo/1",
+          "media_key": "3_1977990983657947137",
+          "start": 6,
+          "url": "https://t.co/Hk4tdQqWdR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977990986224877662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "西格玛一次 https://t.co/Hk4tdQqWdR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977990983657947137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3M8Ud3bgAEe6aU.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977990983657947137"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977990986224877662",
+        "created_at": "2025-10-14T06:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T07:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977990986224877662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hk4tdQqWdR",
+              "end": 29,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1977990986224877662/photo/1",
+              "media_key": "3_1977990983657947137",
+              "start": 6,
+              "url": "https://t.co/Hk4tdQqWdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977990986224877662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西格玛一次 https://t.co/Hk4tdQqWdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5715,
+          "following_count": 159,
+          "like_count": 281,
+          "listed_count": 6,
+          "media_count": 709,
+          "tweet_count": 4216
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

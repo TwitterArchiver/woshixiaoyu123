@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1972202548833800389",
+    "created_at": "2025-09-28T08:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T09:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972224551674413077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1571733427334025230",
+          "start": 0,
+          "username": "Colleen50394733"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972224551674413077",
+    "in_reply_to_user_id": "1571733427334025230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972216784683212917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Colleen50394733 中辅！嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1972202548833800389",
+        "created_at": "2025-09-28T08:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T09:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972224551674413077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1571733427334025230",
+              "start": 0,
+              "username": "Colleen50394733"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972224551674413077",
+        "in_reply_to_user_id": "1571733427334025230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972216784683212917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Colleen50394733 中辅！嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571733427334025230",
+        "conversation_id": "1972202548833800389",
+        "created_at": "2025-09-28T08:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T09:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972216784683212917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972216784683212917",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972202548833800389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 盲猜一手射辅双排"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我要打一辈子王者荣耀",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3802,
+          "following_count": 164,
+          "like_count": 238,
+          "listed_count": 6,
+          "media_count": 631,
+          "tweet_count": 3786
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T05:30:52.000Z",
+        "description": "叫我🐻 | ISTJ♂| 组内首屈一指的牛马 | 出差专业户 | 谨慎不是缺点 | Birth in 00 | 端游单机手游农药 | 立志身材管理经常重新立志 | 北京交通卡为什么能在上海地铁用？ | 一直在与小头和激素战斗当前占优",
+        "id": "1571733427334025230",
+        "location": "秦岭站",
+        "name": "St. Peter Bear",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747288096679608320/RD7vb8G3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 111,
+          "like_count": 3110,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 384
+        },
+        "username": "Colleen50394733",
+        "verified": false
+      }
+    ]
+  }
+}

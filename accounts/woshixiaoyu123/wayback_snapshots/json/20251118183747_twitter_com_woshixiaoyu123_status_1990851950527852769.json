@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1990851950527852769",
+    "created_at": "2025-11-18T18:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T19:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990851950527852769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luvSweetk/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/luvSweetk/status/1957810065513341167",
+          "start": 6,
+          "url": "https://t.co/O70OM6KmNw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990851950527852769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957810065513341167",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢这个🤲 https://t.co/O70OM6KmNw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46276,
+        "height": 1440,
+        "media_key": "13_1957806402950557699",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957806402950557699/img/b6JQ_5IQZ4PK1FDo.jpg",
+        "public_metrics": {
+          "view_count": 1164619
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957806402950557699/pl/0Ylz-b1XxBv_AyHe.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957806402950557699/vid/avc1/480x640/uYRbp3LpB3wTeE-R.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957806402950557699/vid/avc1/1080x1440/79nUHfC4hwIJgHoB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957806402950557699/vid/avc1/720x960/bgbs8dJ5DBA63mG0.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957806402950557699/vid/avc1/320x426/npYEvxD5mH-x6oh0.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1990851950527852769",
+        "created_at": "2025-11-18T18:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T19:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990851950527852769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luvSweetk/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/luvSweetk/status/1957810065513341167",
+              "start": 6,
+              "url": "https://t.co/O70OM6KmNw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990851950527852769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957810065513341167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢这个🤲 https://t.co/O70OM6KmNw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957806402950557699"
+          ]
+        },
+        "author_id": "1640624454018519042",
+        "conversation_id": "1957810065513341167",
+        "created_at": "2025-08-19T14:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T15:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957810065513341167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1537352275290644481",
+              "start": 36,
+              "username": "ToBulma"
+            },
+            {
+              "end": 54,
+              "id": "1552529965371236352",
+              "start": 45,
+              "username": "ToBulaer"
+            },
+            {
+              "end": 66,
+              "id": "1732486642525474816",
+              "start": 56,
+              "username": "BulmaList"
+            },
+            {
+              "end": 79,
+              "id": "1591137880688144384",
+              "start": 67,
+              "username": "KawasawaSen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M70Ag0YeZ4",
+              "end": 103,
+              "expanded_url": "https://x.com/luvSweetk/status/1957810065513341167/video/1",
+              "media_key": "13_1957806402950557699",
+              "start": 80,
+              "url": "https://t.co/M70Ag0YeZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957810065513341167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4854,
+          "impression_count": 2876739,
+          "like_count": 23513,
+          "quote_count": 23,
+          "reply_count": 70,
+          "retweet_count": 1236
+        },
+        "reply_settings": "everyone",
+        "text": "醉酒做爱实录 \n喝的醉醺醺做爱好爽 指令听不清被狠狠耳光调教爽到高潮\n\n@ToBulma @ToBulaer \n@BulmaList @KawasawaSen https://t.co/M70Ag0YeZ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "爱吗",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16853,
+          "following_count": 168,
+          "like_count": 332,
+          "listed_count": 12,
+          "media_count": 1031,
+          "tweet_count": 5104
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T07:58:59.000Z",
+        "description": "🩶ིྀ Carpe diem /原创🔞 /switch/私信只回门槛🚪/合作带照私信/和感兴趣的男人做爱🍡/本人唯一电报https://t.co/dL0khBCcQ4✈️/恋爱日记：@kkforever00/关评均为推广 真假自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "kkforever00"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/luvsweetkk",
+                "end": 83,
+                "expanded_url": "https://t.me/luvsweetkk",
+                "start": 60,
+                "url": "https://t.co/dL0khBCcQ4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SweetKK_bot",
+                "end": 23,
+                "expanded_url": "https://t.me/SweetKK_bot",
+                "start": 0,
+                "url": "https://t.co/vVWFDsObak"
+              }
+            ]
+          }
+        },
+        "id": "1640624454018519042",
+        "location": "自助下单",
+        "name": "sweetkk",
+        "pinned_tweet_id": "1987919906193772660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853354341555752960/70RnIjcI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181809,
+          "following_count": 26,
+          "like_count": 617,
+          "listed_count": 401,
+          "media_count": 90,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/vVWFDsObak",
+        "username": "luvSweetk",
+        "verified": false
+      }
+    ]
+  }
+}

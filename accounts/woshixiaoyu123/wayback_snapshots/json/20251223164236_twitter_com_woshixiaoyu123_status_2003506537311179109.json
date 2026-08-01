@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2003506537311179109",
+    "created_at": "2025-12-23T16:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T17:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003506537311179109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915439156031090688",
+          "start": 3,
+          "username": "miser1bb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003506537311179109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003499007193325948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miser1bb: 这位不知道性别的人第二次偷我图了哈，第一次12.5日我就有发过她盗我照片，看聊天内容也能看得出来她承认了把视频删了想让我把挂她的帖子也删了，它大号冻结之后，重新起了个号接着发，第二次也是我粉丝告诉我才知道，我让她出来对峙，可以po原相机地址和日期她不…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003506537311179109].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003506537311179109",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003506537311179109"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 893,
+        "media_key": "3_2003498980131672065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83btRqbEAEJuOw.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003498980123308033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83btRobcAEb5bk.jpg",
+        "width": 945
+      },
+      {
+        "height": 680,
+        "media_key": "3_2003498980156801025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83btRwagAEplRq.jpg",
+        "width": 314
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003498980135829504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83btRragAAwK62.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003498980131672065",
+            "3_2003498980123308033",
+            "3_2003498980156801025",
+            "3_2003498980135829504"
+          ]
+        },
+        "author_id": "1915439156031090688",
+        "conversation_id": "2003499007193325948",
+        "created_at": "2025-12-23T16:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T17:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003499007193325948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 145,
+              "id": "1991616131736731648",
+              "start": 132,
+              "username": "77wannasnack"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/02dYh6vFHp",
+              "end": 169,
+              "expanded_url": "https://x.com/miser1bb/status/2003499007193325948/photo/1",
+              "media_key": "3_2003498980131672065",
+              "start": 146,
+              "url": "https://t.co/02dYh6vFHp"
+            },
+            {
+              "display_url": "pic.x.com/02dYh6vFHp",
+              "end": 169,
+              "expanded_url": "https://x.com/miser1bb/status/2003499007193325948/photo/1",
+              "media_key": "3_2003498980123308033",
+              "start": 146,
+              "url": "https://t.co/02dYh6vFHp"
+            },
+            {
+              "display_url": "pic.x.com/02dYh6vFHp",
+              "end": 169,
+              "expanded_url": "https://x.com/miser1bb/status/2003499007193325948/photo/1",
+              "media_key": "3_2003498980156801025",
+              "start": 146,
+              "url": "https://t.co/02dYh6vFHp"
+            },
+            {
+              "display_url": "pic.x.com/02dYh6vFHp",
+              "end": 169,
+              "expanded_url": "https://x.com/miser1bb/status/2003499007193325948/photo/1",
+              "media_key": "3_2003498980135829504",
+              "start": 146,
+              "url": "https://t.co/02dYh6vFHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003499007193325948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这位不知道性别的人第二次偷我图了哈，第一次12.5日我就有发过她盗我照片，看聊天内容也能看得出来她承认了把视频删了想让我把挂她的帖子也删了，它大号冻结之后，重新起了个号接着发，第二次也是我粉丝告诉我才知道，我让她出来对峙，可以po原相机地址和日期她不敢，共四张图 @77wannasnack https://t.co/02dYh6vFHp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16886,
+          "following_count": 166,
+          "like_count": 336,
+          "listed_count": 14,
+          "media_count": 1304,
+          "tweet_count": 5522
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T16:14:27.000Z",
+        "description": "喜欢可投喂",
+        "id": "1915439156031090688",
+        "location": "🚪520",
+        "name": "财宝",
+        "pinned_tweet_id": "2002639162076508286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915439451314270208/ucUWH2OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4973,
+          "following_count": 38,
+          "like_count": 285,
+          "listed_count": 58,
+          "media_count": 58,
+          "tweet_count": 183
+        },
+        "username": "miser1bb",
+        "verified": false
+      }
+    ]
+  }
+}

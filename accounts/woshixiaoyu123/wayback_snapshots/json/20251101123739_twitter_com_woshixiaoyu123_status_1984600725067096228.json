@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1984340492834988070",
+    "created_at": "2025-11-01T12:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T13:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984600725067096228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751178361970515968",
+          "start": 0,
+          "username": "Fouryn_Astar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984600725067096228",
+    "in_reply_to_user_id": "1751178361970515968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984593218747638118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fouryn_Astar 对对对对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1984340492834988070",
+        "created_at": "2025-11-01T12:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T13:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984600725067096228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751178361970515968",
+              "start": 0,
+              "username": "Fouryn_Astar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984600725067096228",
+        "in_reply_to_user_id": "1751178361970515968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984593218747638118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fouryn_Astar 对对对对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751178361970515968",
+        "conversation_id": "1984340492834988070",
+        "created_at": "2025-11-01T12:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T13:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984593218747638118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984593218747638118",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984340492834988070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 对方负责假装威胁，我负责假装被迫，这个真的很好味😋（仅限于喜欢的人）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了｜男科问题去医院挂号我不是医生｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 70,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 47,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13328,
+          "following_count": 150,
+          "like_count": 295,
+          "listed_count": 11,
+          "media_count": 777,
+          "tweet_count": 4553
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T09:40:40.000Z",
+        "description": "互联网中立派四有 | 国际高中高三生 | 友跨顺女 | 因为天气好，因为天气不好，因为天气刚刚好 | 欢迎互fo！",
+        "id": "1751178361970515968",
+        "location": "The Court Of The Crimson King",
+        "name": "四有有有有-ChakkaChakkaメルくりぃ🫨",
+        "pinned_tweet_id": "1984506418037473597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984476177726328832/AdBnyPG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 541,
+          "like_count": 6709,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1811
+        },
+        "username": "Fouryn_Astar",
+        "verified": false
+      }
+    ]
+  }
+}

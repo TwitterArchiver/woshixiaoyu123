@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989036044122222902",
+    "created_at": "2025-11-14T07:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T08:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989230950019133566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1651018702534627328",
+          "start": 0,
+          "username": "cunlove52"
+        },
+        {
+          "end": 21,
+          "id": "1531310260065271808",
+          "start": 11,
+          "username": "MissJuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989230950019133566",
+    "in_reply_to_user_id": "1651018702534627328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989036534872551878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cunlove52 @MissJuang 宝宝注意私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989036044122222902",
+        "created_at": "2025-11-14T07:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T08:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989230950019133566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1651018702534627328",
+              "start": 0,
+              "username": "cunlove52"
+            },
+            {
+              "end": 21,
+              "id": "1531310260065271808",
+              "start": 11,
+              "username": "MissJuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989230950019133566",
+        "in_reply_to_user_id": "1651018702534627328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989036534872551878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cunlove52 @MissJuang 宝宝注意私信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651018702534627328",
+        "conversation_id": "1989036044122222902",
+        "created_at": "2025-11-13T18:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T19:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989036534872551878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            },
+            {
+              "end": 26,
+              "id": "1531310260065271808",
+              "start": 16,
+              "username": "MissJuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989036534872551878",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989036044122222902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 @MissJuang 想喝 蹲蹲 祝美女找的心仪的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "祝你幸福///不接纯交友...",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16809,
+          "following_count": 160,
+          "like_count": 314,
+          "listed_count": 11,
+          "media_count": 953,
+          "tweet_count": 4938
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T00:21:54.000Z",
+        "description": "INTP 射手 05 1i ddlg sub偏brat ₍˄·͈༝·͈˄*₎◞ ̑̑\n只回礼貌宝宝",
+        "id": "1651018702534627328",
+        "location": "🚪99/199/299/520/1314喜欢请投喂喵",
+        "name": "纯",
+        "pinned_tweet_id": "1987917881657709024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685100589426843648/btDUqXDW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 98,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 204
+        },
+        "username": "cunlove52",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T16:23:18.000Z",
+        "description": "swi/少御音/瓦洲，欢迎和我聊天连麦玩游戏",
+        "id": "1531310260065271808",
+        "name": "Miss.Juang",
+        "pinned_tweet_id": "1987963701979472031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987582521748627456/r0QcXl30_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 21,
+          "like_count": 2,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 13
+        },
+        "username": "MissJuang",
+        "verified": false
+      }
+    ]
+  }
+}

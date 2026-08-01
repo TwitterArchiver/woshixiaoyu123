@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2055181449041768668",
+    "created_at": "2026-05-17T17:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T18:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056063132502831366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2052114339977687040",
+          "start": 0,
+          "username": "yibao_baocai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056063132502831366",
+    "in_reply_to_user_id": "2052114339977687040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055343872717509035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yibao_baocai 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2055181449041768668",
+        "created_at": "2026-05-17T17:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056063132502831366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2052114339977687040",
+              "start": 0,
+              "username": "yibao_baocai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056063132502831366",
+        "in_reply_to_user_id": "2052114339977687040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055343872717509035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yibao_baocai 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052114339977687040",
+        "conversation_id": "2055181449041768668",
+        "created_at": "2026-05-15T17:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055343872717509035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055343872717509035",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055181449041768668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 lol，还有后续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2046785857198477733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19319,
+          "following_count": 154,
+          "like_count": 377,
+          "listed_count": 21,
+          "media_count": 1736,
+          "tweet_count": 6419
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T19:52:41.000Z",
+        "description": "在线养老中。。。可以叫我医保，一点都不E的entp。。大家阔以找我聊天。。。",
+        "id": "2052114339977687040",
+        "location": "beijing haidian",
+        "name": "小包菜纯爱党",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054567321772175360/x0MXDcHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 45
+        },
+        "username": "yibao_baocai",
+        "verified": false
+      }
+    ]
+  }
+}

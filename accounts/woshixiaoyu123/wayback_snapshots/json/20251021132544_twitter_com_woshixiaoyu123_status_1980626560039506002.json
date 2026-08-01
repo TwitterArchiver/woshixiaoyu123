@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1980300768378073409",
+    "created_at": "2025-10-21T13:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T14:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980626560039506002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1857379582846087168",
+          "start": 0,
+          "username": "SufferM56215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980626560039506002",
+    "in_reply_to_user_id": "1857379582846087168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980625525464006843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SufferM56215 我下次注意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1980300768378073409",
+        "created_at": "2025-10-21T13:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T14:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980626560039506002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1857379582846087168",
+              "start": 0,
+              "username": "SufferM56215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980626560039506002",
+        "in_reply_to_user_id": "1857379582846087168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980625525464006843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SufferM56215 我下次注意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857379582846087168",
+        "conversation_id": "1980300768378073409",
+        "created_at": "2025-10-21T13:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T14:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980625525464006843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980625525464006843",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980300768378073409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 哥我求你了打码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的你｜不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8430,
+          "following_count": 161,
+          "like_count": 289,
+          "listed_count": 9,
+          "media_count": 737,
+          "tweet_count": 4376
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T11:06:44.000Z",
+        "description": "有🚪：每日读书半小时 xixi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com",
+                "end": 23,
+                "expanded_url": "http://www.bilibili.com",
+                "start": 0,
+                "url": "https://t.co/x44nXS4cvQ"
+              }
+            ]
+          }
+        },
+        "id": "1857379582846087168",
+        "location": "Central Region, Singapore",
+        "name": "Suffer Main",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977552903910109184/FUsqcF-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 331,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/x44nXS4cvQ",
+        "username": "SufferM56215",
+        "verified": false
+      }
+    ]
+  }
+}

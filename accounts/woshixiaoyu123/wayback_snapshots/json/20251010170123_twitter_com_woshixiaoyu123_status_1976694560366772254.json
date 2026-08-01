@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1976694000209084661",
+    "created_at": "2025-10-10T17:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T18:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976694560366772254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1793695924319096832",
+          "start": 0,
+          "username": "ynxio1659437"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976694560366772254",
+    "in_reply_to_user_id": "1793695924319096832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976694300022128922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynxio1659437 没有啊...没有嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1976694000209084661",
+        "created_at": "2025-10-10T17:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976694560366772254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1793695924319096832",
+              "start": 0,
+              "username": "ynxio1659437"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976694560366772254",
+        "in_reply_to_user_id": "1793695924319096832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976694300022128922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynxio1659437 没有啊...没有嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793695924319096832",
+        "conversation_id": "1976694000209084661",
+        "created_at": "2025-10-10T17:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976694300022128922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976694300022128922",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976694000209084661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 “没什么特殊癖好”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你和别人玩的时候，不要忘了手机对面还有个我呀。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4204,
+          "following_count": 162,
+          "like_count": 272,
+          "listed_count": 6,
+          "media_count": 667,
+          "tweet_count": 4041
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T17:30:19.000Z",
+        "description": "",
+        "id": "1793695924319096832",
+        "name": "胤筱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938275269066059776/HDPahC98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 112,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 61
+        },
+        "username": "ynxio1659437",
+        "verified": false
+      }
+    ]
+  }
+}

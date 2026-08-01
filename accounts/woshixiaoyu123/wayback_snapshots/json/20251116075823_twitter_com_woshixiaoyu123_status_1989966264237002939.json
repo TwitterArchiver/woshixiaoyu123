@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989966261175115776"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989966264237002939",
+    "created_at": "2025-11-16T07:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T08:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989966264237002939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1531119170066165762",
+          "start": 12,
+          "username": "you_xi27"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/saKTjmOGQW",
+          "end": 45,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989966264237002939/photo/1",
+          "media_key": "3_1989966261175115776",
+          "start": 22,
+          "url": "https://t.co/saKTjmOGQW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989966264237002939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私信发腹肌大胸领红包啦\n@you_xi27 https://t.co/saKTjmOGQW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1927,
+        "media_key": "3_1989966261175115776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53HxXBa4AAM31P.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989966261175115776"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989966264237002939",
+        "created_at": "2025-11-16T07:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T08:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989966264237002939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1531119170066165762",
+              "start": 12,
+              "username": "you_xi27"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/saKTjmOGQW",
+              "end": 45,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989966264237002939/photo/1",
+              "media_key": "3_1989966261175115776",
+              "start": 22,
+              "url": "https://t.co/saKTjmOGQW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989966264237002939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私信发腹肌大胸领红包啦\n@you_xi27 https://t.co/saKTjmOGQW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你对我的赞许是我最大的幸福",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16923,
+          "following_count": 167,
+          "like_count": 328,
+          "listed_count": 12,
+          "media_count": 1031,
+          "tweet_count": 5068
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T03:44:00.000Z",
+        "description": "美国留学生/情侣/出原味/会回正常私信/骚扰拉黑/情侣交流请直接私信/88r🚪解锁tg不定期doi视频照片/288r🚪解锁线下咨询 支持paypal/zelle/zfb口令",
+        "id": "1531119170066165762",
+        "location": "United States",
+        "name": "西柚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987773633536630784/3q4uanbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 1147,
+          "like_count": 534,
+          "listed_count": 7,
+          "media_count": 7,
+          "tweet_count": 48
+        },
+        "username": "you_xi27",
+        "verified": false
+      }
+    ]
+  }
+}

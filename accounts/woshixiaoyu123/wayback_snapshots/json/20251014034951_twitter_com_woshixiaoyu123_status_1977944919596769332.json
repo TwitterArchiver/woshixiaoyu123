@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977642491416567842",
+    "created_at": "2025-10-14T03:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T04:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977944919596769332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1976887216707407872",
+          "start": 0,
+          "username": "fngan496350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977944919596769332",
+    "in_reply_to_user_id": "1976887216707407872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977933120738635831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fngan496350 想要啥直接来我仓库拿呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977642491416567842",
+        "created_at": "2025-10-14T03:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T04:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977944919596769332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1976887216707407872",
+              "start": 0,
+              "username": "fngan496350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977944919596769332",
+        "in_reply_to_user_id": "1976887216707407872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977933120738635831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fngan496350 想要啥直接来我仓库拿呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976887216707407872",
+        "conversation_id": "1977642491416567842",
+        "created_at": "2025-10-14T03:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T04:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977933120738635831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977933120738635831",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977642491416567842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 你这散财童子啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5580,
+          "following_count": 159,
+          "like_count": 281,
+          "listed_count": 6,
+          "media_count": 707,
+          "tweet_count": 4209
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T05:47:01.000Z",
+        "description": "性是肉体生活，遵循快乐原则\n\n爱是精神生活，遵循理想原则\n\n婚是社会生活，遵循现实原则",
+        "id": "1976887216707407872",
+        "location": "天津",
+        "name": "方然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976889228400422912/LLfqiCKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 96,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "fngan496350",
+        "verified": false
+      }
+    ]
+  }
+}

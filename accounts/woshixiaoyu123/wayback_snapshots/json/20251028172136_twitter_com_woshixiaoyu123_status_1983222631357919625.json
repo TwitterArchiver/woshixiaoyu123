@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1983181398359134467",
+    "created_at": "2025-10-28T17:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T18:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983222631357919625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1943021120141299712",
+          "start": 0,
+          "username": "FrankJin0705"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983222631357919625",
+    "in_reply_to_user_id": "1943021120141299712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983199628163232218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrankJin0705 俺类娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1983181398359134467",
+        "created_at": "2025-10-28T17:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T18:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983222631357919625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1943021120141299712",
+              "start": 0,
+              "username": "FrankJin0705"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983222631357919625",
+        "in_reply_to_user_id": "1943021120141299712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983199628163232218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankJin0705 俺类娘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943021120141299712",
+        "conversation_id": "1983181398359134467",
+        "created_at": "2025-10-28T15:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T16:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983199628163232218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983199628163232218",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983181398359134467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 学校里一对情侣第一次开房 男生因为床单上没看到血质疑女生不是第一次👋还有后续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8792,
+          "following_count": 163,
+          "like_count": 288,
+          "listed_count": 8,
+          "media_count": 742,
+          "tweet_count": 4443
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T18:55:20.000Z",
+        "description": "",
+        "id": "1943021120141299712",
+        "location": "Shanghai",
+        "name": "Frank",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943021428460392448/ssXQb215_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 20,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "FrankJin0705",
+        "verified": true
+      }
+    ]
+  }
+}

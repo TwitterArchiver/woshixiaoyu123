@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1974513379705524440",
+    "created_at": "2025-10-04T16:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T17:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974514111452164155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1611898461544415235",
+          "start": 0,
+          "username": "yhzhang62644702"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974514111452164155",
+    "in_reply_to_user_id": "1611898461544415235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974513882086666485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yhzhang62644702 我觉得你说得对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1974513379705524440",
+        "created_at": "2025-10-04T16:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T17:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974514111452164155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1611898461544415235",
+              "start": 0,
+              "username": "yhzhang62644702"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974514111452164155",
+        "in_reply_to_user_id": "1611898461544415235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974513882086666485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yhzhang62644702 我觉得你说得对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611898461544415235",
+        "conversation_id": "1974513379705524440",
+        "created_at": "2025-10-04T16:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T17:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974513882086666485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974513882086666485",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974513379705524440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 你需要一个牛头、苏烈。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "想我就来找我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3884,
+          "following_count": 162,
+          "like_count": 263,
+          "listed_count": 7,
+          "media_count": 643,
+          "tweet_count": 3898
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-08T01:32:08.000Z",
+        "description": "。",
+        "id": "1611898461544415235",
+        "name": "yh zhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611898515625766913/bdbwfA1j_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 237,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 172
+        },
+        "username": "yhzhang62644702",
+        "verified": false
+      }
+    ]
+  }
+}

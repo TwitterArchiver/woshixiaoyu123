@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977441668883492969",
+    "created_at": "2025-10-13T06:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T07:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977624153240043898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1594986326591356929",
+          "start": 0,
+          "username": "XCBBNG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977624153240043898",
+    "in_reply_to_user_id": "1594986326591356929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977621512975978822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XCBBNG 行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977441668883492969",
+        "created_at": "2025-10-13T06:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T07:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977624153240043898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1594986326591356929",
+              "start": 0,
+              "username": "XCBBNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977624153240043898",
+        "in_reply_to_user_id": "1594986326591356929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977621512975978822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XCBBNG 行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594986326591356929",
+        "conversation_id": "1977441668883492969",
+        "created_at": "2025-10-13T06:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T07:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977621512975978822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977621512975978822",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977441668883492969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 SR-3M紧凑突击步枪-烽火地带-6HQU9MC01I8H42GRA91CL\nM7战斗步枪-烽火地带-6HR4QKC01I8H42GRA91CL\n不好用我给你补（bushi）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5117,
+          "following_count": 159,
+          "like_count": 279,
+          "listed_count": 6,
+          "media_count": 693,
+          "tweet_count": 4169
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T09:29:18.000Z",
+        "description": "屁话大王，超绝神金病脑回线条，乱七八糟游戏玩家（我什么都会一点！）请跟我玩游戏🤲🏻",
+        "id": "1594986326591356929",
+        "name": "香菜啵啵奶盖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950894769456222208/CT0E_7jD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 68,
+          "like_count": 3330,
+          "listed_count": 1,
+          "media_count": 745,
+          "tweet_count": 3313
+        },
+        "username": "XCBBNG",
+        "verified": false
+      }
+    ]
+  }
+}

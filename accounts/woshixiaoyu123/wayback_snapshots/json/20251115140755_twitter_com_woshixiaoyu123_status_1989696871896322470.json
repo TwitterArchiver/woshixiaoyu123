@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989696869111586816"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989696871896322470",
+    "created_at": "2025-11-15T14:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T15:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989696871896322470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RWuhf2dIIn",
+          "end": 30,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989696871896322470/photo/1",
+          "media_key": "3_1989696869111586816",
+          "start": 7,
+          "url": "https://t.co/RWuhf2dIIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989696871896322470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可爱可爱死了 https://t.co/RWuhf2dIIn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2066,
+        "media_key": "3_1989696869111586816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5zSwrYaYAA6JsR.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989696869111586816"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989696871896322470",
+        "created_at": "2025-11-15T14:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989696871896322470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWuhf2dIIn",
+              "end": 30,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989696871896322470/photo/1",
+              "media_key": "3_1989696869111586816",
+              "start": 7,
+              "url": "https://t.co/RWuhf2dIIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989696871896322470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可爱可爱死了 https://t.co/RWuhf2dIIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "12小时没回就是不接😔｜不接找🚪哥///",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16897,
+          "following_count": 165,
+          "like_count": 324,
+          "listed_count": 12,
+          "media_count": 1018,
+          "tweet_count": 5050
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1984281447101067611",
+    "created_at": "2025-10-31T15:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T16:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984281447101067611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/outside_gods/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/outside_gods/status/1984118972258881806",
+          "start": 10,
+          "url": "https://t.co/uOadtJZFuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984281447101067611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984118972258881806",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为啥连这种图都要偷 https://t.co/uOadtJZFuo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1868,
+        "media_key": "3_1984118948216872960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4kBq8yWoAAwq6j.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1984281447101067611",
+        "created_at": "2025-10-31T15:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984281447101067611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/outside_gods/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/outside_gods/status/1984118972258881806",
+              "start": 10,
+              "url": "https://t.co/uOadtJZFuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984281447101067611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984118972258881806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为啥连这种图都要偷 https://t.co/uOadtJZFuo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984118948216872960"
+          ]
+        },
+        "author_id": "1673849128223219713",
+        "conversation_id": "1984118972258881806",
+        "created_at": "2025-10-31T04:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T05:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984118972258881806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AxGygJpF9u",
+              "end": 29,
+              "expanded_url": "https://x.com/outside_gods/status/1984118972258881806/photo/1",
+              "media_key": "3_1984118948216872960",
+              "start": 6,
+              "url": "https://t.co/AxGygJpF9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984118972258881806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 76146,
+          "like_count": 139,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我会很惨！ https://t.co/AxGygJpF9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了｜男科问题去医院挂号我不是医生｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 70,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 47,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13078,
+          "following_count": 150,
+          "like_count": 295,
+          "listed_count": 11,
+          "media_count": 774,
+          "tweet_count": 4538
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T00:21:49.000Z",
+        "description": "`_____我主号 @huwudpvbqb45704",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "huwudpvbqb45704"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "htogfl.ypjlbmm.org",
+                "end": 23,
+                "expanded_url": "http://htogfl.ypjlbmm.org",
+                "start": 0,
+                "url": "https://t.co/Es7ELHdxIP"
+              }
+            ]
+          }
+        },
+        "id": "1673849128223219713",
+        "location": "抖音网红约炮性爱圈→",
+        "name": "沐子",
+        "pinned_tweet_id": "1925462600847880230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858215760167911424/s1dB4A2Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 187,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/Es7ELHdxIP",
+        "username": "outside_gods",
+        "verified": false
+      }
+    ]
+  }
+}

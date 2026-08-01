@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1999029335404192211",
+    "created_at": "2025-12-11T10:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T11:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999060617119076517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1861824884084711425",
+          "start": 0,
+          "username": "rnjyi6b2oo16754"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999060617119076517",
+    "in_reply_to_user_id": "1861824884084711425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999050101130743881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnjyi6b2oo16754 好滴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1999029335404192211",
+        "created_at": "2025-12-11T10:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999060617119076517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1861824884084711425",
+              "start": 0,
+              "username": "rnjyi6b2oo16754"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999060617119076517",
+        "in_reply_to_user_id": "1861824884084711425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999050101130743881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnjyi6b2oo16754 好滴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861824884084711425",
+        "conversation_id": "1999029335404192211",
+        "created_at": "2025-12-11T09:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999050101130743881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999050101130743881",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999029335404192211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 咪姐这就是一个骗🚪姐视频的੧😭੧不要信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16410,
+          "following_count": 165,
+          "like_count": 334,
+          "listed_count": 13,
+          "media_count": 1155,
+          "tweet_count": 5331
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-27T17:30:30.000Z",
+        "description": "03 私信关注回复 可✈️ 骗验证没浮木 可了解后过🚪不过不要打扰 电报私信备注推 https://t.co/9l01owVbdo 喜欢有礼貌的人 己过大v认证",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/wang07013",
+                "end": 65,
+                "expanded_url": "https://t.me/wang07013",
+                "start": 42,
+                "url": "https://t.co/9l01owVbdo"
+              }
+            ]
+          }
+        },
+        "id": "1861824884084711425",
+        "location": "188 520 1314🚪",
+        "name": "小慧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995934555891724288/_WE1fDOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 7,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 249
+        },
+        "username": "rnjyi6b2oo16754",
+        "verified": false
+      }
+    ]
+  }
+}

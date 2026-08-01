@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2037739366387482644",
+    "created_at": "2026-03-28T07:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T08:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037800028425924755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921008767036256258",
+          "start": 0,
+          "username": "JercyJ43187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037800028425924755",
+    "in_reply_to_user_id": "1921008767036256258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037739747108663524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JercyJ43187 偷吧偷吧我也是复制的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2037739366387482644",
+        "created_at": "2026-03-28T07:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037800028425924755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921008767036256258",
+              "start": 0,
+              "username": "JercyJ43187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037800028425924755",
+        "in_reply_to_user_id": "1921008767036256258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037739747108663524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JercyJ43187 偷吧偷吧我也是复制的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921008767036256258",
+        "conversation_id": "2037739366387482644",
+        "created_at": "2026-03-28T03:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037739747108663524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037739747108663524",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037739366387482644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 可以偷走吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19239,
+          "following_count": 159,
+          "like_count": 356,
+          "listed_count": 18,
+          "media_count": 1718,
+          "tweet_count": 6231
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T01:06:08.000Z",
+        "description": "les",
+        "id": "1921008767036256258",
+        "name": "Jercy",
+        "pinned_tweet_id": "2033548868227575850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987737816546398209/i3pOCHRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 204,
+          "like_count": 1229,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 260
+        },
+        "username": "JercyJ43187",
+        "verified": false
+      }
+    ]
+  }
+}

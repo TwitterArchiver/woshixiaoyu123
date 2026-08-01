@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988601329737146808",
+    "created_at": "2025-11-12T13:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T14:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988601329737146808"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988601329737146808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "。我前男友来找我投稿了\n以前没玩这个号的时候认识的...没认出我\n哎有点无奈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988601329737146808",
+        "created_at": "2025-11-12T13:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988601329737146808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988601329737146808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。我前男友来找我投稿了\n以前没玩这个号的时候认识的...没认出我\n哎有点无奈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你的心事我都懂=^ω^=",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15963,
+          "following_count": 158,
+          "like_count": 308,
+          "listed_count": 11,
+          "media_count": 881,
+          "tweet_count": 4812
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

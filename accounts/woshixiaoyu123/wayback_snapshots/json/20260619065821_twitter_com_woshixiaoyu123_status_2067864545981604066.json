@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2067864545981604066",
+    "created_at": "2026-06-19T06:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067864545981604066"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067864545981604066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们搞暖昧的时候小心点 别他妈搞到我老公了 他没公开我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2067864545981604066",
+        "created_at": "2026-06-19T06:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067864545981604066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067864545981604066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们搞暖昧的时候小心点 别他妈搞到我老公了 他没公开我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19281,
+          "following_count": 155,
+          "like_count": 401,
+          "listed_count": 20,
+          "media_count": 1748,
+          "tweet_count": 6506
+        },
+        "url": "",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

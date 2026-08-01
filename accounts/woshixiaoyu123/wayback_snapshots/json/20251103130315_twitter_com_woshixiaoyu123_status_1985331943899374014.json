@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1985069816269672564",
+    "created_at": "2025-11-03T13:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T14:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985331943899374014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1931580861205630976",
+          "start": 0,
+          "username": "qlc1229959"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985331943899374014",
+    "in_reply_to_user_id": "1931580861205630976",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985331597856698715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qlc1229959 111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1985069816269672564",
+        "created_at": "2025-11-03T13:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985331943899374014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1931580861205630976",
+              "start": 0,
+              "username": "qlc1229959"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985331943899374014",
+        "in_reply_to_user_id": "1931580861205630976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985331597856698715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qlc1229959 111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931580861205630976",
+        "conversation_id": "1985069816269672564",
+        "created_at": "2025-11-03T13:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985331597856698715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985331597856698715",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985069816269672564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 扣一看逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "带我玩游戏好嘛(｡í _ ì｡)｜谢谢你们理我｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 62,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 39,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13590,
+          "following_count": 151,
+          "like_count": 297,
+          "listed_count": 11,
+          "media_count": 797,
+          "tweet_count": 4604
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T05:16:32.000Z",
+        "description": "06年女大一枚🐱好想好想找个床搭子呀！！！  图集🚪8.88   🥹另外！我！不是！机器人！！！！！",
+        "id": "1931580861205630976",
+        "name": "钰钰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984509841650696192/vr7kqZ_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 30,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 32
+        },
+        "username": "qlc1229959",
+        "verified": false
+      }
+    ]
+  }
+}

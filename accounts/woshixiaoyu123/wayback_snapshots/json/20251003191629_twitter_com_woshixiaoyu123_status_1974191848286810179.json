@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1974078910825734641",
+    "created_at": "2025-10-03T19:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T20:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974191848286810179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1111501320236654592",
+          "start": 0,
+          "username": "senlipikapu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974191848286810179",
+    "in_reply_to_user_id": "1111501320236654592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974078910825734641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senlipikapu 其实这也是我xp..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1974078910825734641",
+        "created_at": "2025-10-03T19:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T20:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974191848286810179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1111501320236654592",
+              "start": 0,
+              "username": "senlipikapu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974191848286810179",
+        "in_reply_to_user_id": "1111501320236654592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974078910825734641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senlipikapu 其实这也是我xp..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1111501320236654592",
+        "conversation_id": "1974078910825734641",
+        "created_at": "2025-10-03T11:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T12:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974078910825734641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974078910825734641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1435,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我连麦的时候其实没那么喜欢磕炮 但是很喜欢在对方睡了之后不闭麦然后开始手冲 发出一些轻哼 会有一些格外的爽感.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "想我就来找我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3883,
+          "following_count": 167,
+          "like_count": 262,
+          "listed_count": 7,
+          "media_count": 643,
+          "tweet_count": 3883
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-29T05:32:20.000Z",
+        "description": "叫我杰尼 直男不恐同 私信请礼貌 \n点陪玩@ThClub_1 接陪玩 私人v🚪52 聊天超前点播 直接打赏或口令\n有事找小号V + dudududoovo \n匿名箱https://t.co/Zefaufwcda",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "ThClub_1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jienigui1",
+                "end": 105,
+                "expanded_url": "http://ngl.link/jienigui1",
+                "start": 82,
+                "url": "https://t.co/Zefaufwcda"
+              }
+            ]
+          }
+        },
+        "id": "1111501320236654592",
+        "location": "Shanghai",
+        "name": "dudududo",
+        "pinned_tweet_id": "1925971991783223578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875100682182926336/o3LknlfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10598,
+          "following_count": 29,
+          "like_count": 642,
+          "listed_count": 17,
+          "media_count": 126,
+          "tweet_count": 246
+        },
+        "username": "senlipikapu",
+        "verified": true
+      }
+    ]
+  }
+}

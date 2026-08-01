@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988977166168760320"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988977170124034507",
+    "created_at": "2025-11-13T14:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T15:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988977170124034507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1692369233299259392",
+          "start": 0,
+          "username": "zlgz0086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HzRqkQxcg8",
+          "end": 33,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1988977170124034507/photo/1",
+          "media_key": "3_1988977166168760320",
+          "start": 10,
+          "url": "https://t.co/HzRqkQxcg8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988977170124034507",
+    "in_reply_to_user_id": "1692369233299259392",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@zlgz0086 https://t.co/HzRqkQxcg8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1289,
+        "media_key": "3_1988977166168760320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5pEMc_aIAAp73r.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988977166168760320"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988977170124034507",
+        "created_at": "2025-11-13T14:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T15:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988977170124034507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692369233299259392",
+              "start": 0,
+              "username": "zlgz0086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HzRqkQxcg8",
+              "end": 33,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1988977170124034507/photo/1",
+              "media_key": "3_1988977166168760320",
+              "start": 10,
+              "url": "https://t.co/HzRqkQxcg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988977170124034507",
+        "in_reply_to_user_id": "1692369233299259392",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@zlgz0086 https://t.co/HzRqkQxcg8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你这些年 不停的去爱 我好想问你 你理解的自由 到底在哪 到底是什么样子的",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16473,
+          "following_count": 161,
+          "like_count": 312,
+          "listed_count": 11,
+          "media_count": 923,
+          "tweet_count": 4882
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T02:54:14.000Z",
+        "description": "窝系呆萌小蟑螂喜欢我的➕📡🚪128 288 588 888 1314......",
+        "id": "1692369233299259392",
+        "location": "56km不是人机  请踊跃给我私信 都会回复",
+        "name": "极品蟑螂公主",
+        "pinned_tweet_id": "1939743985683374307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902327499784335360/CwXaoLTr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3200,
+          "following_count": 21,
+          "like_count": 926,
+          "listed_count": 16,
+          "media_count": 284,
+          "tweet_count": 1874
+        },
+        "username": "zlgz0086",
+        "verified": false
+      }
+    ]
+  }
+}

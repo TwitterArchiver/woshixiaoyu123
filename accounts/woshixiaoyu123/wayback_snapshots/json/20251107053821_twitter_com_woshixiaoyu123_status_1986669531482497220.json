@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986669528710041600"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1986669531482497220",
+    "created_at": "2025-11-07T05:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T06:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986669531482497220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dvAZwBm3FL",
+          "end": 45,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1986669531482497220/photo/1",
+          "media_key": "3_1986669528710041600",
+          "start": 22,
+          "url": "https://t.co/dvAZwBm3FL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986669531482497220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "熬夜➕一天一顿饭\n瘦下去了 不过更爱生病了 https://t.co/dvAZwBm3FL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_1986669528710041600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5IRaRja0AAPBLG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986669528710041600"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986669531482497220",
+        "created_at": "2025-11-07T05:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T06:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986669531482497220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvAZwBm3FL",
+              "end": 45,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1986669531482497220/photo/1",
+              "media_key": "3_1986669528710041600",
+              "start": 22,
+              "url": "https://t.co/dvAZwBm3FL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986669531482497220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熬夜➕一天一顿饭\n瘦下去了 不过更爱生病了 https://t.co/dvAZwBm3FL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你的少女心事我都懂",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14145,
+          "following_count": 151,
+          "like_count": 300,
+          "listed_count": 11,
+          "media_count": 818,
+          "tweet_count": 4671
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014607931933868032"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "2014607934186291325",
+    "created_at": "2026-01-23T07:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T08:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014607934186291325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1989936574033993728",
+          "start": 0,
+          "username": "yn7hu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oa4EoVBuQ1",
+          "end": 30,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2014607934186291325/photo/1",
+          "media_key": "3_2014607931933868032",
+          "start": 7,
+          "url": "https://t.co/Oa4EoVBuQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014607934186291325",
+    "in_reply_to_user_id": "1989936574033993728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@yn7hu https://t.co/Oa4EoVBuQ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 529,
+        "media_key": "3_2014607931933868032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VTPYCaQAA48al.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014607931933868032"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "2014607934186291325",
+        "created_at": "2026-01-23T07:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014607934186291325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1989936574033993728",
+              "start": 0,
+              "username": "yn7hu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oa4EoVBuQ1",
+              "end": 30,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2014607934186291325/photo/1",
+              "media_key": "3_2014607931933868032",
+              "start": 7,
+              "url": "https://t.co/Oa4EoVBuQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014607934186291325",
+        "in_reply_to_user_id": "1989936574033993728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@yn7hu https://t.co/Oa4EoVBuQ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我｜答疑解惑｜看投稿点媒体｜不接推广",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18719,
+          "following_count": 174,
+          "like_count": 346,
+          "listed_count": 18,
+          "media_count": 1663,
+          "tweet_count": 5962
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T06:00:34.000Z",
+        "description": "每天最重要的就是要开心哦，祝大家每天都能开开心心的，然后🚪的话188/128/88随缘 闲聊交朋友！，你可以收获一个萌萌的主播➗🧦and（被🍊叔关注）",
+        "id": "1989936574033993728",
+        "location": "Kanagawa-ken, Japan",
+        "name": "小y是（大冤种）",
+        "pinned_tweet_id": "1998952326200176889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990273947041239040/ovuLjgzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 37,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 356
+        },
+        "username": "yn7hu",
+        "verified": false
+      }
+    ]
+  }
+}

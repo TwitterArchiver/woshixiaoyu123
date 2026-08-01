@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009939854428401664"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "2009939857355973004",
+    "created_at": "2026-01-10T10:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T11:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009939857355973004"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 1,
+          "normalized_text": "泉州",
+          "probability": 0.4353,
+          "start": 0,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3l9FFn47Xl",
+          "end": 26,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2009939857355973004/photo/1",
+          "media_key": "3_2009939854428401664",
+          "start": 3,
+          "url": "https://t.co/3l9FFn47Xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009939857355973004",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "泉州 https://t.co/3l9FFn47Xl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1050,
+        "media_key": "3_2009939854428401664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-S9pgMa8AAY7Qr.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009939854428401664"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "2009939857355973004",
+        "created_at": "2026-01-10T10:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T11:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009939857355973004"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "泉州",
+              "probability": 0.4353,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3l9FFn47Xl",
+              "end": 26,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2009939857355973004/photo/1",
+              "media_key": "3_2009939854428401664",
+              "start": 3,
+              "url": "https://t.co/3l9FFn47Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009939857355973004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泉州 https://t.co/3l9FFn47Xl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17623,
+          "following_count": 171,
+          "like_count": 343,
+          "listed_count": 17,
+          "media_count": 1534,
+          "tweet_count": 5794
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

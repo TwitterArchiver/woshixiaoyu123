@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977770832840831222",
+    "created_at": "2025-10-13T16:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T17:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977771698322890820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1932637022319226884",
+          "start": 0,
+          "username": "inte_rsection"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977771698322890820",
+    "in_reply_to_user_id": "1932637022319226884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977771242238427356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inte_rsection 国际服我不会搞联机(´╥ω╥`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977770832840831222",
+        "created_at": "2025-10-13T16:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T17:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977771698322890820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1932637022319226884",
+              "start": 0,
+              "username": "inte_rsection"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977771698322890820",
+        "in_reply_to_user_id": "1932637022319226884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977771242238427356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inte_rsection 国际服我不会搞联机(´╥ω╥`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932637022319226884",
+        "conversation_id": "1977770832840831222",
+        "created_at": "2025-10-13T16:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T17:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977771242238427356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977771242238427356",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977770832840831222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 国际服我可以，网易那个就算了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5349,
+          "following_count": 159,
+          "like_count": 280,
+          "listed_count": 6,
+          "media_count": 697,
+          "tweet_count": 4184
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T03:14:27.000Z",
+        "description": "",
+        "id": "1932637022319226884",
+        "location": "江苏",
+        "name": "嗨嗨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932637527120519168/NadfOone_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 54,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "inte_rsection",
+        "verified": false
+      }
+    ]
+  }
+}

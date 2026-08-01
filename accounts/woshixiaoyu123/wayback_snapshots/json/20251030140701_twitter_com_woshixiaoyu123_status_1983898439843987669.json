@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1983898439843987669",
+    "created_at": "2025-10-30T14:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T15:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983898439843987669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shaomingan/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/shaomingan/status/1978150598152196433",
+          "start": 7,
+          "url": "https://t.co/O5W8J747Ej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983898439843987669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978150598152196433",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我闺蜜嘿嘿↓ https://t.co/O5W8J747Ej"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1978150598152196433].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1978150598152196433",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1978150598152196433"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1983898439843987669",
+        "created_at": "2025-10-30T14:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983898439843987669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shaomingan/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/shaomingan/status/1978150598152196433",
+              "start": 7,
+              "url": "https://t.co/O5W8J747Ej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983898439843987669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978150598152196433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我闺蜜嘿嘿↓ https://t.co/O5W8J747Ej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10981,
+          "following_count": 149,
+          "like_count": 288,
+          "listed_count": 10,
+          "media_count": 760,
+          "tweet_count": 4495
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

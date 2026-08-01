@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1986490865955811439",
+    "created_at": "2025-11-06T17:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T18:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986493025821012215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906245698594742272",
+          "start": 0,
+          "username": "SkyeAnAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986493025821012215",
+    "in_reply_to_user_id": "1906245698594742272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986492941763027353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SkyeAnAT 明天尝尝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1986490865955811439",
+        "created_at": "2025-11-06T17:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T18:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986493025821012215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906245698594742272",
+              "start": 0,
+              "username": "SkyeAnAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986493025821012215",
+        "in_reply_to_user_id": "1906245698594742272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986492941763027353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SkyeAnAT 明天尝尝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906245698594742272",
+        "conversation_id": "1986490865955811439",
+        "created_at": "2025-11-06T17:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T18:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986492941763027353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986492941763027353",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986490865955811439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 杨枝甘露不管怎么做应该都挺好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "带我玩游戏好嘛(｡í _ ì｡)｜不接推广 转推 合作 不收口令｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnEbr6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 71,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 48,
+                "url": "https://t.co/kwrUsnEbr6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WN3qp"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14043,
+          "following_count": 150,
+          "like_count": 300,
+          "listed_count": 11,
+          "media_count": 814,
+          "tweet_count": 4663
+        },
+        "url": "https://t.co/Qxp67WN3qp",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T07:23:05.000Z",
+        "description": "当朋友圈随便发发",
+        "id": "1906245698594742272",
+        "name": "Skye",
+        "pinned_tweet_id": "1939359435685859745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942487438628143104/W02yxw7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 41,
+          "like_count": 2696,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 1083
+        },
+        "username": "SkyeAnAT",
+        "verified": false
+      }
+    ]
+  }
+}

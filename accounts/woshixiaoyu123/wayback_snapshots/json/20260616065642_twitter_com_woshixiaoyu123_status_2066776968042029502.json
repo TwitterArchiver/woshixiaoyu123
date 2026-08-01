@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2066776968042029502",
+    "created_at": "2026-06-16T06:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066776968042029502"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066776968042029502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得嗦牛子这个动作其实是非常有主体性为什么因为我在做这个动作的时候我其实是把控住了这个男人的命脉他的生杀大权都在我嘴里我随时可以生杀予夺特别有主体性特别飒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2066776968042029502",
+        "created_at": "2026-06-16T06:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066776968042029502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066776968042029502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得嗦牛子这个动作其实是非常有主体性为什么因为我在做这个动作的时候我其实是把控住了这个男人的命脉他的生杀大权都在我嘴里我随时可以生杀予夺特别有主体性特别飒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19280,
+          "following_count": 156,
+          "like_count": 400,
+          "listed_count": 20,
+          "media_count": 1749,
+          "tweet_count": 6499
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

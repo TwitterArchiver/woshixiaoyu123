@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2037739366387482644",
+    "created_at": "2026-03-28T03:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T04:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037739366387482644"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037739366387482644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们谁他妈的传我瓜？有些人嘴巴怎么那么欠？把你当朋友才把这事情告诉你 结果你转一头就告诉别人 搞得所有人都知道我会疼人 会哄人 打直球 纯爱 引导型恋人 你满意了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2037739366387482644",
+        "created_at": "2026-03-28T03:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037739366387482644"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037739366387482644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁他妈的传我瓜？有些人嘴巴怎么那么欠？把你当朋友才把这事情告诉你 结果你转一头就告诉别人 搞得所有人都知道我会疼人 会哄人 打直球 纯爱 引导型恋人 你满意了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19242,
+          "following_count": 159,
+          "like_count": 356,
+          "listed_count": 18,
+          "media_count": 1718,
+          "tweet_count": 6230
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

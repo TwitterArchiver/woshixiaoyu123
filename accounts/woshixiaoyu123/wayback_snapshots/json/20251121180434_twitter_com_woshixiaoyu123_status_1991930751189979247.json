@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991930748107096064",
+        "3_1991930745586331649"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1991930751189979247",
+    "created_at": "2025-11-21T18:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T19:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991930751189979247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5EwvdN9f3L",
+          "end": 40,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1991930751189979247/photo/1",
+          "media_key": "3_1991930748107096064",
+          "start": 17,
+          "url": "https://t.co/5EwvdN9f3L"
+        },
+        {
+          "display_url": "pic.x.com/5EwvdN9f3L",
+          "end": 40,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1991930751189979247/photo/1",
+          "media_key": "3_1991930745586331649",
+          "start": 17,
+          "url": "https://t.co/5EwvdN9f3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991930751189979247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难打的我想哭🥲除了五排根本赢不了 https://t.co/5EwvdN9f3L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1991930748107096064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6TCdjIaAAAcBJQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1991930745586331649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6TCdZvaMAEp1Kr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991930748107096064",
+            "3_1991930745586331649"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1991930751189979247",
+        "created_at": "2025-11-21T18:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T19:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991930751189979247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5EwvdN9f3L",
+              "end": 40,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1991930751189979247/photo/1",
+              "media_key": "3_1991930748107096064",
+              "start": 17,
+              "url": "https://t.co/5EwvdN9f3L"
+            },
+            {
+              "display_url": "pic.x.com/5EwvdN9f3L",
+              "end": 40,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1991930751189979247/photo/1",
+              "media_key": "3_1991930745586331649",
+              "start": 17,
+              "url": "https://t.co/5EwvdN9f3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991930751189979247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难打的我想哭🥲除了五排根本赢不了 https://t.co/5EwvdN9f3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "爱吗",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16643,
+          "following_count": 169,
+          "like_count": 332,
+          "listed_count": 12,
+          "media_count": 1049,
+          "tweet_count": 5135
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

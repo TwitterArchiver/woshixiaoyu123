@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988838454814245335",
+    "created_at": "2025-11-13T10:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T11:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988924264242946149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850916637672980482",
+          "start": 0,
+          "username": "77love778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988924264242946149",
+    "in_reply_to_user_id": "1850916637672980482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988923399708508248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77love778 终于我们上床了 男神一件一件的脱掉了我的外裤 加厚棉裤 保暖秋裤 打底裤 纯棉内裤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988838454814245335",
+        "created_at": "2025-11-13T10:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988924264242946149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850916637672980482",
+              "start": 0,
+              "username": "77love778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988924264242946149",
+        "in_reply_to_user_id": "1850916637672980482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988923399708508248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77love778 终于我们上床了 男神一件一件的脱掉了我的外裤 加厚棉裤 保暖秋裤 打底裤 纯棉内裤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850916637672980482",
+        "conversation_id": "1988838454814245335",
+        "created_at": "2025-11-13T10:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988923399708508248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988923399708508248",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988838454814245335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 冬天了 起码要从加厚棉裤脱到保暖秋裤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你这些年 不停的去爱 我好想问你 你理解的自由 到底在哪 到底是什么样子的",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16397,
+          "following_count": 160,
+          "like_count": 312,
+          "listed_count": 11,
+          "media_count": 916,
+          "tweet_count": 4875
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T15:05:04.000Z",
+        "description": "BBW ｜ENFP敏感脆弱小女孩｜喜ddlg brat｜私信前请关注🚪188（口令） 已过@KawasawaSen @SexytoGbds @Fengsiyuan认证",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "KawasawaSen"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "SexytoGbds"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Fengsiyuan"
+              }
+            ]
+          }
+        },
+        "id": "1850916637672980482",
+        "location": "青岛",
+        "name": "贪吃琪（无性版）",
+        "pinned_tweet_id": "1916475283164848580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986270797732921344/mwPDKOLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4399,
+          "following_count": 193,
+          "like_count": 967,
+          "listed_count": 13,
+          "media_count": 156,
+          "tweet_count": 1364
+        },
+        "username": "77love778",
+        "verified": false
+      }
+    ]
+  }
+}

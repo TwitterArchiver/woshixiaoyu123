@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1991841839436157302",
+    "created_at": "2025-11-21T18:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T19:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991935912733966711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1863473278247141376",
+          "start": 0,
+          "username": "qaq5777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991935912733966711",
+    "in_reply_to_user_id": "1863473278247141376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991841839436157302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qaq5777 好萌好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_1991841828984033280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6RxlxlbkAAGZp0.jpg",
+        "width": 1572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1991841839436157302",
+        "created_at": "2025-11-21T18:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T19:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991935912733966711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1863473278247141376",
+              "start": 0,
+              "username": "qaq5777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991935912733966711",
+        "in_reply_to_user_id": "1863473278247141376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991841839436157302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qaq5777 好萌好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991841828984033280"
+          ]
+        },
+        "author_id": "1863473278247141376",
+        "conversation_id": "1991841839436157302",
+        "created_at": "2025-11-21T12:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T13:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991841839436157302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7BKVf752SU",
+              "end": 34,
+              "expanded_url": "https://x.com/qaq5777/status/1991841839436157302/photo/1",
+              "media_key": "3_1991841828984033280",
+              "start": 11,
+              "url": "https://t.co/7BKVf752SU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991841839436157302",
+        "lang": "ka",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3895,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "૮₍ ˶•‸•˶₎ა https://t.co/7BKVf752SU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "爱吗",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16643,
+          "following_count": 169,
+          "like_count": 333,
+          "listed_count": 12,
+          "media_count": 1051,
+          "tweet_count": 5147
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T06:40:37.000Z",
+        "description": "想发什么发什么 防走丢小号@neverovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "neverovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kbg.mi.le.mileoffice.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://kbg.mi.le.mileoffice.com/index.php#/register?code=0xQPXqQf",
+                "start": 0,
+                "url": "https://t.co/clDC5C127S"
+              }
+            ]
+          }
+        },
+        "id": "1863473278247141376",
+        "location": "🚪188/520 置顶关评推广自辨 🪜👇🏻",
+        "name": "不加冰",
+        "pinned_tweet_id": "1953443779530350682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895054154084564992/SkRpTx_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38794,
+          "following_count": 281,
+          "like_count": 12105,
+          "listed_count": 81,
+          "media_count": 194,
+          "tweet_count": 5127
+        },
+        "url": "https://t.co/clDC5C127S",
+        "username": "qaq5777",
+        "verified": false
+      }
+    ]
+  }
+}

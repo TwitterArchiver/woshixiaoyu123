@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1980666215329943674",
+    "created_at": "2025-10-21T16:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T17:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980667420726657054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975179470869819392",
+          "start": 0,
+          "username": "YenGia6452"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980667420726657054",
+    "in_reply_to_user_id": "1975179470869819392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980667024918606125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YenGia6452 呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1980666215329943674",
+        "created_at": "2025-10-21T16:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T17:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980667420726657054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975179470869819392",
+              "start": 0,
+              "username": "YenGia6452"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980667420726657054",
+        "in_reply_to_user_id": "1975179470869819392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980667024918606125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YenGia6452 呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975179470869819392",
+        "conversation_id": "1980666215329943674",
+        "created_at": "2025-10-21T16:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T17:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980667024918606125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980667024918606125",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980666215329943674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 考虑的多自然就成了笨蛋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的你｜不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8429,
+          "following_count": 161,
+          "like_count": 289,
+          "listed_count": 9,
+          "media_count": 730,
+          "tweet_count": 4379
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T12:41:22.000Z",
+        "description": "",
+        "id": "1975179470869819392",
+        "location": "中华人民共和国",
+        "name": "Gia Yen Bui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976212593753849856/Lo9N8UsT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 253,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1257
+        },
+        "username": "YenGia6452",
+        "verified": false
+      }
+    ]
+  }
+}

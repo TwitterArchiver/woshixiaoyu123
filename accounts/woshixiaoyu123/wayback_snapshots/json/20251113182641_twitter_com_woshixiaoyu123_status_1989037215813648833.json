@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989037213313822724",
+        "3_1989037213498343424"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989037215813648833",
+    "created_at": "2025-11-13T18:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T19:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989037215813648833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680595422723850241",
+          "start": 0,
+          "username": "kafei3680145016"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OoChV0AVZ6",
+          "end": 40,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989037215813648833/photo/1",
+          "media_key": "3_1989037213313822724",
+          "start": 17,
+          "url": "https://t.co/OoChV0AVZ6"
+        },
+        {
+          "display_url": "pic.x.com/OoChV0AVZ6",
+          "end": 40,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989037215813648833/photo/1",
+          "media_key": "3_1989037213498343424",
+          "start": 17,
+          "url": "https://t.co/OoChV0AVZ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989037215813648833",
+    "in_reply_to_user_id": "1680595422723850241",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@kafei3680145016 https://t.co/OoChV0AVZ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1623,
+        "media_key": "3_1989037213313822724",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5p6zqCacAQ_72k.jpg",
+        "width": 1255
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989037213498343424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5p6zquaAAACBqS.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989037213313822724",
+            "3_1989037213498343424"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989037215813648833",
+        "created_at": "2025-11-13T18:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T19:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989037215813648833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680595422723850241",
+              "start": 0,
+              "username": "kafei3680145016"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OoChV0AVZ6",
+              "end": 40,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989037215813648833/photo/1",
+              "media_key": "3_1989037213313822724",
+              "start": 17,
+              "url": "https://t.co/OoChV0AVZ6"
+            },
+            {
+              "display_url": "pic.x.com/OoChV0AVZ6",
+              "end": 40,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989037215813648833/photo/1",
+              "media_key": "3_1989037213498343424",
+              "start": 17,
+              "url": "https://t.co/OoChV0AVZ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989037215813648833",
+        "in_reply_to_user_id": "1680595422723850241",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@kafei3680145016 https://t.co/OoChV0AVZ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "祝你幸福｜交友请告诉我是否匿名˃ㅅ˂ 不匿会艾特｜不收费..硬要打赏我还是会笑纳的ovo",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16620,
+          "following_count": 161,
+          "like_count": 313,
+          "listed_count": 11,
+          "media_count": 939,
+          "tweet_count": 4902
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T15:09:19.000Z",
+        "description": "",
+        "id": "1680595422723850241",
+        "name": "咖啡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976722420116733954/fOKxX7Kg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 121,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "username": "kafei3680145016",
+        "verified": false
+      }
+    ]
+  }
+}

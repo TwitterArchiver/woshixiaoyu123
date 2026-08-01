@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978367185144983552"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1978367187975913617",
+    "created_at": "2025-10-15T07:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T08:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978367187975913617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wj7RzfrwD0",
+          "end": 26,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1978367187975913617/photo/1",
+          "media_key": "3_1978367185144983552",
+          "start": 3,
+          "url": "https://t.co/wj7RzfrwD0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978367187975913617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "合理 https://t.co/wj7RzfrwD0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_1978367185144983552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3SSeRnbMAAo4kQ.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978367185144983552"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1978367187975913617",
+        "created_at": "2025-10-15T07:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T08:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978367187975913617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wj7RzfrwD0",
+              "end": 26,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1978367187975913617/photo/1",
+              "media_key": "3_1978367185144983552",
+              "start": 3,
+              "url": "https://t.co/wj7RzfrwD0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978367187975913617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "合理 https://t.co/wj7RzfrwD0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6470,
+          "following_count": 159,
+          "like_count": 284,
+          "listed_count": 8,
+          "media_count": 714,
+          "tweet_count": 4268
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

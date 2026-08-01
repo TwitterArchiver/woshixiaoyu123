@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2071241933092249794",
+    "created_at": "2026-06-29T03:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T04:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071437393279037918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1582921343456407552",
+          "start": 0,
+          "username": "Ttbcy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071437393279037918",
+    "in_reply_to_user_id": "1582921343456407552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071241933092249794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ttbcy1 腰好细!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_2071241914154950656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6HjAkbIAAYNnQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2071241933092249794",
+        "created_at": "2026-06-29T03:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T04:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071437393279037918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1582921343456407552",
+              "start": 0,
+              "username": "Ttbcy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071437393279037918",
+        "in_reply_to_user_id": "1582921343456407552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071241933092249794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ttbcy1 腰好细!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071241914154950656"
+          ]
+        },
+        "author_id": "1582921343456407552",
+        "conversation_id": "2071241933092249794",
+        "created_at": "2026-06-28T14:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071241933092249794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gpucb9BkcO",
+              "end": 31,
+              "expanded_url": "https://x.com/Ttbcy1/status/2071241933092249794/photo/1",
+              "media_key": "3_2071241914154950656",
+              "start": 8,
+              "url": "https://t.co/Gpucb9BkcO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071241933092249794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 524,
+          "impression_count": 47933,
+          "like_count": 3709,
+          "quote_count": 4,
+          "reply_count": 36,
+          "retweet_count": 227
+        },
+        "reply_settings": "everyone",
+        "text": "走失的人形少女 https://t.co/Gpucb9BkcO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19261,
+          "following_count": 153,
+          "like_count": 408,
+          "listed_count": 19,
+          "media_count": 1750,
+          "tweet_count": 6523
+        },
+        "url": "",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T02:27:22.000Z",
+        "description": "繩縛/清水/請保持距離/夢想是我哥給我買吃不完的巧克力૮ต•̤ ༝ •̤ตა@Ttbcy2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "Ttbcy2"
+              }
+            ]
+          }
+        },
+        "id": "1582921343456407552",
+        "location": "Hong Kong",
+        "name": "随时准备紫砂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908386998198689795/rNLYgHCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62897,
+          "following_count": 29,
+          "like_count": 1440,
+          "listed_count": 174,
+          "media_count": 79,
+          "tweet_count": 575
+        },
+        "url": "",
+        "username": "Ttbcy1",
+        "verified": false
+      }
+    ]
+  }
+}

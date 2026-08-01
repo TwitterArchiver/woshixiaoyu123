@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1976709034003861694",
+    "created_at": "2025-10-11T03:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T04:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976850081526825260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845752446724997120",
+          "start": 0,
+          "username": "MurasameSki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976850081526825260",
+    "in_reply_to_user_id": "1845752446724997120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976795417213026767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MurasameSki 有意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1976709034003861694",
+        "created_at": "2025-10-11T03:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T04:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976850081526825260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845752446724997120",
+              "start": 0,
+              "username": "MurasameSki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976850081526825260",
+        "in_reply_to_user_id": "1845752446724997120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976795417213026767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MurasameSki 有意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845752446724997120",
+        "conversation_id": "1976709034003861694",
+        "created_at": "2025-10-10T23:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T00:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976795417213026767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976795417213026767",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976709034003861694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 出来了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢青年音",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4259,
+          "following_count": 162,
+          "like_count": 274,
+          "listed_count": 6,
+          "media_count": 674,
+          "tweet_count": 4068
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T09:04:26.000Z",
+        "description": "请多多找我聊天吧！ 负能量散播源 @Kutanier4921  ⚠️真负能量，慎重考虑是否想了解",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "Kutanier4921"
+              }
+            ]
+          }
+        },
+        "id": "1845752446724997120",
+        "location": "1km",
+        "name": "木木木木木子",
+        "pinned_tweet_id": "1976541042284560689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975927475839668225/uIl24aiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 144,
+          "like_count": 1508,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1714
+        },
+        "username": "MurasameSki",
+        "verified": false
+      }
+    ]
+  }
+}

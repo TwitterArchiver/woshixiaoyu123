@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1983011190986207331",
+    "created_at": "2025-10-28T17:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T18:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983221671159808221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1969075635994959872",
+          "start": 0,
+          "username": "lyy11005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983221671159808221",
+    "in_reply_to_user_id": "1969075635994959872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983207920528404810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyy11005 我看见过你吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1094,
+        "media_key": "3_1983207912920231939",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4XFFt1asAM1GUT.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1983011190986207331",
+        "created_at": "2025-10-28T17:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T18:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983221671159808221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1969075635994959872",
+              "start": 0,
+              "username": "lyy11005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983221671159808221",
+        "in_reply_to_user_id": "1969075635994959872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983207920528404810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyy11005 我看见过你吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983207912920231939"
+          ]
+        },
+        "author_id": "1969075635994959872",
+        "conversation_id": "1983011190986207331",
+        "created_at": "2025-10-28T16:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T17:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983207920528404810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aiyl0P1jm3",
+              "end": 52,
+              "expanded_url": "https://x.com/lyy11005/status/1983207920528404810/photo/1",
+              "media_key": "3_1983207912920231939",
+              "start": 29,
+              "url": "https://t.co/Aiyl0P1jm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983207920528404810",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983011190986207331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 救命我不行了宝宝哈哈哈哈 https://t.co/Aiyl0P1jm3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8785,
+          "following_count": 163,
+          "like_count": 288,
+          "listed_count": 8,
+          "media_count": 741,
+          "tweet_count": 4441
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T16:26:43.000Z",
+        "description": "🚪200 纯圈 只回复口令",
+        "id": "1969075635994959872",
+        "name": "ll",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972674547754364928/4qsRD0HM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 49,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "lyy11005",
+        "verified": false
+      }
+    ]
+  }
+}

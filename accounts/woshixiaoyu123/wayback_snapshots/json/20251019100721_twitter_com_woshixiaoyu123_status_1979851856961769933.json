@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1979772724865372416",
+    "created_at": "2025-10-19T10:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T11:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979851856961769933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1399201612053106695",
+          "start": 0,
+          "username": "Yuren53067235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979851856961769933",
+    "in_reply_to_user_id": "1399201612053106695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979824440440758684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuren53067235 卧槽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979824436153888768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3m_1cqXMAAlFvv.jpg",
+        "width": 166
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979824437638651904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3m_1iMW4AArJQg.jpg",
+        "width": 170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1979772724865372416",
+        "created_at": "2025-10-19T10:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T11:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979851856961769933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1399201612053106695",
+              "start": 0,
+              "username": "Yuren53067235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979851856961769933",
+        "in_reply_to_user_id": "1399201612053106695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979824440440758684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuren53067235 卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979824436153888768",
+            "3_1979824437638651904"
+          ]
+        },
+        "author_id": "1399201612053106695",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979772724865372416",
+        "created_at": "2025-10-19T08:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T09:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979824440440758684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/liVO0YxqOa",
+              "end": 45,
+              "expanded_url": "https://x.com/Yuren53067235/status/1979824440440758684/photo/1",
+              "media_key": "3_1979824436153888768",
+              "start": 22,
+              "url": "https://t.co/liVO0YxqOa"
+            },
+            {
+              "display_url": "pic.x.com/liVO0YxqOa",
+              "end": 45,
+              "expanded_url": "https://x.com/Yuren53067235/status/1979824440440758684/photo/1",
+              "media_key": "3_1979824437638651904",
+              "start": 22,
+              "url": "https://t.co/liVO0YxqOa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979824440440758684",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979772724865372416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 我一直在哭 https://t.co/liVO0YxqOa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6949,
+          "following_count": 162,
+          "like_count": 290,
+          "listed_count": 9,
+          "media_count": 729,
+          "tweet_count": 4344
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-31T03:10:59.000Z",
+        "description": "愿世界永葆和平",
+        "id": "1399201612053106695",
+        "location": "航天基地发射区航天桥",
+        "name": "AAA老兵烧烤乌哥",
+        "pinned_tweet_id": "1979216515917582613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978746651952201728/JsJYg_it_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 106,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 262
+        },
+        "username": "Yuren53067235",
+        "verified": false
+      }
+    ]
+  }
+}

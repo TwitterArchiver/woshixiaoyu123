@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978161104112214016",
+        "3_1978161105345392641"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1978161108897923178",
+    "created_at": "2025-10-14T18:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T19:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978161108897923178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RkywVkWIxZ",
+          "end": 40,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1978161108897923178/photo/1",
+          "media_key": "3_1978161104112214016",
+          "start": 17,
+          "url": "https://t.co/RkywVkWIxZ"
+        },
+        {
+          "display_url": "pic.x.com/RkywVkWIxZ",
+          "end": 40,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1978161108897923178/photo/1",
+          "media_key": "3_1978161105345392641",
+          "start": 17,
+          "url": "https://t.co/RkywVkWIxZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978161108897923178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那我都玩推特了 不得奖励自己一下 https://t.co/RkywVkWIxZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1753,
+        "media_key": "3_1978161104112214016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3PXCx8aYAAzpED.jpg",
+        "width": 1256
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978161105345392641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3PXC2ibMAEbeMW.jpg",
+        "width": 1099
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978161104112214016",
+            "3_1978161105345392641"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1978161108897923178",
+        "created_at": "2025-10-14T18:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T19:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978161108897923178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkywVkWIxZ",
+              "end": 40,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1978161108897923178/photo/1",
+              "media_key": "3_1978161104112214016",
+              "start": 17,
+              "url": "https://t.co/RkywVkWIxZ"
+            },
+            {
+              "display_url": "pic.x.com/RkywVkWIxZ",
+              "end": 40,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1978161108897923178/photo/1",
+              "media_key": "3_1978161105345392641",
+              "start": 17,
+              "url": "https://t.co/RkywVkWIxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978161108897923178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那我都玩推特了 不得奖励自己一下 https://t.co/RkywVkWIxZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6233,
+          "following_count": 160,
+          "like_count": 282,
+          "listed_count": 7,
+          "media_count": 713,
+          "tweet_count": 4257
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

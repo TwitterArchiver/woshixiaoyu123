@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1986490865955811439",
+    "created_at": "2025-11-07T03:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T04:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986631768058044922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714124780859691008",
+          "start": 0,
+          "username": "Yuuuuuukiiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986631768058044922",
+    "in_reply_to_user_id": "1714124780859691008",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986623409342849440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuuuuuukiiu ok！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1986490865955811439",
+        "created_at": "2025-11-07T03:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T04:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986631768058044922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714124780859691008",
+              "start": 0,
+              "username": "Yuuuuuukiiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986631768058044922",
+        "in_reply_to_user_id": "1714124780859691008",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986623409342849440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuuuuuukiiu ok！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714124780859691008",
+        "conversation_id": "1986490865955811439",
+        "created_at": "2025-11-07T02:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T03:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986623409342849440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986623409342849440",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986490865955811439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 好吃的，自己做的话可以把芒果冻得稍微硬一点更好吃😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你的少女心事我都懂",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14107,
+          "following_count": 151,
+          "like_count": 300,
+          "listed_count": 11,
+          "media_count": 816,
+          "tweet_count": 4668
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T03:43:08.000Z",
+        "description": "",
+        "id": "1714124780859691008",
+        "location": "在海里",
+        "name": "鱿鱼丝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820123448825593856/QueRTT0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 26,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 128
+        },
+        "username": "Yuuuuuukiiu",
+        "verified": false
+      }
+    ]
+  }
+}

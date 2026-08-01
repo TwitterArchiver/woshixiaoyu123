@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2061873550479532176",
+    "created_at": "2026-06-02T18:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T19:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061873550479532176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2287445576",
+          "start": 3,
+          "username": "shibari48"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061873550479532176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1113
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061382541538656359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shibari48: 我宣布更新完的啵啵贝Pro可能是这个星球上最好用的【穿戴小玩具】了。\n来帮我做测评体验的小伙伴这次直接高潮到拉丝了（见视频中段）。\n【转发】+【关注】+【评论】，六月底啵啵贝Pro上线时，我会从中抽10台送给大家。\n\n全面升级的点和佩戴视频放在了末…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061873550479532176].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061873550479532176",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061873550479532176"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 191166,
+        "height": 1920,
+        "media_key": "13_2061381923914776576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061381923914776576/img/sQ1nOIofbLPrR9jA.jpg",
+        "public_metrics": {
+          "view_count": 464044
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061381923914776576/vid/avc1/480x852/Gs3ck-h0CBru6DXm.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061381923914776576/vid/avc1/320x568/qmlc7gbLXAgOexRU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061381923914776576/vid/avc1/720x1280/WBrd5WZFV6PH69Fd.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061381923914776576/vid/avc1/1080x1920/LW7xNhN6myweBiin.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061381923914776576/pl/Nh1u76oWqgTSi6dj.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061381923914776576"
+          ]
+        },
+        "author_id": "2287445576",
+        "conversation_id": "2061382541538656359",
+        "created_at": "2026-06-01T09:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061382541538656359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KPJRw1kCIu",
+              "end": 175,
+              "expanded_url": "https://x.com/shibari48/status/2061382541538656359/video/1",
+              "media_key": "13_2061381923914776576",
+              "start": 152,
+              "url": "https://t.co/KPJRw1kCIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061382541538656359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我宣布更新完的啵啵贝Pro可能是这个星球上最好用的【穿戴小玩具】了。\n来帮我做测评体验的小伙伴这次直接高潮到拉丝了（见视频中段）。\n【转发】+【关注】+【评论】，六月底啵啵贝Pro上线时，我会从中抽10台送给大家。\n\n全面升级的点和佩戴视频放在了末尾，总结为：\n1、增加了充电仓，支持type-C充电。\n2、充电仓可以支持从0充满啵啵贝pro两次。\n3、增加可拆卸入体模块，入体不入体随你心意。\n4、入体模块小到没有异物感，且柔软到任意角度可弯折，适配所有需要。\n5、穿戴卡扣增加机械锁止结构，户外剧烈运动也不会再脱落。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8167,
+          "impression_count": 203944,
+          "like_count": 16445,
+          "quote_count": 35,
+          "reply_count": 612,
+          "retweet_count": 1113
+        },
+        "reply_settings": "everyone",
+        "text": "我宣布更新完的啵啵贝Pro可能是这个星球上最好用的【穿戴小玩具】了。\n来帮我做测评体验的小伙伴这次直接高潮到拉丝了（见视频中段）。\n【转发】+【关注】+【评论】，六月底啵啵贝Pro上线时，我会从中抽10台送给大家。\n\n全面升级的点和佩戴视频放在了末尾，总结为：\n1、增加了充电仓，支持type-C充电。 https://t.co/KPJRw1kCIu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19322,
+          "following_count": 156,
+          "like_count": 393,
+          "listed_count": 20,
+          "media_count": 1748,
+          "tweet_count": 6469
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-12T01:34:00.000Z",
+        "description": "Shibari player. based in Beijing. 原创bdsm品牌：@wavezjll 属性测试链接（完全免费不收集个人信息）：https://t.co/MxZwU6MnWr\n购买原创商品：https://t.co/4vYiJ8YXrR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "wavezjll"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "test.48haotest.site",
+                "end": 96,
+                "expanded_url": "https://test.48haotest.site",
+                "start": 73,
+                "url": "https://t.co/MxZwU6MnWr"
+              },
+              {
+                "display_url": "zjllus.myshopify.com",
+                "end": 127,
+                "expanded_url": "http://zjllus.myshopify.com",
+                "start": 104,
+                "url": "https://t.co/4vYiJ8YXrR"
+              }
+            ]
+          }
+        },
+        "id": "2287445576",
+        "location": "夜之城",
+        "name": "绳师48号",
+        "pinned_tweet_id": "2061382541538656359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547991296664825856/r7tSeVCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281836,
+          "following_count": 349,
+          "like_count": 709,
+          "listed_count": 423,
+          "media_count": 390,
+          "tweet_count": 1196
+        },
+        "username": "shibari48",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976709609307205632"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1976709238883074174",
+    "created_at": "2025-10-10T18:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T19:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976709611668557916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1793695924319096832",
+          "start": 0,
+          "username": "ynxio1659437"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t5TSlxbXkd",
+          "end": 45,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1976709611668557916/photo/1",
+          "media_key": "3_1976709609307205632",
+          "start": 22,
+          "url": "https://t.co/t5TSlxbXkd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976709611668557916",
+    "in_reply_to_user_id": "1793695924319096832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976709455472738410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynxio1659437 普坝行政楼马桶 https://t.co/t5TSlxbXkd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_1976709609307205632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26u6qbbcAAH-8K.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976709609307205632"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1976709238883074174",
+        "created_at": "2025-10-10T18:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T19:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976709611668557916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1793695924319096832",
+              "start": 0,
+              "username": "ynxio1659437"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5TSlxbXkd",
+              "end": 45,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1976709611668557916/photo/1",
+              "media_key": "3_1976709609307205632",
+              "start": 22,
+              "url": "https://t.co/t5TSlxbXkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976709611668557916",
+        "in_reply_to_user_id": "1793695924319096832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976709455472738410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynxio1659437 普坝行政楼马桶 https://t.co/t5TSlxbXkd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793695924319096832",
+        "conversation_id": "1976709238883074174",
+        "created_at": "2025-10-10T18:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T19:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976709455472738410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976709455472738410",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976709238883074174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 没事我不羡慕......我真没羡慕......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢青年音",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4218,
+          "following_count": 162,
+          "like_count": 274,
+          "listed_count": 6,
+          "media_count": 672,
+          "tweet_count": 4058
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T17:30:19.000Z",
+        "description": "",
+        "id": "1793695924319096832",
+        "name": "胤筱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938275269066059776/HDPahC98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 123,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 84
+        },
+        "username": "ynxio1659437",
+        "verified": false
+      }
+    ]
+  }
+}

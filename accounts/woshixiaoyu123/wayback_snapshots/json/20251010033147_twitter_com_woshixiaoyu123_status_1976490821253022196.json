@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1975972772372414478",
+    "created_at": "2025-10-10T03:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T04:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976490821253022196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1799226035214618624",
+          "start": 0,
+          "username": "ask829335658109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976490821253022196",
+    "in_reply_to_user_id": "1799226035214618624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976405917299245464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ask829335658109 不好玩。我一直在亏钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1975972772372414478",
+        "created_at": "2025-10-10T03:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T04:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976490821253022196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1799226035214618624",
+              "start": 0,
+              "username": "ask829335658109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976490821253022196",
+        "in_reply_to_user_id": "1799226035214618624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976405917299245464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ask829335658109 不好玩。我一直在亏钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799226035214618624",
+        "conversation_id": "1975972772372414478",
+        "created_at": "2025-10-09T21:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T22:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976405917299245464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976405917299245464",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976286987469586664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 居然这样！三角洲好玩嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你和别人玩的时候，不要忘了手机对面还有个我呀。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4111,
+          "following_count": 161,
+          "like_count": 271,
+          "listed_count": 6,
+          "media_count": 662,
+          "tweet_count": 4013
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T23:45:01.000Z",
+        "description": "未得安定只得就此入梦……\n某个神经衰弱的人使用的小号，希望不会被他人发现\n在这里的笔名暂定铅月，叫我什么都好\n欢迎找我聊天",
+        "id": "1799226035214618624",
+        "name": "pp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898662253039366144/xe_pRW52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 183,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 190
+        },
+        "username": "ask829335658109",
+        "verified": false
+      }
+    ]
+  }
+}

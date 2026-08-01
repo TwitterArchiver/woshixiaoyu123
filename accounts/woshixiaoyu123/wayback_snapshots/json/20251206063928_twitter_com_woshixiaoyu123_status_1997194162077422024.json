@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1997194162077422024",
+    "created_at": "2025-12-06T06:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T07:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997194162077422024"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1997194162077422024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本人十元战神，单人护航，绝密kd高达0.2，实力有保证，10块包单场一个亿撤离，先打后付，不出不要钱。打手全程听老板指挥，需要老板自己起全装，自己打架，自己理包，局内一切物资优先给老板。老板杀人会拍手叫好，有事没事夸两句，带老板得吃的同时情绪价值拉满，需要的滴滴我，保真"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1997194162077422024",
+        "created_at": "2025-12-06T06:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T07:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997194162077422024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997194162077422024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人十元战神，单人护航，绝密kd高达0.2，实力有保证，10块包单场一个亿撤离，先打后付，不出不要钱。打手全程听老板指挥，需要老板自己起全装，自己打架，自己理包，局内一切物资优先给老板。老板杀人会拍手叫好，有事没事夸两句，带老板得吃的同时情绪价值拉满，需要的滴滴我，保真"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "找我玩",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16253,
+          "following_count": 169,
+          "like_count": 333,
+          "listed_count": 12,
+          "media_count": 1113,
+          "tweet_count": 5252
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

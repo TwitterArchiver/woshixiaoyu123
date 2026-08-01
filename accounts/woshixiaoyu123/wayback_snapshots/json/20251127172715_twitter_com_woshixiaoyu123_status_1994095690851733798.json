@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1994092927681782271",
+    "created_at": "2025-11-27T17:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T18:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994095690851733798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1597225730227982336",
+          "start": 0,
+          "username": "lfwn5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994095690851733798",
+    "in_reply_to_user_id": "1597225730227982336",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994092927681782271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lfwn5 QWQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994092922103353344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xw8o8XUAAetY1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 831,
+        "media_key": "3_1994092922086584320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xw8o4XcAAvvGg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1994092927681782271",
+        "created_at": "2025-11-27T17:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T18:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994095690851733798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1597225730227982336",
+              "start": 0,
+              "username": "lfwn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994095690851733798",
+        "in_reply_to_user_id": "1597225730227982336",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994092927681782271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lfwn5 QWQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994092922103353344",
+            "3_1994092922086584320"
+          ]
+        },
+        "author_id": "1597225730227982336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1994092927681782271",
+        "created_at": "2025-11-27T17:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T18:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994092927681782271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGXRpaWMtd",
+              "end": 61,
+              "expanded_url": "https://x.com/lfwn5/status/1994092927681782271/photo/1",
+              "media_key": "3_1994092922103353344",
+              "start": 38,
+              "url": "https://t.co/gGXRpaWMtd"
+            },
+            {
+              "display_url": "pic.x.com/gGXRpaWMtd",
+              "end": 61,
+              "expanded_url": "https://x.com/lfwn5/status/1994092927681782271/photo/1",
+              "media_key": "3_1994092922086584320",
+              "start": 38,
+              "url": "https://t.co/gGXRpaWMtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994092927681782271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "评论区抽十个疯狂星期四，我爱发点傻福文案，给我点个关注没事和我互动下就行🥵 https://t.co/gGXRpaWMtd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "找我玩",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1983224068137750535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16351,
+          "following_count": 169,
+          "like_count": 333,
+          "listed_count": 12,
+          "media_count": 1096,
+          "tweet_count": 5208
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T13:48:41.000Z",
+        "description": "Seize me",
+        "id": "1597225730227982336",
+        "location": "United Kingdom",
+        "name": "一板一眼就会滋生弱点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743447990935887872/_Pz_rUXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 36
+        },
+        "username": "lfwn5",
+        "verified": false
+      }
+    ]
+  }
+}

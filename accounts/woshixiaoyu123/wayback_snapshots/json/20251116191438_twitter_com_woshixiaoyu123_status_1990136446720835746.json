@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1990136446720835746",
+    "created_at": "2025-11-16T19:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T20:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990136446720835746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Dreamwith_you_…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Dreamwith_you_/status/1989721159731159052",
+          "start": 5,
+          "url": "https://t.co/8HOLn7U3C1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990136446720835746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989721159731159052",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/8HOLn7U3C1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1990136446720835746",
+        "created_at": "2025-11-16T19:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T20:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990136446720835746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dreamwith_you_…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Dreamwith_you_/status/1989721159731159052",
+              "start": 5,
+              "url": "https://t.co/8HOLn7U3C1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990136446720835746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989721159731159052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/8HOLn7U3C1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363287901438504964",
+        "conversation_id": "1989721159731159052",
+        "created_at": "2025-11-15T15:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989721159731159052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989721159731159052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 52053,
+          "like_count": 167,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "想玩远程玩具结果发现微信列表找不出一个合适男嘉宾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你对我的赞许是我最大的幸福",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16929,
+          "following_count": 165,
+          "like_count": 328,
+          "listed_count": 12,
+          "media_count": 1046,
+          "tweet_count": 5087
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T00:42:32.000Z",
+        "description": "叹息墙下 任人粉刷丨没有互关的义务🤭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "usr.tachvip.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://usr.tachvip.com/#/register?code=ZZtU3l6c",
+                "start": 0,
+                "url": "https://t.co/DEC6qQtRp2"
+              }
+            ]
+          }
+        },
+        "id": "1363287901438504964",
+        "location": "距离你1.7km",
+        "name": "莺",
+        "pinned_tweet_id": "1988587945616683205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988585052855525376/5Pd89Zlf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25486,
+          "following_count": 449,
+          "like_count": 16839,
+          "listed_count": 37,
+          "media_count": 63,
+          "tweet_count": 9705
+        },
+        "url": "https://t.co/DEC6qQtRp2",
+        "username": "Dreamwith_you_",
+        "verified": false
+      }
+    ]
+  }
+}

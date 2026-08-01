@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1976602390787940764",
+    "created_at": "2025-10-10T11:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T12:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976609875926176066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1126891445439254528",
+          "start": 0,
+          "username": "Ginnnovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976609875926176066",
+    "in_reply_to_user_id": "1126891445439254528",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976608979490062741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ginnnovo 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1976602390787940764",
+        "created_at": "2025-10-10T11:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T12:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976609875926176066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1126891445439254528",
+              "start": 0,
+              "username": "Ginnnovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976609875926176066",
+        "in_reply_to_user_id": "1126891445439254528",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976608979490062741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ginnnovo 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1126891445439254528",
+        "conversation_id": "1976602390787940764",
+        "created_at": "2025-10-10T11:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T12:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976608979490062741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976608979490062741",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976602390787940764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 我靠我也是。。别人说话要理解半天，而且感觉说话声音很小听不清"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你和别人玩的时候，不要忘了手机对面还有个我呀。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4152,
+          "following_count": 162,
+          "like_count": 272,
+          "listed_count": 6,
+          "media_count": 664,
+          "tweet_count": 4026
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-10T16:47:12.000Z",
+        "description": "在这儿唠点小b嗑/不陪聊",
+        "id": "1126891445439254528",
+        "name": "薄荷奶绿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955773488192741379/Xp_rolEk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 95,
+          "like_count": 830,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 927
+        },
+        "username": "Ginnnovo",
+        "verified": false
+      }
+    ]
+  }
+}

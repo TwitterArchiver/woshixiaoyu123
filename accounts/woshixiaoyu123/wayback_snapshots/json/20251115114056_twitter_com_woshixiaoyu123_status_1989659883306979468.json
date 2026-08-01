@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989659878303174662"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1989659883306979468",
+    "created_at": "2025-11-15T11:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T12:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989659883306979468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1794448811504652289",
+          "start": 5,
+          "username": "yang0405291"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HryfNzRlCT",
+          "end": 41,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989659883306979468/photo/1",
+          "media_key": "3_1989659878303174662",
+          "start": 18,
+          "url": "https://t.co/HryfNzRlCT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989659883306979468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心理委员\n@yang0405291 https://t.co/HryfNzRlCT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1967,
+        "media_key": "3_1989659878303174662",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yxHh4bkAYzBVE.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989659878303174662"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1989659883306979468",
+        "created_at": "2025-11-15T11:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T12:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989659883306979468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1794448811504652289",
+              "start": 5,
+              "username": "yang0405291"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HryfNzRlCT",
+              "end": 41,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989659883306979468/photo/1",
+              "media_key": "3_1989659878303174662",
+              "start": 18,
+              "url": "https://t.co/HryfNzRlCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989659883306979468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心理委员\n@yang0405291 https://t.co/HryfNzRlCT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "12小时没回就是不接😔",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16883,
+          "following_count": 166,
+          "like_count": 325,
+          "listed_count": 12,
+          "media_count": 1024,
+          "tweet_count": 5051
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T19:21:58.000Z",
+        "description": "天天开心 睡个好觉",
+        "id": "1794448811504652289",
+        "location": "Los Angeles, CA",
+        "name": "香菜面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794449738592616448/PMIuhBMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 3,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 115
+        },
+        "username": "yang0405291",
+        "verified": false
+      }
+    ]
+  }
+}

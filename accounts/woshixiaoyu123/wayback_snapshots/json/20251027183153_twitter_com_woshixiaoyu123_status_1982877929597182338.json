@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1982876602141958549",
+    "created_at": "2025-10-27T18:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T19:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982877929597182338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954700425082580993",
+          "start": 0,
+          "username": "drAgon312131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982877929597182338",
+    "in_reply_to_user_id": "1954700425082580993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982877606518370341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drAgon312131 为了........."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1982876602141958549",
+        "created_at": "2025-10-27T18:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T19:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982877929597182338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954700425082580993",
+              "start": 0,
+              "username": "drAgon312131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982877929597182338",
+        "in_reply_to_user_id": "1954700425082580993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982877606518370341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drAgon312131 为了........."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954700425082580993",
+        "conversation_id": "1982876602141958549",
+        "created_at": "2025-10-27T18:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T19:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982877606518370341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982877606518370341",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982876602141958549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 可以是可以 但为啥呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我一直在哭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8372,
+          "following_count": 164,
+          "like_count": 290,
+          "listed_count": 8,
+          "media_count": 737,
+          "tweet_count": 4430
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T00:24:45.000Z",
+        "description": "是一名心理咨询师！不过厌男哈哈哈哈哈 目前比较擅长多元文化背景的心理咨询",
+        "id": "1954700425082580993",
+        "location": "广州",
+        "name": "LoLo（努力赚钱留学）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982873292064071680/1rOL8C3q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 169,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 122
+        },
+        "username": "drAgon312131",
+        "verified": false
+      }
+    ]
+  }
+}

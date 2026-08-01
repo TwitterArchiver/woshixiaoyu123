@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977823843617275951",
+    "created_at": "2025-10-14T08:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T09:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978015010178638161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1977431902941589504",
+          "start": 0,
+          "username": "jjxhny_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978015010178638161",
+    "in_reply_to_user_id": "1977431902941589504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978011866585825750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjxhny_ 行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977823843617275951",
+        "created_at": "2025-10-14T08:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978015010178638161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1977431902941589504",
+              "start": 0,
+              "username": "jjxhny_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978015010178638161",
+        "in_reply_to_user_id": "1977431902941589504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978011866585825750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjxhny_ 行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977431902941589504",
+        "conversation_id": "1977823843617275951",
+        "created_at": "2025-10-14T08:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978011866585825750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978011866585825750",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977823843617275951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 我竟有些春心萌动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5778,
+          "following_count": 159,
+          "like_count": 281,
+          "listed_count": 7,
+          "media_count": 711,
+          "tweet_count": 4228
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T17:51:28.000Z",
+        "description": "🚪100我很健谈 不线下",
+        "id": "1977431902941589504",
+        "location": "08女高 🚪哥加我",
+        "name": "涵涵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977432140347514880/ktmtIGWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 23,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "jjxhny_",
+        "verified": false
+      }
+    ]
+  }
+}

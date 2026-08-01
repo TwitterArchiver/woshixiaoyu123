@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1978701019266650180",
+    "created_at": "2025-10-25T04:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T05:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981936960319914062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1815558318674354176",
+          "start": 0,
+          "username": "ceq1937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981936960319914062",
+    "in_reply_to_user_id": "1815558318674354176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981907508840018404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceq1937 有的会 不过我的没有（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1978701019266650180",
+        "created_at": "2025-10-25T04:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T05:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981936960319914062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1815558318674354176",
+              "start": 0,
+              "username": "ceq1937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981936960319914062",
+        "in_reply_to_user_id": "1815558318674354176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981907508840018404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceq1937 有的会 不过我的没有（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815558318674354176",
+        "conversation_id": "1978701019266650180",
+        "created_at": "2025-10-25T02:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T03:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981907508840018404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981907508840018404",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978701019266650180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 这个会增生吗好可怕。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "顺其自然",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8405,
+          "following_count": 161,
+          "like_count": 289,
+          "listed_count": 8,
+          "media_count": 733,
+          "tweet_count": 4409
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T01:23:42.000Z",
+        "description": "",
+        "id": "1815558318674354176",
+        "name": "C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906045509980073984/9MPkOWA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 13,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "ceq1937",
+        "verified": false
+      }
+    ]
+  }
+}

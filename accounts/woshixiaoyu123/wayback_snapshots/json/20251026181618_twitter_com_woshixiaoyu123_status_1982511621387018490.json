@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1982433128791822796",
+    "created_at": "2025-10-26T18:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T19:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982511621387018490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882869781814251520",
+          "start": 0,
+          "username": "xuxw1214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982511621387018490",
+    "in_reply_to_user_id": "1882869781814251520",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982503728629580023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuxw1214 yess"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1982433128791822796",
+        "created_at": "2025-10-26T18:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T19:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982511621387018490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882869781814251520",
+              "start": 0,
+              "username": "xuxw1214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982511621387018490",
+        "in_reply_to_user_id": "1882869781814251520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982503728629580023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuxw1214 yess"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882869781814251520",
+        "conversation_id": "1982433128791822796",
+        "created_at": "2025-10-26T17:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T18:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982503728629580023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982503728629580023",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982433128791822796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 48发的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "顺其自然",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8383,
+          "following_count": 161,
+          "like_count": 289,
+          "listed_count": 8,
+          "media_count": 735,
+          "tweet_count": 4420
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T19:15:42.000Z",
+        "description": "男研免费陪聊（想谈反差女）",
+        "id": "1882869781814251520",
+        "name": "菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883171502545391616/1UbhoK9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 245,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 52
+        },
+        "username": "xuxw1214",
+        "verified": false
+      }
+    ]
+  }
+}

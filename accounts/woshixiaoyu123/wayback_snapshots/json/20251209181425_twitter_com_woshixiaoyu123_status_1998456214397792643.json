@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1998377039561400615",
+    "created_at": "2025-12-09T18:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T19:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998456214397792643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775898302963384322",
+          "start": 0,
+          "username": "brontobehated"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998456214397792643",
+    "in_reply_to_user_id": "1775898302963384322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998453947007459839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brontobehated 哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1998377039561400615",
+        "created_at": "2025-12-09T18:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T19:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998456214397792643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775898302963384322",
+              "start": 0,
+              "username": "brontobehated"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998456214397792643",
+        "in_reply_to_user_id": "1775898302963384322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998453947007459839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brontobehated 哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775898302963384322",
+        "conversation_id": "1998377039561400615",
+        "created_at": "2025-12-09T18:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T19:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998453947007459839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998453947007459839",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998377039561400615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 卧槽粥 卧槽好多人关注 卧槽没我什么事了 这么多人应聘你挑剩下的能给我分几个吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16293,
+          "following_count": 169,
+          "like_count": 334,
+          "listed_count": 12,
+          "media_count": 1128,
+          "tweet_count": 5296
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T14:48:59.000Z",
+        "description": "缺爱",
+        "id": "1775898302963384322",
+        "location": "United States",
+        "name": "猪肉大葱饺子大份的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998319138239107072/g9CC-Fmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 1030,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "username": "brontobehated",
+        "verified": false
+      }
+    ]
+  }
+}

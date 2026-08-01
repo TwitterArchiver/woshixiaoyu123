@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1987467570858131851",
+    "created_at": "2025-11-09T10:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T11:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987474199624208827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1862461775079186432",
+          "start": 0,
+          "username": "1cz3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987474199624208827",
+    "in_reply_to_user_id": "1862461775079186432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987467570858131851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1cz3y 竟然是玩具吗？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987467534589927424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TnMVHaoAAM_YJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987467534623506433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TnMVPbAAE9cBN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1987467570858131851",
+        "created_at": "2025-11-09T10:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T11:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987474199624208827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1862461775079186432",
+              "start": 0,
+              "username": "1cz3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987474199624208827",
+        "in_reply_to_user_id": "1862461775079186432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987467570858131851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1cz3y 竟然是玩具吗？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987467534589927424",
+            "3_1987467534623506433"
+          ]
+        },
+        "author_id": "1862461775079186432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1987467570858131851",
+        "created_at": "2025-11-09T10:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T11:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987467570858131851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/arJ3spUEau",
+              "end": 35,
+              "expanded_url": "https://x.com/1cz3y/status/1987467570858131851/photo/1",
+              "media_key": "3_1987467534589927424",
+              "start": 12,
+              "url": "https://t.co/arJ3spUEau"
+            },
+            {
+              "display_url": "pic.x.com/arJ3spUEau",
+              "end": 35,
+              "expanded_url": "https://x.com/1cz3y/status/1987467570858131851/photo/1",
+              "media_key": "3_1987467534623506433",
+              "start": 12,
+              "url": "https://t.co/arJ3spUEau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987467570858131851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太萌了我的天呢 太萌了 https://t.co/arJ3spUEau"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你来看我啦=^ω^=",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14832,
+          "following_count": 152,
+          "like_count": 306,
+          "listed_count": 11,
+          "media_count": 845,
+          "tweet_count": 4736
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T11:41:16.000Z",
+        "description": "幸福的时候不要有任何负罪感因为人生当惨b的日子数不胜数",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%AB%E7%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%AB%E7%AE%AD1",
+                "start": 0,
+                "url": "https://t.co/oIJNI7vayB"
+              }
+            ]
+          }
+        },
+        "id": "1862461775079186432",
+        "location": "(_ _).｡o○",
+        "name": "没有义务上朝",
+        "pinned_tweet_id": "1876943603370430775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962880636743774208/aziZ02fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 606,
+          "like_count": 9296,
+          "listed_count": 0,
+          "media_count": 519,
+          "tweet_count": 1962
+        },
+        "url": "https://t.co/oIJNI7vayB",
+        "username": "1cz3y",
+        "verified": false
+      }
+    ]
+  }
+}

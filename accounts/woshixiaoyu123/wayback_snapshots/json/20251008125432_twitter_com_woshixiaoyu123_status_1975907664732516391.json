@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1975590855907156229",
+    "created_at": "2025-10-08T12:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T13:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975907664732516391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1960538239623917568",
+          "start": 0,
+          "username": "zhnghnyn488148"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975907664732516391",
+    "in_reply_to_user_id": "1960538239623917568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975875331593748882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhnghnyn488148 我处的没那么有钱哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1975590855907156229",
+        "created_at": "2025-10-08T12:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T13:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975907664732516391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1960538239623917568",
+              "start": 0,
+              "username": "zhnghnyn488148"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975907664732516391",
+        "in_reply_to_user_id": "1960538239623917568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975875331593748882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhnghnyn488148 我处的没那么有钱哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960538239623917568",
+        "conversation_id": "1975590855907156229",
+        "created_at": "2025-10-08T10:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975875331593748882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975875331593748882",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975590855907156229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 推特上的男的你都敢处？救命🆘不知道是多少人的门槛哥了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "打王者吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4030,
+          "following_count": 162,
+          "like_count": 270,
+          "listed_count": 7,
+          "media_count": 659,
+          "tweet_count": 3981
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T03:02:12.000Z",
+        "description": "",
+        "id": "1960538239623917568",
+        "name": "zxuxu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961305256522043392/Qta7Cd5M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 161,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "username": "zhnghnyn488148",
+        "verified": false
+      }
+    ]
+  }
+}

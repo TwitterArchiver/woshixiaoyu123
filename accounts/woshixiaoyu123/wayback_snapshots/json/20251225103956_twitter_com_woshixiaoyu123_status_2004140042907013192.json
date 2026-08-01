@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004140039287328769"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2004140042907013192",
+    "created_at": "2025-12-25T10:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T11:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004140042907013192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1653426476937781253",
+          "start": 0,
+          "username": "Asshole___02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QyHfjheDa4",
+          "end": 37,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2004140042907013192/photo/1",
+          "media_key": "3_2004140039287328769",
+          "start": 14,
+          "url": "https://t.co/QyHfjheDa4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004140042907013192",
+    "in_reply_to_user_id": "1653426476937781253",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Asshole___02 https://t.co/QyHfjheDa4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_2004140039287328769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Aiv1Hb0AExQx_.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004140039287328769"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004140042907013192",
+        "created_at": "2025-12-25T10:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T11:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004140042907013192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1653426476937781253",
+              "start": 0,
+              "username": "Asshole___02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyHfjheDa4",
+              "end": 37,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2004140042907013192/photo/1",
+              "media_key": "3_2004140039287328769",
+              "start": 14,
+              "url": "https://t.co/QyHfjheDa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004140042907013192",
+        "in_reply_to_user_id": "1653426476937781253",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Asshole___02 https://t.co/QyHfjheDa4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我//皮下男太多了 女宝（推广性）投稿麻烦发一下语音∏ω∏",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17327,
+          "following_count": 166,
+          "like_count": 336,
+          "listed_count": 14,
+          "media_count": 1379,
+          "tweet_count": 5606
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T15:49:34.000Z",
+        "description": "想找个哈尔滨大吊男做固炮 平时就爱玩玩三角洲 找陪玩可以找我 各种游戏精通 csgo 瓦 永劫 三角洲",
+        "id": "1653426476937781253",
+        "location": "Heilongjiang",
+        "name": "ice cream",
+        "pinned_tweet_id": "2002401430913560671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806406763509645312/kdOTRGhg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 30,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Asshole___02",
+        "verified": false
+      }
+    ]
+  }
+}

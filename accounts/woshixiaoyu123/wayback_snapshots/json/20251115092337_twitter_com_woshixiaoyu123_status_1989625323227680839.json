@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989625319259869186"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989625323227680839",
+    "created_at": "2025-11-15T09:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T10:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989625323227680839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 33,
+          "id": "1643915523628085249",
+          "start": 17,
+          "username": "maniubi08165778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lMmVpECR9f",
+          "end": 57,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989625323227680839/photo/1",
+          "media_key": "3_1989625319259869186",
+          "start": 34,
+          "url": "https://t.co/lMmVpECR9f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989625323227680839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "能一起疯打游戏的dd有无🚪都行\n\n@maniubi08165778 https://t.co/lMmVpECR9f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1648,
+        "media_key": "3_1989625319259869186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yRr7abkAIv4nW.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989625319259869186"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989625323227680839",
+        "created_at": "2025-11-15T09:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T10:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989625323227680839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1643915523628085249",
+              "start": 17,
+              "username": "maniubi08165778"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lMmVpECR9f",
+              "end": 57,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989625323227680839/photo/1",
+              "media_key": "3_1989625319259869186",
+              "start": 34,
+              "url": "https://t.co/lMmVpECR9f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989625323227680839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能一起疯打游戏的dd有无🚪都行\n\n@maniubi08165778 https://t.co/lMmVpECR9f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "12小时没回就是不接😔",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16880,
+          "following_count": 165,
+          "like_count": 325,
+          "listed_count": 12,
+          "media_count": 1015,
+          "tweet_count": 5041
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T09:56:31.000Z",
+        "description": "",
+        "id": "1643915523628085249",
+        "location": "广东",
+        "name": "马牛逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717696424291557376/4oqL14Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 15,
+          "like_count": 2034,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 23
+        },
+        "username": "maniubi08165778",
+        "verified": false
+      }
+    ]
+  }
+}

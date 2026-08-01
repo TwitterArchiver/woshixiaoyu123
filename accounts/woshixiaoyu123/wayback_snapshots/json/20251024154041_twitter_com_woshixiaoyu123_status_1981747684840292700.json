@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981747681866223616"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1981747684840292700",
+    "created_at": "2025-10-24T15:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T16:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981747684840292700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/83MDNHlG4w",
+          "end": 27,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1981747684840292700/photo/1",
+          "media_key": "3_1981747681866223616",
+          "start": 4,
+          "url": "https://t.co/83MDNHlG4w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981747684840292700",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大坝。 https://t.co/83MDNHlG4w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_1981747681866223616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CVBFQXEAAUTEW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981747681866223616"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981747684840292700",
+        "created_at": "2025-10-24T15:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T16:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981747684840292700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/83MDNHlG4w",
+              "end": 27,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1981747684840292700/photo/1",
+              "media_key": "3_1981747681866223616",
+              "start": 4,
+              "url": "https://t.co/83MDNHlG4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981747684840292700",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大坝。 https://t.co/83MDNHlG4w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "顺其自然",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8412,
+          "following_count": 161,
+          "like_count": 290,
+          "listed_count": 9,
+          "media_count": 733,
+          "tweet_count": 4408
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

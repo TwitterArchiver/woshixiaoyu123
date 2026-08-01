@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1971989630942900583",
+    "created_at": "2025-09-27T18:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T19:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972002343664472555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1952113762112299008",
+          "start": 0,
+          "username": "Avogadro444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972002343664472555",
+    "in_reply_to_user_id": "1952113762112299008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971989630942900583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Avogadro444 我老刷到你！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1445,
+        "media_key": "3_1971989621790986245",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13qHOub0AUkd5k.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1971989630942900583",
+        "created_at": "2025-09-27T18:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T19:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972002343664472555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1952113762112299008",
+              "start": 0,
+              "username": "Avogadro444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972002343664472555",
+        "in_reply_to_user_id": "1952113762112299008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971989630942900583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Avogadro444 我老刷到你！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971989621790986245"
+          ]
+        },
+        "author_id": "1952113762112299008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971989630942900583",
+        "created_at": "2025-09-27T17:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T18:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971989630942900583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iw5CPC9ZcR",
+              "end": 39,
+              "expanded_url": "https://x.com/Avogadro444/status/1971989630942900583/photo/1",
+              "media_key": "3_1971989621790986245",
+              "start": 16,
+              "url": "https://t.co/Iw5CPC9ZcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971989630942900583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100w展示截图留恋，各位晚安 https://t.co/Iw5CPC9ZcR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "多愁善感",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3739,
+          "following_count": 166,
+          "like_count": 234,
+          "listed_count": 6,
+          "media_count": 626,
+          "tweet_count": 3771
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T21:06:14.000Z",
+        "description": "老子是直男",
+        "id": "1952113762112299008",
+        "name": "梨子",
+        "pinned_tweet_id": "1969788971745259644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952122707539357696/5qsDkITD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 156,
+          "like_count": 909,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 649
+        },
+        "username": "Avogadro444",
+        "verified": false
+      }
+    ]
+  }
+}

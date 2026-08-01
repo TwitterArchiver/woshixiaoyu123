@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989647442422513664",
+        "3_1989647442657366016"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989647444968444329",
+    "created_at": "2025-11-15T10:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T11:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989647444968444329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1915340917046992897",
+          "start": 5,
+          "username": "Xiuzz_zz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e8llTq1w0W",
+          "end": 38,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989647444968444329/photo/1",
+          "media_key": "3_1989647442422513664",
+          "start": 15,
+          "url": "https://t.co/e8llTq1w0W"
+        },
+        {
+          "display_url": "pic.x.com/e8llTq1w0W",
+          "end": 38,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989647444968444329/photo/1",
+          "media_key": "3_1989647442657366016",
+          "start": 15,
+          "url": "https://t.co/e8llTq1w0W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989647444968444329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "迷死我了\n@Xiuzz_zz https://t.co/e8llTq1w0W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1982,
+        "media_key": "3_1989647442422513664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ylzqnbwAASNDD.jpg",
+        "width": 1255
+      },
+      {
+        "height": 1064,
+        "media_key": "3_1989647442657366016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ylzrfbUAAopYz.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989647442422513664",
+            "3_1989647442657366016"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989647444968444329",
+        "created_at": "2025-11-15T10:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T11:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989647444968444329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1915340917046992897",
+              "start": 5,
+              "username": "Xiuzz_zz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8llTq1w0W",
+              "end": 38,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989647444968444329/photo/1",
+              "media_key": "3_1989647442422513664",
+              "start": 15,
+              "url": "https://t.co/e8llTq1w0W"
+            },
+            {
+              "display_url": "pic.x.com/e8llTq1w0W",
+              "end": 38,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989647444968444329/photo/1",
+              "media_key": "3_1989647442657366016",
+              "start": 15,
+              "url": "https://t.co/e8llTq1w0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989647444968444329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迷死我了\n@Xiuzz_zz https://t.co/e8llTq1w0W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "12小时没回就是不接😔",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16880,
+          "following_count": 166,
+          "like_count": 325,
+          "listed_count": 12,
+          "media_count": 1021,
+          "tweet_count": 5048
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T09:44:03.000Z",
+        "description": "04考研备战中，希望能考上😭😭😭考上再狂发推",
+        "id": "1915340917046992897",
+        "location": "北京通州",
+        "name": "呼叫杀手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946784245101596672/9ZNjAPZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 129,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "Xiuzz_zz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988524296818622464"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988524300304015840",
+    "created_at": "2025-11-12T08:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T09:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988524300304015840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wg6joPy0nt",
+          "end": 32,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1988524300304015840/photo/1",
+          "media_key": "3_1988524296818622464",
+          "start": 9,
+          "url": "https://t.co/Wg6joPy0nt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988524300304015840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对象有性瘾怎么办 https://t.co/Wg6joPy0nt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 417,
+        "media_key": "3_1988524296818622464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ioT_MbgAAi8VJ.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988524296818622464"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988524300304015840",
+        "created_at": "2025-11-12T08:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T09:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988524300304015840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wg6joPy0nt",
+              "end": 32,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1988524300304015840/photo/1",
+              "media_key": "3_1988524296818622464",
+              "start": 9,
+              "url": "https://t.co/Wg6joPy0nt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988524300304015840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对象有性瘾怎么办 https://t.co/Wg6joPy0nt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "看见你漂亮的眼睛一直笑 也算我幸福的一种",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15901,
+          "following_count": 157,
+          "like_count": 308,
+          "listed_count": 11,
+          "media_count": 867,
+          "tweet_count": 4787
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

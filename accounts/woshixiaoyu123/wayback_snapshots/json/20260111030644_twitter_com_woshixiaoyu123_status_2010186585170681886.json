@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010186582658297856"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "2010186585170681886",
+    "created_at": "2026-01-11T03:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T04:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010186585170681886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d6DqOHwx7W",
+          "end": 23,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2010186585170681886/photo/1",
+          "media_key": "3_2010186582658297856",
+          "start": 0,
+          "url": "https://t.co/d6DqOHwx7W"
+        },
+        {
+          "display_url": "x.com/woshixiaoyu123…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/woshixiaoyu123/status/2010038070729756893",
+          "start": 24,
+          "url": "https://t.co/EVANnhCu4M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010186585170681886",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010038070729756893",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/d6DqOHwx7W https://t.co/EVANnhCu4M"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2010186585170681886].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2010186585170681886",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2010186585170681886"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 307,
+        "media_key": "3_2010186582658297856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WeC-easAALzBO.jpg",
+        "width": 1255
+      },
+      {
+        "height": 396,
+        "media_key": "3_2010038067898527745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-UW-R4asAEegT1.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010038067898527745"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "2010038070729756893",
+        "created_at": "2026-01-10T17:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T18:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010038070729756893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWoZ74Ugee",
+              "end": 42,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2010038070729756893/photo/1",
+              "media_key": "3_2010038067898527745",
+              "start": 19,
+              "url": "https://t.co/xWoZ74Ugee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010038070729756893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3055,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唧唧软的话 能不能戴假几把和女嘉宾做 https://t.co/xWoZ74Ugee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我｜答疑解惑",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17738,
+          "following_count": 171,
+          "like_count": 343,
+          "listed_count": 17,
+          "media_count": 1544,
+          "tweet_count": 5806
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

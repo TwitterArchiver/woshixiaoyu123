@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984178660019175424"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1984178662703595675",
+    "created_at": "2025-10-31T08:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T09:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984178662703595675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dZ8SNCpiSn",
+          "end": 44,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1984178662703595675/photo/1",
+          "media_key": "3_1984178660019175424",
+          "start": 21,
+          "url": "https://t.co/dZ8SNCpiSn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984178662703595675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太长怎么办............... https://t.co/dZ8SNCpiSn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 596,
+        "media_key": "3_1984178660019175424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4k3-olagAAqN-O.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984178660019175424"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1984178662703595675",
+        "created_at": "2025-10-31T08:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T09:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984178662703595675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZ8SNCpiSn",
+              "end": 44,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1984178662703595675/photo/1",
+              "media_key": "3_1984178660019175424",
+              "start": 21,
+              "url": "https://t.co/dZ8SNCpiSn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984178662703595675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太长怎么办............... https://t.co/dZ8SNCpiSn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了｜男科问题去医院挂号我不是医生｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 70,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 47,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12777,
+          "following_count": 149,
+          "like_count": 288,
+          "listed_count": 11,
+          "media_count": 772,
+          "tweet_count": 4523
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

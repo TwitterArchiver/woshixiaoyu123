@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2038310130337673711",
+    "created_at": "2026-03-29T18:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T19:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038316340654821448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1709952569131638784",
+          "start": 0,
+          "username": "ai_chun98833"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038316340654821448",
+    "in_reply_to_user_id": "1709952569131638784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038315806753489087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ai_chun98833 懂吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2038310130337673711",
+        "created_at": "2026-03-29T18:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038316340654821448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1709952569131638784",
+              "start": 0,
+              "username": "ai_chun98833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038316340654821448",
+        "in_reply_to_user_id": "1709952569131638784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038315806753489087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ai_chun98833 懂吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709952569131638784",
+        "conversation_id": "2038310130337673711",
+        "created_at": "2026-03-29T18:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038315806753489087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038315806753489087",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038310130337673711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 懂你意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2038312886033084867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19225,
+          "following_count": 159,
+          "like_count": 368,
+          "listed_count": 18,
+          "media_count": 1720,
+          "tweet_count": 6254
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T15:24:03.000Z",
+        "description": "白水鉴心",
+        "id": "1709952569131638784",
+        "name": "纯爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038279574593974272/T1VFCp02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "ai_chun98833",
+        "verified": false
+      }
+    ]
+  }
+}

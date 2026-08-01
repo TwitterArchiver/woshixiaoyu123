@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1997706383370957094",
+    "created_at": "2025-12-07T19:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T20:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997750027167703057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "818845826055163906",
+          "start": 0,
+          "username": "priyada75813714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997750027167703057",
+    "in_reply_to_user_id": "818845826055163906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997724857656865020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@priyada75813714 说了就一定会被在意吗 漠视只会让焦虑变本加厉..............."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1997706383370957094",
+        "created_at": "2025-12-07T19:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T20:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997750027167703057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "818845826055163906",
+              "start": 0,
+              "username": "priyada75813714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997750027167703057",
+        "in_reply_to_user_id": "818845826055163906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997724857656865020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@priyada75813714 说了就一定会被在意吗 漠视只会让焦虑变本加厉..............."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "818845826055163906",
+        "conversation_id": "1997706383370957094",
+        "created_at": "2025-12-07T17:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T18:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997724857656865020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997724857656865020",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997706383370957094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 典型的焦虑型人格，觉得有问题就说，别一个人焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16266,
+          "following_count": 168,
+          "like_count": 333,
+          "listed_count": 12,
+          "media_count": 1114,
+          "tweet_count": 5263
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-10T15:43:53.000Z",
+        "description": "不是人机啊，真不是人机，不能频繁改就这样了",
+        "id": "818845826055163906",
+        "location": "010",
+        "name": "想插画师变参考图",
+        "pinned_tweet_id": "1997562799623717144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989289927696146432/UTKoglvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 119,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 165
+        },
+        "username": "priyada75813714",
+        "verified": false
+      }
+    ]
+  }
+}

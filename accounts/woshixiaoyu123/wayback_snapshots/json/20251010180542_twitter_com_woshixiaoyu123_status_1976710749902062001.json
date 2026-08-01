@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976710746957660165"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1976709238883074174",
+    "created_at": "2025-10-10T18:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T19:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976710749902062001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827295767301910532",
+          "start": 0,
+          "username": "tigolng143311"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MxiuVYGK2x",
+          "end": 45,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1976710749902062001/photo/1",
+          "media_key": "3_1976710746957660165",
+          "start": 22,
+          "url": "https://t.co/MxiuVYGK2x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976710749902062001",
+    "in_reply_to_user_id": "1827295767301910532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976710463288492057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tigolng143311 依旧普坝马桶 https://t.co/MxiuVYGK2x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_1976710746957660165",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26v84gbwAUeu8d.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976710746957660165"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1976709238883074174",
+        "created_at": "2025-10-10T18:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T19:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976710749902062001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827295767301910532",
+              "start": 0,
+              "username": "tigolng143311"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MxiuVYGK2x",
+              "end": 45,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1976710749902062001/photo/1",
+              "media_key": "3_1976710746957660165",
+              "start": 22,
+              "url": "https://t.co/MxiuVYGK2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976710749902062001",
+        "in_reply_to_user_id": "1827295767301910532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976710463288492057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tigolng143311 依旧普坝马桶 https://t.co/MxiuVYGK2x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827295767301910532",
+        "conversation_id": "1976709238883074174",
+        "created_at": "2025-10-10T18:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T19:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976710463288492057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976710463288492057",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976709238883074174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 ？你不许玩三角洲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢青年音",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4221,
+          "following_count": 162,
+          "like_count": 274,
+          "listed_count": 6,
+          "media_count": 673,
+          "tweet_count": 4059
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T10:44:10.000Z",
+        "description": "淡推，偶尔上线\n互关可以找我加微信，over",
+        "id": "1827295767301910532",
+        "name": "太糕冷🦞",
+        "pinned_tweet_id": "1834450797360545974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911749463288258560/V-x-edoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 148,
+          "like_count": 2488,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2048
+        },
+        "username": "tigolng143311",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1975213068562112857",
+    "created_at": "2025-10-06T16:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T17:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975230210846163013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1881766065900077056",
+          "start": 0,
+          "username": "Xin369556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975230210846163013",
+    "in_reply_to_user_id": "1881766065900077056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975213068562112857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xin369556 点了点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1975213068562112857",
+        "created_at": "2025-10-06T16:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T17:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975230210846163013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1881766065900077056",
+              "start": 0,
+              "username": "Xin369556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975230210846163013",
+        "in_reply_to_user_id": "1881766065900077056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975213068562112857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xin369556 点了点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881766065900077056",
+        "conversation_id": "1975213068562112857",
+        "created_at": "2025-10-06T14:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975213068562112857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975213068562112857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的很烦那种我完全不认识连关注都不肯给我点就引用或者转发我帖子的人，就是有这么奇怪的占有欲😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "纯爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3949,
+          "following_count": 163,
+          "like_count": 270,
+          "listed_count": 7,
+          "media_count": 655,
+          "tweet_count": 3961
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T18:09:47.000Z",
+        "description": "嗯。头像是本人。是一只外星公猫。私信可以随意骚扰。此猫很闲。直的。直的。直的。男同不要关注我好嘛或者关注就算了不要私信嗯。",
+        "id": "1881766065900077056",
+        "location": "广州",
+        "name": "信",
+        "pinned_tweet_id": "1971261356285612304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961796212992221184/O0U2BXN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 306,
+          "like_count": 34470,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 5126
+        },
+        "username": "Xin369556",
+        "verified": false
+      }
+    ]
+  }
+}

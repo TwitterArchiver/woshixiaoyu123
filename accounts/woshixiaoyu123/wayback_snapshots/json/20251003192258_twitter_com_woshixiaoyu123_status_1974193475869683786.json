@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1971135306842955810",
+    "created_at": "2025-10-03T19:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T20:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974193475869683786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1857043965842694144",
+          "start": 0,
+          "username": "v_uri449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974193475869683786",
+    "in_reply_to_user_id": "1857043965842694144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971135306842955810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@v_uri449 你喘的不错。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 88066,
+        "height": 720,
+        "media_key": "7_1971135281832361985",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1971135281832361985/pu/img/fhWLO7IjkH5ty9kV.jpg",
+        "public_metrics": {
+          "view_count": 8892
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971135281832361985/pu/vid/avc1/320x320/DMDukHoCYI9d4-cG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971135281832361985/pu/vid/avc1/540x540/1nyrl0uxRL4TRTKW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971135281832361985/pu/vid/avc1/720x720/GRT7RXLJnRvf_qMk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1971135281832361985/pu/pl/XuNEdLbAe6go7qiE.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1971135306842955810",
+        "created_at": "2025-10-03T19:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T20:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974193475869683786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1857043965842694144",
+              "start": 0,
+              "username": "v_uri449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974193475869683786",
+        "in_reply_to_user_id": "1857043965842694144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971135306842955810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@v_uri449 你喘的不错。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1971135281832361985"
+          ]
+        },
+        "author_id": "1857043965842694144",
+        "conversation_id": "1971135306842955810",
+        "created_at": "2025-09-25T08:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T09:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971135306842955810"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "青受"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "男喘"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "手冲实录"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zAQgnvRU4h",
+              "end": 52,
+              "expanded_url": "https://x.com/v_uri449/status/1971135306842955810/video/1",
+              "media_key": "7_1971135281832361985",
+              "start": 29,
+              "url": "https://t.co/zAQgnvRU4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971135306842955810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 24051,
+          "like_count": 277,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "手冲实录来噜 感觉自己水好多 #青受 #男喘 #手冲实录 https://t.co/zAQgnvRU4h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "想我就来找我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3885,
+          "following_count": 167,
+          "like_count": 262,
+          "listed_count": 7,
+          "media_count": 643,
+          "tweet_count": 3888
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T12:52:45.000Z",
+        "description": "🚪52 陪🥣 连麦 聊天 剧情定制 什么都接",
+        "id": "1857043965842694144",
+        "name": "沉沦",
+        "pinned_tweet_id": "1877373419253121366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935472758827147265/KPuAqczr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 211,
+          "like_count": 511,
+          "listed_count": 5,
+          "media_count": 40,
+          "tweet_count": 47
+        },
+        "username": "v_uri449",
+        "verified": false
+      }
+    ]
+  }
+}

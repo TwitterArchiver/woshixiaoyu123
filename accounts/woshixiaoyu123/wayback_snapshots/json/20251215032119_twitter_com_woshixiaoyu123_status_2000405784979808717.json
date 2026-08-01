@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2000249648951464336",
+    "created_at": "2025-12-15T03:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T04:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000405784979808717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1896269706321092608",
+          "start": 0,
+          "username": "Hy5sQyjMr8439"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000405784979808717",
+    "in_reply_to_user_id": "1896269706321092608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000282597444968630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hy5sQyjMr8439 带带我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1197,
+        "media_key": "3_2000282593858629634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Jua9FXMAIwk9R.jpg",
+        "width": 1655
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2000249648951464336",
+        "created_at": "2025-12-15T03:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000405784979808717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1896269706321092608",
+              "start": 0,
+              "username": "Hy5sQyjMr8439"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000405784979808717",
+        "in_reply_to_user_id": "1896269706321092608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000282597444968630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hy5sQyjMr8439 带带我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000282593858629634"
+          ]
+        },
+        "author_id": "1896269706321092608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000249648951464336",
+        "created_at": "2025-12-14T19:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T20:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000282597444968630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4b4UXOObFf",
+              "end": 44,
+              "expanded_url": "https://x.com/Hy5sQyjMr8439/status/2000282597444968630/photo/1",
+              "media_key": "3_2000282593858629634",
+              "start": 21,
+              "url": "https://t.co/4b4UXOObFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000282597444968630",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000249648951464336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 我可以吗 https://t.co/4b4UXOObFf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16856,
+          "following_count": 164,
+          "like_count": 337,
+          "listed_count": 13,
+          "media_count": 1224,
+          "tweet_count": 5417
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T18:41:55.000Z",
+        "description": "",
+        "id": "1896269706321092608",
+        "name": "爱消散于凌晨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897168084731092994/bznQ8gjY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 675,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 431
+        },
+        "username": "Hy5sQyjMr8439",
+        "verified": false
+      }
+    ]
+  }
+}

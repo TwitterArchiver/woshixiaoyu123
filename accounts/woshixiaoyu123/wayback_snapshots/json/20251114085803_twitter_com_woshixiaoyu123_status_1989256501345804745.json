@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989256499009662976"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989256501345804745",
+    "created_at": "2025-11-14T08:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T09:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989256501345804745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aNm3EX953g",
+          "end": 23,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989256501345804745/photo/1",
+          "media_key": "3_1989256499009662976",
+          "start": 0,
+          "url": "https://t.co/aNm3EX953g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989256501345804745",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/aNm3EX953g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1256,
+        "media_key": "3_1989256499009662976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tCPw6bsAAUMNX.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989256499009662976"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989256501345804745",
+        "created_at": "2025-11-14T08:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989256501345804745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aNm3EX953g",
+              "end": 23,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989256501345804745/photo/1",
+              "media_key": "3_1989256499009662976",
+              "start": 0,
+              "url": "https://t.co/aNm3EX953g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989256501345804745",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aNm3EX953g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "祝你幸福///不接纯交友...",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16831,
+          "following_count": 160,
+          "like_count": 314,
+          "listed_count": 11,
+          "media_count": 956,
+          "tweet_count": 4941
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

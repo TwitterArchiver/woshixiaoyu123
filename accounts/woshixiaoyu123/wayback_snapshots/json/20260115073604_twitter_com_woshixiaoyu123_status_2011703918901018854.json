@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2011445779295334583",
+    "created_at": "2026-01-15T07:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T08:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011703918901018854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558508662275969024",
+          "start": 0,
+          "username": "Kaneki_991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011703918901018854",
+    "in_reply_to_user_id": "1558508662275969024",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011445779295334583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaneki_991 ¯꒳¯"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 169333,
+        "height": 720,
+        "media_key": "13_2011445638182150144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011445638182150144/img/gG5LqOyCYjWp9wtH.jpg",
+        "public_metrics": {
+          "view_count": 235
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011445638182150144/vid/avc1/274x270/4AvAbgDRUhiV7xhO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011445638182150144/vid/avc1/366x360/m6njCDoUW7xaF1hf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011445638182150144/vid/avc1/734x720/-6Ne5r75qlhXcLgj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2011445638182150144/pl/OZs0tCxXZqkVNmKG.m3u8"
+          }
+        ],
+        "width": 734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2011445779295334583",
+        "created_at": "2026-01-15T07:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T08:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011703918901018854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558508662275969024",
+              "start": 0,
+              "username": "Kaneki_991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011703918901018854",
+        "in_reply_to_user_id": "1558508662275969024",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011445779295334583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaneki_991 ¯꒳¯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011445638182150144"
+          ]
+        },
+        "author_id": "1558508662275969024",
+        "conversation_id": "2011445779295334583",
+        "created_at": "2026-01-14T14:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T15:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011445779295334583"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男喘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "粗口"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "女性向"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "卡泡"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "磕炮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQmoth0bgL",
+              "end": 52,
+              "expanded_url": "https://x.com/Kaneki_991/status/2011445779295334583/video/1",
+              "media_key": "13_2011445638182150144",
+              "start": 29,
+              "url": "https://t.co/zQmoth0bgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011445779295334583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 912,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#男喘 #粗口 #女性向 #卡泡 #磕炮  说谢谢＿了吗 https://t.co/zQmoth0bgL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我｜答疑解惑｜看投稿点媒体｜不接推广",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18936,
+          "following_count": 173,
+          "like_count": 344,
+          "listed_count": 18,
+          "media_count": 1617,
+          "tweet_count": 5905
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T17:40:04.000Z",
+        "description": "随缘更 限流先消失一段时间",
+        "id": "1558508662275969024",
+        "name": "zero1",
+        "pinned_tweet_id": "1620800986964168705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956024967637921793/sskDJrtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4435,
+          "following_count": 59,
+          "like_count": 1904,
+          "listed_count": 5,
+          "media_count": 249,
+          "tweet_count": 914
+        },
+        "username": "Kaneki_991",
+        "verified": false
+      }
+    ]
+  }
+}

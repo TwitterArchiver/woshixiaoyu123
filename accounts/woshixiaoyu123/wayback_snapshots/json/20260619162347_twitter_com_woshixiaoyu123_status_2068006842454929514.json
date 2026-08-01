@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2067621407664803975",
+    "created_at": "2026-06-19T16:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068006842454929514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1582921343456407552",
+          "start": 0,
+          "username": "Ttbcy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068006842454929514",
+    "in_reply_to_user_id": "1582921343456407552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067621407664803975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ttbcy1 很萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067621401448927233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGqtbtb0AE_BiP.jpg",
+        "width": 1416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2067621407664803975",
+        "created_at": "2026-06-19T16:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068006842454929514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1582921343456407552",
+              "start": 0,
+              "username": "Ttbcy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068006842454929514",
+        "in_reply_to_user_id": "1582921343456407552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067621407664803975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ttbcy1 很萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067621401448927233"
+          ]
+        },
+        "author_id": "1582921343456407552",
+        "conversation_id": "2067621407664803975",
+        "created_at": "2026-06-18T14:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067621407664803975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Musn72M8gX",
+              "end": 27,
+              "expanded_url": "https://x.com/Ttbcy1/status/2067621407664803975/photo/1",
+              "media_key": "3_2067621401448927233",
+              "start": 4,
+              "url": "https://t.co/Musn72M8gX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067621407664803975",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 11307,
+          "like_count": 377,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "新睡衣 https://t.co/Musn72M8gX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19278,
+          "following_count": 155,
+          "like_count": 401,
+          "listed_count": 20,
+          "media_count": 1748,
+          "tweet_count": 6508
+        },
+        "url": "",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T02:27:22.000Z",
+        "description": "繩縛/清水/請保持距離/夢想是我哥給我買吃不完的巧克力૮ต•̤ ༝ •̤ตა@Ttbcy2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "Ttbcy2"
+              }
+            ]
+          }
+        },
+        "id": "1582921343456407552",
+        "location": "Hong Kong",
+        "name": "随时准备紫砂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908386998198689795/rNLYgHCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62611,
+          "following_count": 30,
+          "like_count": 1438,
+          "listed_count": 173,
+          "media_count": 78,
+          "tweet_count": 576
+        },
+        "url": "",
+        "username": "Ttbcy1",
+        "verified": false
+      }
+    ]
+  }
+}

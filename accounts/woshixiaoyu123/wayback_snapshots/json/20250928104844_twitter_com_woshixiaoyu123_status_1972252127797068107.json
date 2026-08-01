@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1972252127797068107",
+    "created_at": "2025-09-28T10:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T11:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972252127797068107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/trpaomo/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/trpaomo/status/1971973086309490913",
+          "start": 9,
+          "url": "https://t.co/bxn5rzUDl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972252127797068107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971973086309490913",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的年上在哪里？ https://t.co/bxn5rzUDl1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1972252127797068107",
+        "created_at": "2025-09-28T10:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T11:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972252127797068107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/trpaomo/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/trpaomo/status/1971973086309490913",
+              "start": 9,
+              "url": "https://t.co/bxn5rzUDl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972252127797068107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971973086309490913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的年上在哪里？ https://t.co/bxn5rzUDl1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "757578278320300032",
+        "conversation_id": "1971973086309490913",
+        "created_at": "2025-09-27T16:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T17:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971973086309490913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971973086309490913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 31236,
+          "like_count": 379,
+          "quote_count": 10,
+          "reply_count": 41,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "跟年上沟通聊天真的很轻松诶，你的想法哪怕觉得自己没表达完全清楚，但是他也能捕捉到你的重点并且迅速get！有种被撑托住的安心感？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我要打一辈子王者荣耀",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3813,
+          "following_count": 165,
+          "like_count": 238,
+          "listed_count": 6,
+          "media_count": 635,
+          "tweet_count": 3791
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-25T14:08:31.000Z",
+        "description": "isfp 的🦁 就是来分享生活碎碎念的 不约不私不聊 女宝宝们和互关除外",
+        "id": "757578278320300032",
+        "name": "好无聊",
+        "pinned_tweet_id": "1970481484319596577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952723610927603713/97UlKbMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 143,
+          "like_count": 6993,
+          "listed_count": 5,
+          "media_count": 363,
+          "tweet_count": 2464
+        },
+        "username": "trpaomo",
+        "verified": false
+      }
+    ]
+  }
+}

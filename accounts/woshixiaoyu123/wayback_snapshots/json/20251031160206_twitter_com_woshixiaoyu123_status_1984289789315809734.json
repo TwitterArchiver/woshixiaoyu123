@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1983850201795457090",
+    "created_at": "2025-10-31T16:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T17:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984289789315809734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1729050514636062720",
+          "start": 0,
+          "username": "zuo61871"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984289789315809734",
+    "in_reply_to_user_id": "1729050514636062720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984289459630973126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuo61871 带我。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1984289447467520000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mcvT_bkAAg7xj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1983850201795457090",
+        "created_at": "2025-10-31T16:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984289789315809734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1729050514636062720",
+              "start": 0,
+              "username": "zuo61871"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984289789315809734",
+        "in_reply_to_user_id": "1729050514636062720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984289459630973126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuo61871 带我。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984289447467520000"
+          ]
+        },
+        "author_id": "1729050514636062720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983850201795457090",
+        "created_at": "2025-10-31T16:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984289459630973126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QVFtoLvqKk",
+              "end": 43,
+              "expanded_url": "https://x.com/zuo61871/status/1984289459630973126/photo/1",
+              "media_key": "3_1984289447467520000",
+              "start": 20,
+              "url": "https://t.co/QVFtoLvqKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984289459630973126",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983850201795457090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 怎么样 https://t.co/QVFtoLvqKk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了｜男科问题去医院挂号我不是医生｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 70,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 47,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13111,
+          "following_count": 150,
+          "like_count": 295,
+          "listed_count": 11,
+          "media_count": 775,
+          "tweet_count": 4543
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T08:12:30.000Z",
+        "description": "",
+        "id": "1729050514636062720",
+        "name": "苏泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729050617270747136/lVrBa6dh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 16,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "zuo61871",
+        "verified": false
+      }
+    ]
+  }
+}

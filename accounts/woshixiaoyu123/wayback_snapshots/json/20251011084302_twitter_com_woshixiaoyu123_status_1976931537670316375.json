@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1976930110919131228",
+    "created_at": "2025-10-11T08:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T09:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976931537670316375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1513753182182133762",
+          "start": 0,
+          "username": "wysgdmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976931537670316375",
+    "in_reply_to_user_id": "1513753182182133762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976930110919131228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wysgdmn 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976930098273263616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G293cz1bIAAJ7jY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1976930110919131228",
+        "created_at": "2025-10-11T08:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T09:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976931537670316375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1513753182182133762",
+              "start": 0,
+              "username": "wysgdmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976931537670316375",
+        "in_reply_to_user_id": "1513753182182133762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976930110919131228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wysgdmn 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976930098273263616"
+          ]
+        },
+        "author_id": "1513753182182133762",
+        "conversation_id": "1976930110919131228",
+        "created_at": "2025-10-11T08:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T09:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976930110919131228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MUVBVQkZoS",
+              "end": 39,
+              "expanded_url": "https://x.com/wysgdmn/status/1976930110919131228/photo/1",
+              "media_key": "3_1976930098273263616",
+              "start": 16,
+              "url": "https://t.co/MUVBVQkZoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976930110919131228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1055,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次的客人很懂怎么打动小女生🌹 https://t.co/MUVBVQkZoS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢青年音",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4402,
+          "following_count": 159,
+          "like_count": 276,
+          "listed_count": 6,
+          "media_count": 677,
+          "tweet_count": 4078
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T05:42:34.000Z",
+        "description": "不接骗人推广！从未做过中介！！\n天然奶，没做过更不推荐任何粉嫩手术！\n装b大号: @9_jfm 【🚪1314  仅为加vx不抵扣后续费用   全国可✈️过门问价，门槛不退请谨慎考虑】‖\n🍑店铺：doi用品🔍:   丸趣WannaPlay  ‖倒膜：黑科技工程机（进店搜丸崽）‖不卖视频图包，不玩其他软件，不要被骗！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 41,
+                "username": "9_jfm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wannaplay.taobao.com",
+                "end": 23,
+                "expanded_url": "https://wannaplay.taobao.com/",
+                "start": 0,
+                "url": "https://t.co/ItFzepNc5M"
+              }
+            ]
+          }
+        },
+        "id": "1513753182182133762",
+        "location": "淘宝店：丸趣WannaPlay",
+        "name": "狼",
+        "pinned_tweet_id": "1948398650779963518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916534128687906816/4vD55ziP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525905,
+          "following_count": 1,
+          "like_count": 961,
+          "listed_count": 744,
+          "media_count": 1289,
+          "tweet_count": 4578
+        },
+        "url": "https://t.co/ItFzepNc5M",
+        "username": "wysgdmn",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1984186105969922345",
+    "created_at": "2025-10-31T13:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T14:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984250605964272015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620049439825215490",
+          "start": 0,
+          "username": "xiaochewink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984250605964272015",
+    "in_reply_to_user_id": "1620049439825215490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984228023814758467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaochewink 好枪兄弟一人一个包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1984186105969922345",
+        "created_at": "2025-10-31T13:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T14:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984250605964272015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620049439825215490",
+              "start": 0,
+              "username": "xiaochewink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984250605964272015",
+        "in_reply_to_user_id": "1620049439825215490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984228023814758467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaochewink 好枪兄弟一人一个包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620049439825215490",
+        "conversation_id": "1984186105969922345",
+        "created_at": "2025-10-31T11:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T12:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984228023814758467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984228023814758467",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984186105969922345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 带上你可怜的哈夫币跟你可笑的枪法在后面等着吃包吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了｜男科问题去医院挂号我不是医生｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 70,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 47,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12976,
+          "following_count": 149,
+          "like_count": 289,
+          "listed_count": 11,
+          "media_count": 775,
+          "tweet_count": 4533
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T13:21:09.000Z",
+        "description": "",
+        "id": "1620049439825215490",
+        "name": "xiaochen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620049537170837504/xNe7jPeg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 8,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "xiaochewink",
+        "verified": false
+      }
+    ]
+  }
+}

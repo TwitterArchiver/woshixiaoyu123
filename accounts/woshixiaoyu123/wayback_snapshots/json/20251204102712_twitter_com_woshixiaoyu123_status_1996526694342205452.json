@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996526691666296832"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1996526694342205452",
+    "created_at": "2025-12-04T10:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T11:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996526694342205452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yHIlflcD4G",
+          "end": 32,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1996526694342205452/photo/1",
+          "media_key": "3_1996526691666296832",
+          "start": 9,
+          "url": "https://t.co/yHIlflcD4G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996526694342205452",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "叫完就拉黑啥意思 https://t.co/yHIlflcD4G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 697,
+        "media_key": "3_1996526691666296832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7UWcrFbAAAy9Kf.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996526691666296832"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1996526694342205452",
+        "created_at": "2025-12-04T10:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996526694342205452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHIlflcD4G",
+              "end": 32,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1996526694342205452/photo/1",
+              "media_key": "3_1996526691666296832",
+              "start": 9,
+              "url": "https://t.co/yHIlflcD4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996526694342205452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叫完就拉黑啥意思 https://t.co/yHIlflcD4G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "找我玩",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16250,
+          "following_count": 169,
+          "like_count": 333,
+          "listed_count": 12,
+          "media_count": 1109,
+          "tweet_count": 5236
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1981046162477244661",
+    "created_at": "2025-10-22T17:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T18:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981046162477244661"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iam_aMirror/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/iam_aMirror/status/1980721961476190249",
+          "start": 3,
+          "url": "https://t.co/abKdHK0Ddw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981046162477244661",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980721961476190249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我接 https://t.co/abKdHK0Ddw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1203,
+        "media_key": "3_1980721952986689536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3zwHzaW8AAGQQu.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1981046162477244661",
+        "created_at": "2025-10-22T17:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T18:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981046162477244661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iam_aMirror/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/iam_aMirror/status/1980721961476190249",
+              "start": 3,
+              "url": "https://t.co/abKdHK0Ddw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981046162477244661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980721961476190249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我接 https://t.co/abKdHK0Ddw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980721952986689536"
+          ]
+        },
+        "author_id": "1777664743723208704",
+        "conversation_id": "1980721961476190249",
+        "created_at": "2025-10-21T19:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T20:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980721961476190249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cpLX5gjgX",
+              "end": 35,
+              "expanded_url": "https://x.com/iam_aMirror/status/1980721961476190249/photo/1",
+              "media_key": "3_1980721952986689536",
+              "start": 12,
+              "url": "https://t.co/4cpLX5gjgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980721961476190249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 57326,
+          "like_count": 420,
+          "quote_count": 20,
+          "reply_count": 53,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "找男朋友就要找这样的😋 https://t.co/4cpLX5gjgX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "顺其自然",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8422,
+          "following_count": 161,
+          "like_count": 289,
+          "listed_count": 9,
+          "media_count": 732,
+          "tweet_count": 4398
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T11:48:03.000Z",
+        "description": "1i. 有男友 不是黄推请不要冒犯我",
+        "id": "1777664743723208704",
+        "name": "ian",
+        "pinned_tweet_id": "1974148982663491687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956013930117259265/B6WI0m3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18366,
+          "following_count": 271,
+          "like_count": 2042,
+          "listed_count": 44,
+          "media_count": 195,
+          "tweet_count": 2276
+        },
+        "username": "iam_aMirror",
+        "verified": false
+      }
+    ]
+  }
+}

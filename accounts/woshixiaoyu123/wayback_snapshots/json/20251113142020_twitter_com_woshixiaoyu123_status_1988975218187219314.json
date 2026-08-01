@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988975215565750272"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988975218187219314",
+    "created_at": "2025-11-13T14:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T15:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988975218187219314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F0QJh7YcAx",
+          "end": 31,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1988975218187219314/photo/1",
+          "media_key": "3_1988975215565750272",
+          "start": 8,
+          "url": "https://t.co/F0QJh7YcAx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988975218187219314",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "寻找粉色jb。 https://t.co/F0QJh7YcAx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2176,
+        "media_key": "3_1988975215565750272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5pCa6baQAAIEY9.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988975215565750272"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988975218187219314",
+        "created_at": "2025-11-13T14:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T15:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988975218187219314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0QJh7YcAx",
+              "end": 31,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1988975218187219314/photo/1",
+              "media_key": "3_1988975215565750272",
+              "start": 8,
+              "url": "https://t.co/F0QJh7YcAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988975218187219314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "寻找粉色jb。 https://t.co/F0QJh7YcAx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你这些年 不停的去爱 我好想问你 你理解的自由 到底在哪 到底是什么样子的",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16465,
+          "following_count": 160,
+          "like_count": 312,
+          "listed_count": 11,
+          "media_count": 922,
+          "tweet_count": 4881
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

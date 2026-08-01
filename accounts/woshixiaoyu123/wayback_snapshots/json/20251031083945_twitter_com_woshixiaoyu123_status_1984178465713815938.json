@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1984058665977180310",
+    "created_at": "2025-10-31T08:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T09:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984178465713815938"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "恭喜",
+          "probability": 0.6499,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1956822648757104640",
+          "start": 0,
+          "username": "Sylus_Only_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984178465713815938",
+    "in_reply_to_user_id": "1956822648757104640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984058665977180310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sylus_Only_ 恭喜🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 664,
+        "media_key": "3_1984058655092961280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4jK1bZa8AAnpx_.jpg",
+        "width": 997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1984058665977180310",
+        "created_at": "2025-10-31T08:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T09:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984178465713815938"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "恭喜",
+              "probability": 0.6499,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1956822648757104640",
+              "start": 0,
+              "username": "Sylus_Only_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984178465713815938",
+        "in_reply_to_user_id": "1956822648757104640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984058665977180310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylus_Only_ 恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984058655092961280"
+          ]
+        },
+        "author_id": "1956822648757104640",
+        "conversation_id": "1984058665977180310",
+        "created_at": "2025-10-31T00:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T01:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984058665977180310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wzQPmxqgg",
+              "end": 43,
+              "expanded_url": "https://x.com/Sylus_Only_/status/1984058665977180310/photo/1",
+              "media_key": "3_1984058655092961280",
+              "start": 20,
+              "url": "https://t.co/7wzQPmxqgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984058665977180310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26450,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一晚上涨到4kfo…………谢谢大家🥹🥹 https://t.co/7wzQPmxqgg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了｜男科问题去医院挂号我不是医生｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 70,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 47,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12776,
+          "following_count": 149,
+          "like_count": 288,
+          "listed_count": 11,
+          "media_count": 771,
+          "tweet_count": 4522
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T20:58:00.000Z",
+        "description": "惹我你就去死 老子爱发什么发什么｜如果你也想和我玩的话我会很开心呀！ovo｜回关喜欢 ｜可以叫我洛洛🫶｜非互关私信随缘回 不回就是不想回｜我是高p｜盗图死🐴一辈子发不了财",
+        "id": "1956822648757104640",
+        "location": "🚪188纯绿",
+        "name": "焚烧老公只为治疗冷暴力",
+        "pinned_tweet_id": "1976508644398333997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981629276366483456/QvjBAnmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5531,
+          "following_count": 788,
+          "like_count": 12285,
+          "listed_count": 8,
+          "media_count": 111,
+          "tweet_count": 963
+        },
+        "username": "Sylus_Only_",
+        "verified": false
+      }
+    ]
+  }
+}

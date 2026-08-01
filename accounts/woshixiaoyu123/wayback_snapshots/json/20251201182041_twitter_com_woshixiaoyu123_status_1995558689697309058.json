@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995558685503094786",
+        "3_1995558686769774594"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1995558689697309058",
+    "created_at": "2025-12-01T18:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T19:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995558689697309058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1860067723000315909",
+          "start": 0,
+          "username": "7wa1V6GpqE85533"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2kiqm4Op8K",
+          "end": 40,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1995558689697309058/photo/1",
+          "media_key": "3_1995558685503094786",
+          "start": 17,
+          "url": "https://t.co/2kiqm4Op8K"
+        },
+        {
+          "display_url": "pic.x.com/2kiqm4Op8K",
+          "end": 40,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1995558689697309058/photo/1",
+          "media_key": "3_1995558686769774594",
+          "start": 17,
+          "url": "https://t.co/2kiqm4Op8K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995558689697309058",
+    "in_reply_to_user_id": "1860067723000315909",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@7wa1V6GpqE85533 https://t.co/2kiqm4Op8K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 290,
+        "media_key": "3_1995558685503094786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7GmDTHbgAIdPxk.jpg",
+        "width": 1256
+      },
+      {
+        "height": 1949,
+        "media_key": "3_1995558686769774594",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7GmDX1bgAI2XzT.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995558685503094786",
+            "3_1995558686769774594"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1995558689697309058",
+        "created_at": "2025-12-01T18:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T19:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995558689697309058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1860067723000315909",
+              "start": 0,
+              "username": "7wa1V6GpqE85533"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2kiqm4Op8K",
+              "end": 40,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1995558689697309058/photo/1",
+              "media_key": "3_1995558685503094786",
+              "start": 17,
+              "url": "https://t.co/2kiqm4Op8K"
+            },
+            {
+              "display_url": "pic.x.com/2kiqm4Op8K",
+              "end": 40,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1995558689697309058/photo/1",
+              "media_key": "3_1995558686769774594",
+              "start": 17,
+              "url": "https://t.co/2kiqm4Op8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995558689697309058",
+        "in_reply_to_user_id": "1860067723000315909",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@7wa1V6GpqE85533 https://t.co/2kiqm4Op8K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "找我玩",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1983224068137750535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16251,
+          "following_count": 170,
+          "like_count": 334,
+          "listed_count": 12,
+          "media_count": 1107,
+          "tweet_count": 5225
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T21:08:10.000Z",
+        "description": "",
+        "id": "1860067723000315909",
+        "name": "写弦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860325271733452800/6fLeTxFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 197,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "username": "7wa1V6GpqE85533",
+        "verified": false
+      }
+    ]
+  }
+}

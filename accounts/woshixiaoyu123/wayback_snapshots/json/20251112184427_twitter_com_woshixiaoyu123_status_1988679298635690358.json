@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988679295582277632"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988679298635690358",
+    "created_at": "2025-11-12T18:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T19:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988679298635690358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XHobMGfYyD",
+          "end": 35,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1988679298635690358/photo/1",
+          "media_key": "3_1988679295582277632",
+          "start": 12,
+          "url": "https://t.co/XHobMGfYyD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988679298635690358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三角洲想爽吃的可以来了 https://t.co/XHobMGfYyD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2009,
+        "media_key": "3_1988679295582277632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5k1SGlbEAAjg46.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988679295582277632"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988679298635690358",
+        "created_at": "2025-11-12T18:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T19:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988679298635690358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHobMGfYyD",
+              "end": 35,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1988679298635690358/photo/1",
+              "media_key": "3_1988679295582277632",
+              "start": 12,
+              "url": "https://t.co/XHobMGfYyD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988679298635690358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三角洲想爽吃的可以来了 https://t.co/XHobMGfYyD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "接求助/找🚪/找陪玩｜纯交友/游戏搭子可以去评论区蹲蹲（有特殊条件可以来 o(╥﹏╥)o",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16126,
+          "following_count": 159,
+          "like_count": 309,
+          "listed_count": 9,
+          "media_count": 897,
+          "tweet_count": 4837
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

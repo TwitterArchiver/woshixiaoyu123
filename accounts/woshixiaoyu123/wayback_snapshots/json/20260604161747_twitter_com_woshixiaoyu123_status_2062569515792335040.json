@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2062549950303764532",
+    "created_at": "2026-06-04T16:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062569515792335040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1841885451659227136",
+          "start": 0,
+          "username": "Ttbcy2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062569515792335040",
+    "in_reply_to_user_id": "1841885451659227136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062549950303764532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ttbcy2 宝宝🥹好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062549866858131456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-mLRGbsAATQbo.jpg",
+        "width": 1510
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062549866715414528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-mLQkaAAAkB47.jpg",
+        "width": 1488
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062549866774142976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-mLQyaIAAq_hZ.jpg",
+        "width": 1556
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062549866610565121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-mLQLaIAESSTC.jpg",
+        "width": 1498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2062549950303764532",
+        "created_at": "2026-06-04T16:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062569515792335040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1841885451659227136",
+              "start": 0,
+              "username": "Ttbcy2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062569515792335040",
+        "in_reply_to_user_id": "1841885451659227136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062549950303764532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ttbcy2 宝宝🥹好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062549866858131456",
+            "3_2062549866715414528",
+            "3_2062549866774142976",
+            "3_2062549866610565121"
+          ]
+        },
+        "author_id": "1841885451659227136",
+        "conversation_id": "2062549950303764532",
+        "created_at": "2026-06-04T15:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062549950303764532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZK3rM5gJPG",
+              "end": 31,
+              "expanded_url": "https://x.com/Ttbcy2/status/2062549950303764532/photo/1",
+              "media_key": "3_2062549866858131456",
+              "start": 8,
+              "url": "https://t.co/ZK3rM5gJPG"
+            },
+            {
+              "display_url": "pic.x.com/ZK3rM5gJPG",
+              "end": 31,
+              "expanded_url": "https://x.com/Ttbcy2/status/2062549950303764532/photo/1",
+              "media_key": "3_2062549866715414528",
+              "start": 8,
+              "url": "https://t.co/ZK3rM5gJPG"
+            },
+            {
+              "display_url": "pic.x.com/ZK3rM5gJPG",
+              "end": 31,
+              "expanded_url": "https://x.com/Ttbcy2/status/2062549950303764532/photo/1",
+              "media_key": "3_2062549866774142976",
+              "start": 8,
+              "url": "https://t.co/ZK3rM5gJPG"
+            },
+            {
+              "display_url": "pic.x.com/ZK3rM5gJPG",
+              "end": 31,
+              "expanded_url": "https://x.com/Ttbcy2/status/2062549950303764532/photo/1",
+              "media_key": "3_2062549866610565121",
+              "start": 8,
+              "url": "https://t.co/ZK3rM5gJPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062549950303764532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 252,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也不太了解她 https://t.co/ZK3rM5gJPG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19316,
+          "following_count": 157,
+          "like_count": 394,
+          "listed_count": 20,
+          "media_count": 1748,
+          "tweet_count": 6478
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T16:58:17.000Z",
+        "description": "允許我不禮貌的說…我的照片不會漏任何 🔞別模仿 只是一個平平無奇的👧喜歡繩縛沒有別的任何謝謝。照片以及繩縛都是同一個縛手。造謠滾 🈲盜圖也拒絕轉到牆內。隨意把照片轉到牆內的直接死了。角落 i 人 純綠純綠清水 清清清 不線下不約也不聊什麼都不 同好女寶可以擴列。只有一個抖音號 別的什麼軟件都沒有！盜圖替我擋災擋災",
+        "id": "1841885451659227136",
+        "name": "走失的人形少女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028134687965876224/Qz8wkURM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3252,
+          "following_count": 13,
+          "like_count": 130,
+          "listed_count": 14,
+          "media_count": 4,
+          "tweet_count": 29
+        },
+        "username": "Ttbcy2",
+        "verified": false
+      }
+    ]
+  }
+}

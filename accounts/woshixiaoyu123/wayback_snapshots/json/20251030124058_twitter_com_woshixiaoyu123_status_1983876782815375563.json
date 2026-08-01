@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1983850201795457090",
+    "created_at": "2025-10-30T12:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T13:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983876782815375563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1869533018068865025",
+          "start": 0,
+          "username": "yny1043638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983876782815375563",
+    "in_reply_to_user_id": "1869533018068865025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983865521507594485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yny1043638 带带我求你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1983865518256975872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gbLYnacAAGnDk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1983850201795457090",
+        "created_at": "2025-10-30T12:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983876782815375563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1869533018068865025",
+              "start": 0,
+              "username": "yny1043638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983876782815375563",
+        "in_reply_to_user_id": "1869533018068865025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983865521507594485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yny1043638 带带我求你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983865518256975872"
+          ]
+        },
+        "author_id": "1869533018068865025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983850201795457090",
+        "created_at": "2025-10-30T11:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983865521507594485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lxfk2HAM1X",
+              "end": 47,
+              "expanded_url": "https://x.com/yny1043638/status/1983865521507594485/photo/1",
+              "media_key": "3_1983865518256975872",
+              "start": 24,
+              "url": "https://t.co/lxfk2HAM1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983865521507594485",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983850201795457090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 我这种什么实力 https://t.co/lxfk2HAM1X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10791,
+          "following_count": 149,
+          "like_count": 288,
+          "listed_count": 10,
+          "media_count": 759,
+          "tweet_count": 4489
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T23:59:51.000Z",
+        "description": "",
+        "id": "1869533018068865025",
+        "name": "阴雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869537585523257344/faXehJid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "yny1043638",
+        "verified": false
+      }
+    ]
+  }
+}

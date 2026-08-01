@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1979909323825553770",
+    "created_at": "2025-10-20T03:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T04:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980109964032213455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976992791742885888",
+          "start": 0,
+          "username": "Quill_Bincock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980109964032213455",
+    "in_reply_to_user_id": "1976992791742885888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980090376624210182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quill_Bincock 人之常情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1979909323825553770",
+        "created_at": "2025-10-20T03:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980109964032213455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976992791742885888",
+              "start": 0,
+              "username": "Quill_Bincock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980109964032213455",
+        "in_reply_to_user_id": "1976992791742885888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980090376624210182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quill_Bincock 人之常情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976992791742885888",
+        "conversation_id": "1979909323825553770",
+        "created_at": "2025-10-20T01:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T02:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980090376624210182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980090376624210182",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979909323825553770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 对不起…我犯错了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7814,
+          "following_count": 162,
+          "like_count": 288,
+          "listed_count": 10,
+          "media_count": 731,
+          "tweet_count": 4351
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T12:50:59.000Z",
+        "description": "LULULU，LU GUAN SHI JIAN DAO💦🍆🥵   i love jerk off！if you like my video，Follow me！PLS！",
+        "id": "1976992791742885888",
+        "name": "Joe",
+        "pinned_tweet_id": "1977029144824451247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976994238547050496/KnIwe66T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 66,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 199
+        },
+        "username": "Quill_Bincock",
+        "verified": false
+      }
+    ]
+  }
+}

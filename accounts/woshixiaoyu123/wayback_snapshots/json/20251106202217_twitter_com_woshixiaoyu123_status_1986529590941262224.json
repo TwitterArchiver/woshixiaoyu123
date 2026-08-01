@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1986486712676327539",
+    "created_at": "2025-11-06T20:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T21:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986529590941262224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1920894575599820800",
+          "start": 0,
+          "username": "JiangL12624"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986529590941262224",
+    "in_reply_to_user_id": "1920894575599820800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986486712676327539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiangL12624 这也太美...我埋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7146,
+        "height": 960,
+        "media_key": "7_1986486668929736707",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1986486668929736707/pu/img/pTCeNm88rMBg9cwB.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986486668929736707/pu/vid/avc1/320x426/JNOeHhgBKe-KdmeQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986486668929736707/pu/vid/avc1/480x640/na9dvP4D7wvmabqz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986486668929736707/pu/vid/avc1/720x960/RHEjhscPjjMRaIYA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1986486668929736707/pu/pl/qxqLtQXDB8Dtl6Qj.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1986486712676327539",
+        "created_at": "2025-11-06T20:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T21:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986529590941262224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1920894575599820800",
+              "start": 0,
+              "username": "JiangL12624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986529590941262224",
+        "in_reply_to_user_id": "1920894575599820800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986486712676327539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiangL12624 这也太美...我埋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1986486668929736707"
+          ]
+        },
+        "author_id": "1920894575599820800",
+        "conversation_id": "1986486712676327539",
+        "created_at": "2025-11-06T17:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T18:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986486712676327539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zp0vyD8FDa",
+              "end": 35,
+              "expanded_url": "https://x.com/JiangL12624/status/1986486712676327539/video/1",
+              "media_key": "7_1986486668929736707",
+              "start": 12,
+              "url": "https://t.co/zp0vyD8FDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986486712676327539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舌钉宝宝我爱你哟^ω^ https://t.co/zp0vyD8FDa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "带我玩游戏好嘛(｡í _ ì｡)｜不接推广 转推 合作 不收口令｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnEbr6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 71,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 48,
+                "url": "https://t.co/kwrUsnEbr6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WN3qp"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14056,
+          "following_count": 150,
+          "like_count": 300,
+          "listed_count": 11,
+          "media_count": 815,
+          "tweet_count": 4665
+        },
+        "url": "https://t.co/Qxp67WN3qp",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T17:32:20.000Z",
+        "description": "女宝找我玩好不好",
+        "id": "1920894575599820800",
+        "name": "降临",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920895142686584832/lZU4YF53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 34,
+          "like_count": 2048,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 77
+        },
+        "username": "JiangL12624",
+        "verified": false
+      }
+    ]
+  }
+}

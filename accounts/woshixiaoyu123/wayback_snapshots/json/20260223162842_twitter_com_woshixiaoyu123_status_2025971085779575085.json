@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2025971085779575085",
+    "created_at": "2026-02-23T16:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T17:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025971085779575085"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025971085779575085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我没什么特殊癖好但是当你的用那种特别高冷特别厌世的眼神像看宠物一样看我的时候我会有种莫名其妙的兴奋就是你那种气势和眼神…但是我没有什么特殊癖好哈如果你突然扇一巴掌到我脸上的话…当然啦我这人没有什么特殊癖好( 𓏼˙ ᴥ ˙𓏼 )Ooo，Ohhh..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2025971085779575085",
+        "created_at": "2026-02-23T16:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025971085779575085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025971085779575085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没什么特殊癖好但是当你的用那种特别高冷特别厌世的眼神像看宠物一样看我的时候我会有种莫名其妙的兴奋就是你那种气势和眼神…但是我没有什么特殊癖好哈如果你突然扇一巴掌到我脸上的话…当然啦我这人没有什么特殊癖好( 𓏼˙ ᴥ ˙𓏼 )Ooo，Ohhh..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18477,
+          "following_count": 170,
+          "like_count": 346,
+          "listed_count": 17,
+          "media_count": 1699,
+          "tweet_count": 6021
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

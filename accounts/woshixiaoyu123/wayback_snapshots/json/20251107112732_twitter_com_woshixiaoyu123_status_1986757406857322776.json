@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986757402805555200"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1986757406857322776",
+    "created_at": "2025-11-07T11:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T12:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986757406857322776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sHo5b3MeRZ",
+          "end": 27,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1986757406857322776/photo/1",
+          "media_key": "3_1986757402805555200",
+          "start": 4,
+          "url": "https://t.co/sHo5b3MeRZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986757406857322776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽。 https://t.co/sHo5b3MeRZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1986757406857322776].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1986757406857322776",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1986757406857322776"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1986757402805555200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5JhVOEaUAAoU_m.jpg",
+        "width": 934
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你的少女心事我都懂",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14248,
+          "following_count": 151,
+          "like_count": 301,
+          "listed_count": 11,
+          "media_count": 823,
+          "tweet_count": 4679
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

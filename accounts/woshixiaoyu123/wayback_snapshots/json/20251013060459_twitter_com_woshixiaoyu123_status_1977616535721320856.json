@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977085681513144455",
+    "created_at": "2025-10-13T06:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T07:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977616535721320856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1493113049955254272",
+          "start": 0,
+          "username": "chen6476378"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977616535721320856",
+    "in_reply_to_user_id": "1493113049955254272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977616135890796873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen6476378 最起码最起码也得三个月........."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977085681513144455",
+        "created_at": "2025-10-13T06:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T07:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977616535721320856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1493113049955254272",
+              "start": 0,
+              "username": "chen6476378"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977616535721320856",
+        "in_reply_to_user_id": "1493113049955254272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977616135890796873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen6476378 最起码最起码也得三个月........."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493113049955254272",
+        "conversation_id": "1977085681513144455",
+        "created_at": "2025-10-13T06:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T07:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977616135890796873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977616135890796873",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977085681513144455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 多久算日久生情啊，半年？一年？超过一年有点太久了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5106,
+          "following_count": 159,
+          "like_count": 279,
+          "listed_count": 6,
+          "media_count": 692,
+          "tweet_count": 4166
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T06:41:14.000Z",
+        "description": "去年旧路添新坟…",
+        "id": "1493113049955254272",
+        "name": "‎・ࡇ・​",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568551307484581889/B_82sw25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 21,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 302
+        },
+        "username": "chen6476378",
+        "verified": false
+      }
+    ]
+  }
+}

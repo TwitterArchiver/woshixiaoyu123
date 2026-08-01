@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977600878606729441",
+    "created_at": "2025-10-13T06:03:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T07:03:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977616176105791567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1791569894145773569",
+          "start": 0,
+          "username": "ming161626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977616176105791567",
+    "in_reply_to_user_id": "1791569894145773569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977601222304739556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming161626 真有意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977600878606729441",
+        "created_at": "2025-10-13T06:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T07:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977616176105791567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1791569894145773569",
+              "start": 0,
+              "username": "ming161626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977616176105791567",
+        "in_reply_to_user_id": "1791569894145773569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977601222304739556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming161626 真有意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791569894145773569",
+        "conversation_id": "1977600878606729441",
+        "created_at": "2025-10-13T05:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T06:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977601222304739556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977601222304739556",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977600878606729441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 这句也是整活么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5106,
+          "following_count": 159,
+          "like_count": 279,
+          "listed_count": 6,
+          "media_count": 692,
+          "tweet_count": 4165
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T20:42:12.000Z",
+        "description": "咕噜咕噜咕噜咕噜",
+        "id": "1791569894145773569",
+        "name": "厄里斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847497556529651712/GxAotdIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 42,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 344
+        },
+        "username": "ming161626",
+        "verified": false
+      }
+    ]
+  }
+}

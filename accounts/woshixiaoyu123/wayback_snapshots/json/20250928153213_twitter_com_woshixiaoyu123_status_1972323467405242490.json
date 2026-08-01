@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972323462871199744"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1972323467405242490",
+    "created_at": "2025-09-28T15:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T16:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972323467405242490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XHRmYOLggy",
+          "end": 51,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1972323467405242490/photo/1",
+          "media_key": "3_1972323462871199744",
+          "start": 28,
+          "url": "https://t.co/XHRmYOLggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972323467405242490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "带妹这个爽 （小乔那把战绩有点难看ᐡ•͈ ·̭ •͈ᐡ https://t.co/XHRmYOLggy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1972323462871199744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G18ZvVqbMAAUwMm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972323462871199744"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1972323467405242490",
+        "created_at": "2025-09-28T15:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T16:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972323467405242490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHRmYOLggy",
+              "end": 51,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1972323467405242490/photo/1",
+              "media_key": "3_1972323462871199744",
+              "start": 28,
+              "url": "https://t.co/XHRmYOLggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972323467405242490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带妹这个爽 （小乔那把战绩有点难看ᐡ•͈ ·̭ •͈ᐡ https://t.co/XHRmYOLggy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我要打一辈子王者荣耀",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3844,
+          "following_count": 164,
+          "like_count": 238,
+          "listed_count": 6,
+          "media_count": 636,
+          "tweet_count": 3795
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

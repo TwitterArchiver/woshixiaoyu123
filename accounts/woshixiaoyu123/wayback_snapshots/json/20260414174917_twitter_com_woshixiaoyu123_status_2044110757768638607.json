@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2044110757768638607",
+    "created_at": "2026-04-14T17:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T18:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044110757768638607"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044110757768638607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从某种角度来说，你说的有一点对，可是从另一个角度看，你说得不对。也不能说是完全不对，只能说离完全对之间还有一点不对。如果忽略这点不对，哪你说的当然是对的，可是以一个更严谨的态度去审视你说的对不对，那么你说的又不是对的了。其实回头一想，你说的对之处在静止的世界中有可能是对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2044110757768638607",
+        "created_at": "2026-04-14T17:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044110757768638607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044110757768638607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从某种角度来说，你说的有一点对，可是从另一个角度看，你说得不对。也不能说是完全不对，只能说离完全对之间还有一点不对。如果忽略这点不对，哪你说的当然是对的，可是以一个更严谨的态度去审视你说的对不对，那么你说的又不是对的了。其实回头一想，你说的对之处在静止的世界中有可能是对的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2038312886033084867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18734,
+          "following_count": 158,
+          "like_count": 370,
+          "listed_count": 17,
+          "media_count": 1723,
+          "tweet_count": 6303
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

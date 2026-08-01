@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1984342767754260959",
+    "created_at": "2025-11-02T09:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T10:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984909509429743774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1674935686439522304",
+          "start": 0,
+          "username": "bi_zi20390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984909509429743774",
+    "in_reply_to_user_id": "1674935686439522304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984831362965139924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bi_zi20390 行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1984342767754260959",
+        "created_at": "2025-11-02T09:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T10:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984909509429743774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674935686439522304",
+              "start": 0,
+              "username": "bi_zi20390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984909509429743774",
+        "in_reply_to_user_id": "1674935686439522304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984831362965139924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bi_zi20390 行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674935686439522304",
+        "conversation_id": "1984342767754260959",
+        "created_at": "2025-11-02T03:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T04:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984831362965139924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984831362965139924",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984342767754260959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 和我去玩强音吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "找我玩游戏(｡í _ ì｡)｜谢谢你们理我——————————————————匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 77,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 54,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13398,
+          "following_count": 150,
+          "like_count": 298,
+          "listed_count": 11,
+          "media_count": 787,
+          "tweet_count": 4578
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T00:19:48.000Z",
+        "description": "来这逛逛",
+        "id": "1674935686439522304",
+        "name": "海报",
+        "pinned_tweet_id": "1876959780561948814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983923275412729857/JiSdnIB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 24,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 85
+        },
+        "username": "bi_zi20390",
+        "verified": false
+      }
+    ]
+  }
+}

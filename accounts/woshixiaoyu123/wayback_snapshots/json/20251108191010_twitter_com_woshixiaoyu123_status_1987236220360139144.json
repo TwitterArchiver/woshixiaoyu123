@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1987236220360139144",
+    "created_at": "2025-11-08T19:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T20:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987236220360139144"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987236220360139144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实只要我能确定对方是爱我的 在乎我的 是我的 ，我会希望对方对我严厉一点 凶一点（什么奇怪的xp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1987236220360139144",
+        "created_at": "2025-11-08T19:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T20:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987236220360139144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987236220360139144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实只要我能确定对方是爱我的 在乎我的 是我的 ，我会希望对方对我严厉一点 凶一点（什么奇怪的xp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我就是围着你转啊 我没有自己的生活的 我的手机一直在手边 一直不锁屏 看你有没有发信息 最喜欢你了 我已经离不开你了",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14665,
+          "following_count": 152,
+          "like_count": 305,
+          "listed_count": 11,
+          "media_count": 840,
+          "tweet_count": 4723
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

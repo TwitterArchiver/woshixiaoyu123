@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1985384050480332948",
+    "created_at": "2025-11-03T16:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T17:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985384668263600600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1911469495018782724",
+          "start": 0,
+          "username": "uQ3TQ7KTr762821"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985384668263600600",
+    "in_reply_to_user_id": "1911469495018782724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985384561673408837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uQ3TQ7KTr762821 还早还早"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1985384050480332948",
+        "created_at": "2025-11-03T16:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985384668263600600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1911469495018782724",
+              "start": 0,
+              "username": "uQ3TQ7KTr762821"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985384668263600600",
+        "in_reply_to_user_id": "1911469495018782724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985384561673408837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uQ3TQ7KTr762821 还早还早"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911469495018782724",
+        "conversation_id": "1985384050480332948",
+        "created_at": "2025-11-03T16:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985384561673408837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985384561673408837",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985384050480332948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 还不睡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "带我玩游戏好嘛(｡í _ ì｡)｜谢谢你们理我｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 62,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 39,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13658,
+          "following_count": 151,
+          "like_count": 298,
+          "listed_count": 11,
+          "media_count": 798,
+          "tweet_count": 4611
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T17:20:38.000Z",
+        "description": "",
+        "id": "1911469495018782724",
+        "name": "豆腐干",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982672701559906304/kmQraCLq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 48,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 41
+        },
+        "username": "uQ3TQ7KTr762821",
+        "verified": false
+      }
+    ]
+  }
+}

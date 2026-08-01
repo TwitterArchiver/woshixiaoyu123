@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2001337075698929714",
+    "created_at": "2025-12-18T19:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T20:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001737313068720559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1584881828280029184",
+          "start": 0,
+          "username": "jiangmangmang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001737313068720559",
+    "in_reply_to_user_id": "1584881828280029184",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001337075698929714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangmangmang ¯꒳¯"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71678,
+        "height": 900,
+        "media_key": "13_2001336779400785921",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001336779400785921/img/2qdsjx1U2N7JBqZL.jpg",
+        "public_metrics": {
+          "view_count": 14406
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001336779400785921/vid/avc1/320x400/8FGnxZMeOoeZehLq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001336779400785921/vid/avc1/480x600/gasByrLbX0yeSegd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001336779400785921/vid/avc1/720x900/M8E54lir0S1b0jr6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001336779400785921/pl/4L3yc7pD3Ehx4VxQ.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 116400,
+        "height": 900,
+        "media_key": "13_2001336779388100608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001336779388100608/img/vQh2m9k6NVXINnJ8.jpg",
+        "public_metrics": {
+          "view_count": 3995
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001336779388100608/vid/avc1/320x400/EKpBEzM4AWUj0G-I.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001336779388100608/vid/avc1/480x600/0SgLaV0xvj7-Ejuf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001336779388100608/vid/avc1/720x900/ydyAfSC6gb89dRPe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001336779388100608/pl/f89YcCTLja1nB4ZI.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 60881,
+        "height": 900,
+        "media_key": "13_2001336779421655040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001336779421655040/img/44ONpa4cSHNqTJO2.jpg",
+        "public_metrics": {
+          "view_count": 3423
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001336779421655040/vid/avc1/320x400/Zo-H19gcdo-FBZLK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001336779421655040/vid/avc1/480x600/F_hBcMp_camZzv6w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001336779421655040/vid/avc1/720x900/CIIg3cAJbs3NKl_C.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001336779421655040/pl/Ex1bG_8zFp5Ro6Rz.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 63389,
+        "height": 900,
+        "media_key": "13_2001336779404898304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001336779404898304/img/IgjRWKjBn8s4qp3z.jpg",
+        "public_metrics": {
+          "view_count": 2511
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001336779404898304/vid/avc1/320x400/7OCx1qWIU9ntReUQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001336779404898304/vid/avc1/480x600/sRCnCYpKKNqH1-cR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001336779404898304/vid/avc1/720x900/FvH8nq-ik5enOSKO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001336779404898304/pl/xFLalpe3tLqSSa5t.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2001337075698929714",
+        "created_at": "2025-12-18T19:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T20:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001737313068720559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1584881828280029184",
+              "start": 0,
+              "username": "jiangmangmang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001737313068720559",
+        "in_reply_to_user_id": "1584881828280029184",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001337075698929714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangmangmang ¯꒳¯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001336779400785921",
+            "13_2001336779388100608",
+            "13_2001336779421655040",
+            "13_2001336779404898304"
+          ]
+        },
+        "author_id": "1584881828280029184",
+        "conversation_id": "2001337075698929714",
+        "created_at": "2025-12-17T17:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T18:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001337075698929714"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "指奸"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "调教"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "扇逼"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Korean, 181cm, 3n, maledom / 🇰🇷🇺🇸🗣️ /no_gay / 주기적인 성병검사 STD💉몸보다 오히려 얼굴맛집 이라함 😘",
+              "display_url": "x.com/hokywhy5052",
+              "end": 46,
+              "expanded_url": "https://x.com/hokywhy5052",
+              "start": 23,
+              "status": 200,
+              "title": "hoky (@hokywhy5052) on X",
+              "unwound_url": "https://x.com/hokywhy5052",
+              "url": "https://t.co/wq7Xzd2W0P"
+            },
+            {
+              "display_url": "pic.x.com/Ed0txJpw81",
+              "end": 70,
+              "expanded_url": "https://x.com/jiangmangmang/status/2001337075698929714/video/1",
+              "media_key": "13_2001336779400785921",
+              "start": 47,
+              "url": "https://t.co/Ed0txJpw81"
+            },
+            {
+              "display_url": "pic.x.com/Ed0txJpw81",
+              "end": 70,
+              "expanded_url": "https://x.com/jiangmangmang/status/2001337075698929714/video/1",
+              "media_key": "13_2001336779388100608",
+              "start": 47,
+              "url": "https://t.co/Ed0txJpw81"
+            },
+            {
+              "display_url": "pic.x.com/Ed0txJpw81",
+              "end": 70,
+              "expanded_url": "https://x.com/jiangmangmang/status/2001337075698929714/video/1",
+              "media_key": "13_2001336779421655040",
+              "start": 47,
+              "url": "https://t.co/Ed0txJpw81"
+            },
+            {
+              "display_url": "pic.x.com/Ed0txJpw81",
+              "end": 70,
+              "expanded_url": "https://x.com/jiangmangmang/status/2001337075698929714/video/1",
+              "media_key": "13_2001336779404898304",
+              "start": 47,
+              "url": "https://t.co/Ed0txJpw81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001337075698929714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 33742,
+          "like_count": 703,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "谁喜欢的抠逼\n#指奸 #调教 #扇逼 \n出处：https://t.co/wq7Xzd2W0P https://t.co/Ed0txJpw81"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16785,
+          "following_count": 165,
+          "like_count": 337,
+          "listed_count": 13,
+          "media_count": 1241,
+          "tweet_count": 5447
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-25T12:17:43.000Z",
+        "description": "一个普通的男的，分享一些喜欢的🔞视频和无聊的日常，置顶是广告，同款vpn: https://t.co/A5oFO4ghe4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "homes.tr25.cn/?code=pHHb",
+                "end": 61,
+                "expanded_url": "https://homes.tr25.cn?code=pHHb",
+                "start": 38,
+                "url": "https://t.co/A5oFO4ghe4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiangmangmang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiangmangmang",
+                "start": 0,
+                "url": "https://t.co/QZrC4Hl9ZK"
+              }
+            ]
+          }
+        },
+        "id": "1584881828280029184",
+        "name": "蒋茫茫",
+        "pinned_tweet_id": "1979784221460947136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776298761368772609/5lpEKhfm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124315,
+          "following_count": 68,
+          "like_count": 315,
+          "listed_count": 258,
+          "media_count": 421,
+          "tweet_count": 859
+        },
+        "url": "https://t.co/QZrC4Hl9ZK",
+        "username": "jiangmangmang",
+        "verified": false
+      }
+    ]
+  }
+}

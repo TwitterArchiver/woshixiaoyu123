@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988486063304900608"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988486065834127815",
+    "created_at": "2025-11-12T05:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T06:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988486065834127815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w5sfwlc15i",
+          "end": 35,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1988486065834127815/photo/1",
+          "media_key": "3_1988486063304900608",
+          "start": 12,
+          "url": "https://t.co/w5sfwlc15i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988486065834127815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "胸上和后背的痘怎么去掉 https://t.co/w5sfwlc15i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 404,
+        "media_key": "3_1988486063304900608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5iFigQagAA205w.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988486063304900608"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988486065834127815",
+        "created_at": "2025-11-12T05:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988486065834127815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w5sfwlc15i",
+              "end": 35,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1988486065834127815/photo/1",
+              "media_key": "3_1988486063304900608",
+              "start": 12,
+              "url": "https://t.co/w5sfwlc15i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988486065834127815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胸上和后背的痘怎么去掉 https://t.co/w5sfwlc15i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "看见你漂亮的眼睛一直笑 也算我幸福的一种",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15883,
+          "following_count": 157,
+          "like_count": 307,
+          "listed_count": 11,
+          "media_count": 865,
+          "tweet_count": 4785
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

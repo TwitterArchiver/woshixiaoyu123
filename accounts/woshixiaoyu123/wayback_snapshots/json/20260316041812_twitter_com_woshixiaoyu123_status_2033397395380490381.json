@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033397392306032640"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "2033397395380490381",
+    "created_at": "2026-03-16T04:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T05:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033397395380490381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U8ZKG0BJ30",
+          "end": 57,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2033397395380490381/photo/1",
+          "media_key": "3_2033397392306032640",
+          "start": 34,
+          "url": "https://t.co/U8ZKG0BJ30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033397395380490381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去消费 人家说贵在人工 我去应聘 人家说月薪两千 现在最不缺人工 https://t.co/U8ZKG0BJ30"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1267,
+        "media_key": "3_2033397392306032640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDgUJ6ebUAAg61N.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033397392306032640"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "2033397395380490381",
+        "created_at": "2026-03-16T04:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033397395380490381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U8ZKG0BJ30",
+              "end": 57,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2033397395380490381/photo/1",
+              "media_key": "3_2033397392306032640",
+              "start": 34,
+              "url": "https://t.co/U8ZKG0BJ30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033397395380490381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去消费 人家说贵在人工 我去应聘 人家说月薪两千 现在最不缺人工 https://t.co/U8ZKG0BJ30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18929,
+          "following_count": 168,
+          "like_count": 351,
+          "listed_count": 18,
+          "media_count": 1712,
+          "tweet_count": 6147
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

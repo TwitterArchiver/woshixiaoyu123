@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988629398732329434",
+    "created_at": "2025-11-12T15:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T16:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988632584176165197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1881766065900077056",
+          "start": 0,
+          "username": "Xin369556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988632584176165197",
+    "in_reply_to_user_id": "1881766065900077056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988631083332542816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xin369556 咪咋成树洞了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988629398732329434",
+        "created_at": "2025-11-12T15:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T16:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988632584176165197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1881766065900077056",
+              "start": 0,
+              "username": "Xin369556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988632584176165197",
+        "in_reply_to_user_id": "1881766065900077056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988631083332542816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xin369556 咪咋成树洞了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881766065900077056",
+        "conversation_id": "1988629398732329434",
+        "created_at": "2025-11-12T15:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T16:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988631083332542816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988631083332542816",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988629398732329434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 咪咋成树洞了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你的心事我都懂=^ω^=",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16016,
+          "following_count": 159,
+          "like_count": 308,
+          "listed_count": 11,
+          "media_count": 887,
+          "tweet_count": 4819
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T18:09:47.000Z",
+        "description": "嗯。头像是本人。是一只外星公猫。平常爱发莫名其妙的东西。不私联。恋丹中@Osborn00052403",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "Osborn00052403"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xin3695561",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xin3695561",
+                "start": 0,
+                "url": "https://t.co/9V5XjyxNTZ"
+              }
+            ]
+          }
+        },
+        "id": "1881766065900077056",
+        "location": "广州",
+        "name": "YY",
+        "pinned_tweet_id": "1966574330067960005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961796212992221184/O0U2BXN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 300,
+          "like_count": 40578,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 7010
+        },
+        "url": "https://t.co/9V5XjyxNTZ",
+        "username": "Xin369556",
+        "verified": false
+      }
+    ]
+  }
+}

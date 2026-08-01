@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979772722210050048"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1979772724865372416",
+    "created_at": "2025-10-19T04:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T05:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979772724865372416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/weL4XVcyzy",
+          "end": 41,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1979772724865372416/photo/1",
+          "media_key": "3_1979772722210050048",
+          "start": 18,
+          "url": "https://t.co/weL4XVcyzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979772724865372416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我嘞个普坝四套三蛋大红包40w滕龙 https://t.co/weL4XVcyzy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_1979772722210050048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mQzTNWkAAutWv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979772722210050048"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979772724865372416",
+        "created_at": "2025-10-19T04:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979772724865372416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/weL4XVcyzy",
+              "end": 41,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1979772724865372416/photo/1",
+              "media_key": "3_1979772722210050048",
+              "start": 18,
+              "url": "https://t.co/weL4XVcyzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979772724865372416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我嘞个普坝四套三蛋大红包40w滕龙 https://t.co/weL4XVcyzy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6882,
+          "following_count": 162,
+          "like_count": 290,
+          "listed_count": 9,
+          "media_count": 729,
+          "tweet_count": 4343
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

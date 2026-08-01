@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989003075387006978"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989003078251737559",
+    "created_at": "2025-11-13T16:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T17:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989003078251737559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kk8DjFPEt9",
+          "end": 27,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989003078251737559/photo/1",
+          "media_key": "3_1989003075387006978",
+          "start": 4,
+          "url": "https://t.co/Kk8DjFPEt9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989003078251737559",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三角洲 https://t.co/Kk8DjFPEt9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 371,
+        "media_key": "3_1989003075387006978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5pbwkWaIAIritF.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989003075387006978"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989003078251737559",
+        "created_at": "2025-11-13T16:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T17:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989003078251737559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kk8DjFPEt9",
+              "end": 27,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989003078251737559/photo/1",
+              "media_key": "3_1989003075387006978",
+              "start": 4,
+              "url": "https://t.co/Kk8DjFPEt9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989003078251737559",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三角洲 https://t.co/Kk8DjFPEt9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "祝你幸福｜交友请告诉我是否匿名˃ㅅ˂ 不匿会艾特｜不收费..硬要打赏我还是会笑纳的ovo",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16522,
+          "following_count": 160,
+          "like_count": 314,
+          "listed_count": 11,
+          "media_count": 928,
+          "tweet_count": 4890
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1986316626728513702",
+    "created_at": "2025-11-06T17:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T18:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986489336200897013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1796067307690852352",
+          "start": 0,
+          "username": "zhizhi003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986489336200897013",
+    "in_reply_to_user_id": "1796067307690852352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986460453053350015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhizhi003 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1986316626728513702",
+        "created_at": "2025-11-06T17:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T18:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986489336200897013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1796067307690852352",
+              "start": 0,
+              "username": "zhizhi003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986489336200897013",
+        "in_reply_to_user_id": "1796067307690852352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986460453053350015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhizhi003 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796067307690852352",
+        "conversation_id": "1986316626728513702",
+        "created_at": "2025-11-06T15:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T16:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986460453053350015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986460453053350015",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986316626728513702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 小咪我要偷走这个文案！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "带我玩游戏好嘛(｡í _ ì｡)｜不接推广 转推 合作 不收口令｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnEbr6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 71,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 48,
+                "url": "https://t.co/kwrUsnEbr6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WN3qp"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14042,
+          "following_count": 150,
+          "like_count": 300,
+          "listed_count": 11,
+          "media_count": 813,
+          "tweet_count": 4660
+        },
+        "url": "https://t.co/Qxp67WN3qp",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T06:33:43.000Z",
+        "description": "碎碎念中…\n170 55kg  C杯\n🚪188/288/520/999",
+        "id": "1796067307690852352",
+        "name": "三三 :3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978835973757652992/Dxg2cZUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 13,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 161
+        },
+        "username": "zhizhi003",
+        "verified": false
+      }
+    ]
+  }
+}

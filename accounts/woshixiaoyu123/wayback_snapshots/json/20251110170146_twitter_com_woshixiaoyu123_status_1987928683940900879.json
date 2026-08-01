@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987928681667579904"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1987928683940900879",
+    "created_at": "2025-11-10T17:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T18:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987928683940900879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Mdy6tpVHB",
+          "end": 29,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1987928683940900879/photo/1",
+          "media_key": "3_1987928681667579904",
+          "start": 6,
+          "url": "https://t.co/7Mdy6tpVHB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987928683940900879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原味... https://t.co/7Mdy6tpVHB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 484,
+        "media_key": "3_1987928681667579904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5aKmn2bUAAO2W0.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987928681667579904"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1987928683940900879",
+        "created_at": "2025-11-10T17:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T18:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987928683940900879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Mdy6tpVHB",
+              "end": 29,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1987928683940900879/photo/1",
+              "media_key": "3_1987928681667579904",
+              "start": 6,
+              "url": "https://t.co/7Mdy6tpVHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987928683940900879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原味... https://t.co/7Mdy6tpVHB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "今天过的开心吗",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15451,
+          "following_count": 155,
+          "like_count": 308,
+          "listed_count": 11,
+          "media_count": 857,
+          "tweet_count": 4765
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

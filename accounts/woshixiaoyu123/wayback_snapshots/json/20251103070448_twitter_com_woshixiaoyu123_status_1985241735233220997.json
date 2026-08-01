@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1985215819715084576",
+    "created_at": "2025-11-03T07:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T08:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985241735233220997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1861945502935474176",
+          "start": 0,
+          "username": "LuenbyVA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985241735233220997",
+    "in_reply_to_user_id": "1861945502935474176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985241065650266419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuenbyVA 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1985215819715084576",
+        "created_at": "2025-11-03T07:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T08:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985241735233220997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1861945502935474176",
+              "start": 0,
+              "username": "LuenbyVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985241735233220997",
+        "in_reply_to_user_id": "1861945502935474176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985241065650266419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuenbyVA 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861945502935474176",
+        "conversation_id": "1985215819715084576",
+        "created_at": "2025-11-03T07:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T08:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985241065650266419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985241065650266419",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985215819715084576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 咪老师真成树洞了不行笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "带我玩游戏好嘛(｡í _ ì｡)｜谢谢你们理我｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 62,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 39,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13546,
+          "following_count": 150,
+          "like_count": 297,
+          "listed_count": 11,
+          "media_count": 795,
+          "tweet_count": 4594
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T01:29:44.000Z",
+        "description": "叫我小七or阿七都可以/05/当qq空间刷/infp/恶心人的别来沾边/中文/English/1i or 4i/无性/又当又立/有时左右脑互搏\n\nI LOVE ryo Yamada💙💙💙\n\n不定时上推发牢骚",
+        "id": "1861945502935474176",
+        "location": "With Ryo Yamada",
+        "name": "7",
+        "pinned_tweet_id": "1976866919774142681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951885690742169600/seOubAxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 488,
+          "like_count": 14896,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1445
+        },
+        "username": "LuenbyVA",
+        "verified": false
+      }
+    ]
+  }
+}

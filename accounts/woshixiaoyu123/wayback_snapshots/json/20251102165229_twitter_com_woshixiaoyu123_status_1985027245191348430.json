@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1984961577091727531",
+    "created_at": "2025-11-02T16:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T17:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985027245191348430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1931319325920575488",
+          "start": 0,
+          "username": "ci_jiang57153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985027245191348430",
+    "in_reply_to_user_id": "1931319325920575488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984996418331742495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ci_jiang57153 我错了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1984961577091727531",
+        "created_at": "2025-11-02T16:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T17:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985027245191348430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1931319325920575488",
+              "start": 0,
+              "username": "ci_jiang57153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985027245191348430",
+        "in_reply_to_user_id": "1931319325920575488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984996418331742495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_jiang57153 我错了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931319325920575488",
+        "conversation_id": "1984961577091727531",
+        "created_at": "2025-11-02T14:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T15:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984996418331742495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984996418331742495",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984961577091727531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 咪，你为什么一直不看我私信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "带我玩游戏好嘛(｡í _ ì｡)｜谢谢你们理我｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 62,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 39,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13480,
+          "following_count": 150,
+          "like_count": 298,
+          "listed_count": 11,
+          "media_count": 792,
+          "tweet_count": 4587
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-07T11:57:21.000Z",
+        "description": "",
+        "id": "1931319325920575488",
+        "location": "上海",
+        "name": "江祠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931320063992229888/BajYGhDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 112,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "ci_jiang57153",
+        "verified": false
+      }
+    ]
+  }
+}

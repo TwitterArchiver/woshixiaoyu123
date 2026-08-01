@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1974023582067142939",
+    "created_at": "2025-10-03T18:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T19:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974186246500217011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942095076932698112",
+          "start": 0,
+          "username": "kiko179352"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974186246500217011",
+    "in_reply_to_user_id": "1942095076932698112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974023582067142939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiko179352 打游戏............"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1974023582067142939",
+        "created_at": "2025-10-03T18:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T19:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974186246500217011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942095076932698112",
+              "start": 0,
+              "username": "kiko179352"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974186246500217011",
+        "in_reply_to_user_id": "1942095076932698112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974023582067142939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiko179352 打游戏............"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942095076932698112",
+        "conversation_id": "1974023582067142939",
+        "created_at": "2025-10-03T08:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T09:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974023582067142939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974023582067142939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9766,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 55,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们国庆都在干嘛呢？报备一下🥺🙏🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "想我就来找我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3883,
+          "following_count": 167,
+          "like_count": 262,
+          "listed_count": 7,
+          "media_count": 642,
+          "tweet_count": 3877
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T05:35:41.000Z",
+        "description": "01♉｜欢迎私信找我聊天｜四爱是工作，一爱是生活｜接🥣＆音声定制\n｜匿名📭：https://t.co/ZslE3A7yVA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiko17935268245",
+                "end": 61,
+                "expanded_url": "https://ngl.link/kiko17935268245",
+                "start": 38,
+                "url": "https://t.co/ZslE3A7yVA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiko179352.fanbox.cc",
+                "end": 23,
+                "expanded_url": "http://kiko179352.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/8xCuRGFOKR"
+              }
+            ]
+          }
+        },
+        "id": "1942095076932698112",
+        "location": "🚪88/188/588（推广自辨）",
+        "name": "小贩熊",
+        "pinned_tweet_id": "1965274421146644962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965289005244923904/CMvAStun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13109,
+          "following_count": 106,
+          "like_count": 9697,
+          "listed_count": 12,
+          "media_count": 131,
+          "tweet_count": 2713
+        },
+        "url": "https://t.co/8xCuRGFOKR",
+        "username": "kiko179352",
+        "verified": false
+      }
+    ]
+  }
+}

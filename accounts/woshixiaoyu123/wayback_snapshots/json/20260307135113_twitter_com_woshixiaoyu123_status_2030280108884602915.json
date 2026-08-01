@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2030280108884602915",
+    "created_at": "2026-03-07T13:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030280108884602915"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030280108884602915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "建议讨好型人格每天读一遍：\n\n1. 你也配对我提出意见\n2. 我不去\n3. 这一点也不好笑\n4. 閉嘴\n5. 你真的很无聊\n6. 你也配评价我\n7. 我没钱 买不起\n8. 滚\n9. 你这么做，我真的觉得很不舒服\n10.你别说话了，你让我觉得恶心\n11. 我不需要\n12. 说别人之前先看看自己吧\n13. 别幻想了，不可能的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2030280108884602915",
+        "created_at": "2026-03-07T13:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030280108884602915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030280108884602915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "建议讨好型人格每天读一遍：\n\n1. 你也配对我提出意见\n2. 我不去\n3. 这一点也不好笑\n4. 閉嘴\n5. 你真的很无聊\n6. 你也配评价我\n7. 我没钱 买不起\n8. 滚\n9. 你这么做，我真的觉得很不舒服\n10.你别说话了，你让我觉得恶心\n11. 我不需要\n12. 说别人之前先看看自己吧\n13. 别幻想了，不可能的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18679,
+          "following_count": 170,
+          "like_count": 348,
+          "listed_count": 18,
+          "media_count": 1703,
+          "tweet_count": 6084
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

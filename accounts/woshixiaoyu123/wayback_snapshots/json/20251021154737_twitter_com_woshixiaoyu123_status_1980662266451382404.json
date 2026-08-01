@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1980660878187139305",
+    "created_at": "2025-10-21T15:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T16:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980662266451382404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783674416553156608",
+          "start": 0,
+          "username": "chnxnji68726036"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980662266451382404",
+    "in_reply_to_user_id": "1783674416553156608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980661231964024960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnxnji68726036 我认为“爱我的”是指对方喜欢我，但我对对方无感。愿意单方面对我好（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1980660878187139305",
+        "created_at": "2025-10-21T15:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T16:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980662266451382404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1783674416553156608",
+              "start": 0,
+              "username": "chnxnji68726036"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980662266451382404",
+        "in_reply_to_user_id": "1783674416553156608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980661231964024960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnxnji68726036 我认为“爱我的”是指对方喜欢我，但我对对方无感。愿意单方面对我好（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783674416553156608",
+        "conversation_id": "1980660878187139305",
+        "created_at": "2025-10-21T15:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T16:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980661231964024960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980661231964024960",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980660878187139305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 是怎么判断出这个所谓爱你的 是真的爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的你｜不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8431,
+          "following_count": 161,
+          "like_count": 289,
+          "listed_count": 9,
+          "media_count": 730,
+          "tweet_count": 4373
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T01:48:39.000Z",
+        "description": "记得开心！",
+        "id": "1783674416553156608",
+        "name": "Xinn.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783681892220547072/EaX-u5gj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 9661,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 423
+        },
+        "username": "chnxnji68726036",
+        "verified": false
+      }
+    ]
+  }
+}

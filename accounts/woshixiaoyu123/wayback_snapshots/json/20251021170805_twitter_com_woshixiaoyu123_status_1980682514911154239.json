@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980682512310374400"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1980682514911154239",
+    "created_at": "2025-10-21T17:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T18:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980682514911154239"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YD84PE9WlX",
+          "end": 71,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1980682514911154239/photo/1",
+          "media_key": "3_1980682512310374400",
+          "start": 48,
+          "url": "https://t.co/YD84PE9WlX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980682514911154239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "韩国人搞纯爱：完美男主爱上我\n日本人搞纯爱：用尽一生与你相遇\n中国人搞纯爱：两个人一起考上清华 https://t.co/YD84PE9WlX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 155,
+        "media_key": "3_1980682512310374400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3zMQDcWkAAUV4b.jpg",
+        "width": 155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980682512310374400"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1980682514911154239",
+        "created_at": "2025-10-21T17:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T18:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980682514911154239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YD84PE9WlX",
+              "end": 71,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1980682514911154239/photo/1",
+              "media_key": "3_1980682512310374400",
+              "start": 48,
+              "url": "https://t.co/YD84PE9WlX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980682514911154239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "韩国人搞纯爱：完美男主爱上我\n日本人搞纯爱：用尽一生与你相遇\n中国人搞纯爱：两个人一起考上清华 https://t.co/YD84PE9WlX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的你｜不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8429,
+          "following_count": 162,
+          "like_count": 289,
+          "listed_count": 9,
+          "media_count": 732,
+          "tweet_count": 4387
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

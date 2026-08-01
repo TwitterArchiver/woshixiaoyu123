@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1986029477508645059",
+    "created_at": "2025-11-05T12:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T13:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986055067842367943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1350847849894801409",
+          "start": 0,
+          "username": "d2p3_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986055067842367943",
+    "in_reply_to_user_id": "1350847849894801409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986041488074293454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d2p3_1 求带"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_1986041481216589824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_WNGUbAAABwQ9.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1986029477508645059",
+        "created_at": "2025-11-05T12:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986055067842367943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1350847849894801409",
+              "start": 0,
+              "username": "d2p3_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986055067842367943",
+        "in_reply_to_user_id": "1350847849894801409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986041488074293454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d2p3_1 求带"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986041481216589824"
+          ]
+        },
+        "author_id": "1350847849894801409",
+        "conversation_id": "1986029477508645059",
+        "created_at": "2025-11-05T12:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986041488074293454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ETPJ0uS83t",
+              "end": 52,
+              "expanded_url": "https://x.com/d2p3_1/status/1986041488074293454/photo/1",
+              "media_key": "3_1986041481216589824",
+              "start": 29,
+              "url": "https://t.co/ETPJ0uS83t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986041488074293454",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986029477508645059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 可以做你的辅助嘛👉🏻👈🏻 https://t.co/ETPJ0uS83t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "带我玩游戏好嘛(｡í _ ì｡)｜不接推广 转推 合作 不收口令求求你们别找我了｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 79,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 56,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13900,
+          "following_count": 150,
+          "like_count": 300,
+          "listed_count": 12,
+          "media_count": 808,
+          "tweet_count": 4650
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-17T16:50:10.000Z",
+        "description": "在事情还没变得更糟之前遏制",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v0px",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v0px",
+                "start": 0,
+                "url": "https://t.co/AE3Ra5v3Gg"
+              }
+            ]
+          }
+        },
+        "id": "1350847849894801409",
+        "location": "0.01km",
+        "name": "V0pX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971632193702150144/U60BA5S2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 34,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/AE3Ra5v3Gg",
+        "username": "d2p3_1",
+        "verified": false
+      }
+    ]
+  }
+}

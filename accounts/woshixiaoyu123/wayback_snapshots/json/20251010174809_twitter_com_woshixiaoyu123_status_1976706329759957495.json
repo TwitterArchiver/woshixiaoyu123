@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1976706329759957495",
+    "created_at": "2025-10-10T17:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T18:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976706329759957495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xin369556/stat…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/Xin369556/status/1976535339373359597",
+          "start": 45,
+          "url": "https://t.co/Mx7aNVOtsM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976706329759957495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976535339373359597",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "打扰大家了，我累的不行，麻烦看到的每人转给我9.9块，谢谢，不是借，是要，我没那么好说话 https://t.co/Mx7aNVOtsM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1976706329759957495",
+        "created_at": "2025-10-10T17:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976706329759957495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xin369556/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Xin369556/status/1976535339373359597",
+              "start": 45,
+              "url": "https://t.co/Mx7aNVOtsM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976706329759957495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976535339373359597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打扰大家了，我累的不行，麻烦看到的每人转给我9.9块，谢谢，不是借，是要，我没那么好说话 https://t.co/Mx7aNVOtsM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881766065900077056",
+        "conversation_id": "1976535339373359597",
+        "created_at": "2025-10-10T06:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T07:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976535339373359597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mitawlove/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/mitawlove/status/1976534449706946914",
+              "start": 45,
+              "url": "https://t.co/jQp2W27yFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976535339373359597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2402,
+          "like_count": 17,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976534449706946914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打扰大家了，我累的不行，麻烦看到的每人转给我9.9块，谢谢，不是借，是要，我没那么好说话 https://t.co/jQp2W27yFd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢青年音",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4215,
+          "following_count": 162,
+          "like_count": 274,
+          "listed_count": 6,
+          "media_count": 667,
+          "tweet_count": 4052
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T18:09:47.000Z",
+        "description": "嗯。头像是本人。是一只外星公猫。私信可以随意骚扰。此猫很闲。直的。直的。直的。男同不要关注我好嘛或者关注就算了不要私信嗯。",
+        "id": "1881766065900077056",
+        "location": "广州",
+        "name": "YY",
+        "pinned_tweet_id": "1971261356285612304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961796212992221184/O0U2BXN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 312,
+          "like_count": 37198,
+          "listed_count": 1,
+          "media_count": 402,
+          "tweet_count": 5723
+        },
+        "username": "Xin369556",
+        "verified": false
+      }
+    ]
+  }
+}

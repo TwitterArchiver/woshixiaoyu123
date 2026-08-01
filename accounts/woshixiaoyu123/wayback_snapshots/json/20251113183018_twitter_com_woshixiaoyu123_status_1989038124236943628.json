@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989038120256606208",
+        "3_1989038120407560193"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989038124236943628",
+    "created_at": "2025-11-13T18:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T19:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989038124236943628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1875159851216875520",
+          "start": 0,
+          "username": "iamnotkawasaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8khP53styh",
+          "end": 39,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989038124236943628/photo/1",
+          "media_key": "3_1989038120256606208",
+          "start": 16,
+          "url": "https://t.co/8khP53styh"
+        },
+        {
+          "display_url": "pic.x.com/8khP53styh",
+          "end": 39,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989038124236943628/photo/1",
+          "media_key": "3_1989038120407560193",
+          "start": 16,
+          "url": "https://t.co/8khP53styh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989038124236943628",
+    "in_reply_to_user_id": "1875159851216875520",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@iamnotkawasaki https://t.co/8khP53styh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1614,
+        "media_key": "3_1989038120256606208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5p7ocqbEAA5nQj.jpg",
+        "width": 1256
+      },
+      {
+        "height": 1737,
+        "media_key": "3_1989038120407560193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5p7odOacAEu1F7.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989038120256606208",
+            "3_1989038120407560193"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989038124236943628",
+        "created_at": "2025-11-13T18:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T19:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989038124236943628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1875159851216875520",
+              "start": 0,
+              "username": "iamnotkawasaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8khP53styh",
+              "end": 39,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989038124236943628/photo/1",
+              "media_key": "3_1989038120256606208",
+              "start": 16,
+              "url": "https://t.co/8khP53styh"
+            },
+            {
+              "display_url": "pic.x.com/8khP53styh",
+              "end": 39,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989038124236943628/photo/1",
+              "media_key": "3_1989038120407560193",
+              "start": 16,
+              "url": "https://t.co/8khP53styh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989038124236943628",
+        "in_reply_to_user_id": "1875159851216875520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@iamnotkawasaki https://t.co/8khP53styh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "祝你幸福｜交友请告诉我是否匿名˃ㅅ˂ 不匿会艾特 不说默认不匿了｜不收费..硬要打赏我还是会笑纳的ovo",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16623,
+          "following_count": 160,
+          "like_count": 313,
+          "listed_count": 11,
+          "media_count": 940,
+          "tweet_count": 4903
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T12:38:52.000Z",
+        "description": "",
+        "id": "1875159851216875520",
+        "name": "rain1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887050960079597568/sqm5mg7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 90,
+          "like_count": 918,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 155
+        },
+        "username": "iamnotkawasaki",
+        "verified": false
+      }
+    ]
+  }
+}

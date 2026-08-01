@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1976693178213581025",
+    "created_at": "2025-10-10T16:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T17:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976693178213581025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woshixiaoyu123…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/woshixiaoyu123/status/1976690571709497787",
+          "start": 54,
+          "url": "https://t.co/inA4ohtxKN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976693178213581025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976690571709497787",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第二种完全就是主人中的主人！总是会很小心翼翼的观察对方 很想叫daddy那种..哎。。daddy我是乖小狗 https://t.co/inA4ohtxKN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1976693178213581025",
+        "created_at": "2025-10-10T16:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976693178213581025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woshixiaoyu123…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/woshixiaoyu123/status/1976690571709497787",
+              "start": 54,
+              "url": "https://t.co/inA4ohtxKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976693178213581025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976690571709497787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二种完全就是主人中的主人！总是会很小心翼翼的观察对方 很想叫daddy那种..哎。。daddy我是乖小狗 https://t.co/inA4ohtxKN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1976690571709497787",
+        "created_at": "2025-10-10T16:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976690571709497787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976690571709497787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的时候感觉我很双标，在遇到不是很强势的主人时候 我会是一个十足的brat\n但对方如果很强势很自信那我会非常听话，即使一些很羞耻的指令也会红着脸做完不会反驳..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你和别人玩的时候，不要忘了手机对面还有个我呀。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4203,
+          "following_count": 162,
+          "like_count": 272,
+          "listed_count": 6,
+          "media_count": 666,
+          "tweet_count": 4037
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

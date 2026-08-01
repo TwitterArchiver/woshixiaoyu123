@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2076707130648993875",
+    "created_at": "2026-07-13T22:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T23:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076796728909652378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1582921343456407552",
+          "start": 0,
+          "username": "Ttbcy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076796728909652378",
+    "in_reply_to_user_id": "1582921343456407552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076707130648993875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ttbcy1 这期好甜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076707109333544960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHyHPJasAAJgrC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2076707130648993875",
+        "created_at": "2026-07-13T22:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T23:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076796728909652378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1582921343456407552",
+              "start": 0,
+              "username": "Ttbcy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076796728909652378",
+        "in_reply_to_user_id": "1582921343456407552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076707130648993875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ttbcy1 这期好甜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076707109333544960"
+          ]
+        },
+        "author_id": "1582921343456407552",
+        "conversation_id": "2076707130648993875",
+        "created_at": "2026-07-13T16:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076707130648993875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YHqpkGvdn9",
+              "end": 38,
+              "expanded_url": "https://x.com/Ttbcy1/status/2076707130648993875/photo/1",
+              "media_key": "3_2076707109333544960",
+              "start": 15,
+              "url": "https://t.co/YHqpkGvdn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076707130648993875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 4945,
+          "like_count": 300,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "想跪下求命運垂憐眼淚卻先落下 https://t.co/YHqpkGvdn9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19269,
+          "following_count": 153,
+          "like_count": 395,
+          "listed_count": 19,
+          "media_count": 1752,
+          "tweet_count": 6546
+        },
+        "url": "",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T02:27:22.000Z",
+        "description": "繩縛/清水/請保持距離/夢想是我哥給我買吃不完的巧克力૮ต•̤ ༝ •̤ตა@Ttbcy2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "Ttbcy2"
+              }
+            ]
+          }
+        },
+        "id": "1582921343456407552",
+        "location": "Hong Kong",
+        "name": "随时准备紫砂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908386998198689795/rNLYgHCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65482,
+          "following_count": 29,
+          "like_count": 1459,
+          "listed_count": 178,
+          "media_count": 82,
+          "tweet_count": 583
+        },
+        "url": "",
+        "username": "Ttbcy1",
+        "verified": false
+      }
+    ]
+  }
+}

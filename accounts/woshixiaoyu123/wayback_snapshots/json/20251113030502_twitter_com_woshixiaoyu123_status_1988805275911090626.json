@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984684356284399619"
+      ],
+      "media_source_tweet_id": [
+        "1984684359736312062"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1988805275911090626",
+    "created_at": "2025-11-13T03:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T04:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988805275911090626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1892595590527377408",
+          "start": 3,
+          "username": "woshixiaoyu123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wt0x11zPGK",
+          "end": 70,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1984684359736312062/photo/1",
+          "media_key": "3_1984684356284399619",
+          "start": 47,
+          "url": "https://t.co/wt0x11zPGK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988805275911090626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984684359736312062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woshixiaoyu123: 如果一人给我一块 那我是不是就有13346块钱了？！ https://t.co/wt0x11zPGK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984684356284399619",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4sD6B-bQAMg_f6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984684356284399619"
+          ],
+          "media_source_tweet_id": [
+            "1984684359736312062"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988805275911090626",
+        "created_at": "2025-11-13T03:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988805275911090626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1892595590527377408",
+              "start": 3,
+              "username": "woshixiaoyu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wt0x11zPGK",
+              "end": 70,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1984684359736312062/photo/1",
+              "media_key": "3_1984684356284399619",
+              "start": 47,
+              "url": "https://t.co/wt0x11zPGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988805275911090626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984684359736312062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woshixiaoyu123: 如果一人给我一块 那我是不是就有13346块钱了？！ https://t.co/wt0x11zPGK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984684356284399619"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984684359736312062",
+        "created_at": "2025-11-01T18:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T19:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984684359736312062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wt0x11zPGK",
+              "end": 50,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1984684359736312062/photo/1",
+              "media_key": "3_1984684356284399619",
+              "start": 27,
+              "url": "https://t.co/wt0x11zPGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984684359736312062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33410,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果一人给我一块 那我是不是就有13346块钱了？！ https://t.co/wt0x11zPGK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "接求助/找🚪/找陪玩｜纯交友/游戏搭子可以去评论区蹲蹲（有特殊条件可以来 o(╥﹏╥)o",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16228,
+          "following_count": 158,
+          "like_count": 311,
+          "listed_count": 11,
+          "media_count": 897,
+          "tweet_count": 4838
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

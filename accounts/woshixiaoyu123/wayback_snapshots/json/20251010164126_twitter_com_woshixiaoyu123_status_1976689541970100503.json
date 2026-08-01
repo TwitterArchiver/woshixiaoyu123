@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1976689541970100503",
+    "created_at": "2025-10-10T16:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T17:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976689541970100503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YangWei_ZMNL/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/YangWei_ZMNL/status/1976682047981617473",
+          "start": 2,
+          "url": "https://t.co/kA5crAxVEP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976689541970100503",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976682047981617473",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/kA5crAxVEP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1976689541970100503",
+        "created_at": "2025-10-10T16:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976689541970100503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YangWei_ZMNL/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/YangWei_ZMNL/status/1976682047981617473",
+              "start": 2,
+              "url": "https://t.co/kA5crAxVEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976689541970100503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976682047981617473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/kA5crAxVEP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679134403413377028",
+        "conversation_id": "1976682047981617473",
+        "created_at": "2025-10-10T16:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976682047981617473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woshixiaoyu123…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/woshixiaoyu123/status/1976295582517047798",
+              "start": 11,
+              "url": "https://t.co/dFUR5ylljx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976682047981617473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976295582517047798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爸爸会叫我乖小狗嘿嘿 https://t.co/dFUR5ylljx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你和别人玩的时候，不要忘了手机对面还有个我呀。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4200,
+          "following_count": 162,
+          "like_count": 272,
+          "listed_count": 6,
+          "media_count": 666,
+          "tweet_count": 4030
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T14:23:49.000Z",
+        "description": "喵汪汪｜\n主人全肯定bot｜\n喜欢小猫 黑怕｜\n私信大多数都会回 请保持礼貌  男的骚扰请别来会被我骂｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangwei_zmnl",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangwei_zmnl",
+                "start": 0,
+                "url": "https://t.co/zr1yNxA6L3"
+              }
+            ]
+          }
+        },
+        "id": "1679134403413377028",
+        "location": "匿名信箱请→",
+        "name": "小猫狗",
+        "pinned_tweet_id": "1949736453056892963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950490605143928832/sqqzjo5z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 120,
+          "like_count": 1943,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/zr1yNxA6L3",
+        "username": "YangWei_ZMNL",
+        "verified": false
+      }
+    ]
+  }
+}

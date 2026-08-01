@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1983220094009229501",
+    "created_at": "2025-10-28T17:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T18:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983221407564607680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1981030844035907584",
+          "start": 0,
+          "username": "lkiyng1917030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983221407564607680",
+    "in_reply_to_user_id": "1981030844035907584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983220520683483228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lkiyng1917030 啊啊啊求求你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1983220094009229501",
+        "created_at": "2025-10-28T17:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T18:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983221407564607680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981030844035907584",
+              "start": 0,
+              "username": "lkiyng1917030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983221407564607680",
+        "in_reply_to_user_id": "1981030844035907584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983220520683483228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lkiyng1917030 啊啊啊求求你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981030844035907584",
+        "conversation_id": "1983220094009229501",
+        "created_at": "2025-10-28T17:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T18:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983220520683483228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983220520683483228",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983220094009229501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 我也看到你了😡😡😡你完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8785,
+          "following_count": 163,
+          "like_count": 288,
+          "listed_count": 8,
+          "media_count": 740,
+          "tweet_count": 4439
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T16:12:37.000Z",
+        "description": "不是男同！！！",
+        "id": "1981030844035907584",
+        "location": "河南",
+        "name": "李知意",
+        "pinned_tweet_id": "1982488952587370796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981031059119554560/DOg4XDk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 11,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "lkiyng1917030",
+        "verified": false
+      }
+    ]
+  }
+}

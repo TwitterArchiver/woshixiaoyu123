@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999521564711354370"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1999521567412256797",
+    "created_at": "2025-12-12T16:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T17:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999521567412256797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1986999468814966785",
+          "start": 0,
+          "username": "uuu1099956"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1To4QfLJHb",
+          "end": 35,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1999521567412256797/photo/1",
+          "media_key": "3_1999521564711354370",
+          "start": 12,
+          "url": "https://t.co/1To4QfLJHb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999521567412256797",
+    "in_reply_to_user_id": "1986999468814966785",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@uuu1099956 https://t.co/1To4QfLJHb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999521567412256797].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999521567412256797",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999521567412256797"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1382,
+        "media_key": "3_1999521564711354370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-6ROlagAIuoGe.jpg",
+        "width": 1256
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16771,
+          "following_count": 165,
+          "like_count": 335,
+          "listed_count": 13,
+          "media_count": 1179,
+          "tweet_count": 5362
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T03:29:42.000Z",
+        "description": "请爱喵酱好吗(｡ì _ í｡)发私信不看置顶司马/07/裸身高178 /75kg/喜欢外1内4长发反差轻微纹身钉子宝宝亚b/多奴/喜男也喜女/女switch/反差/泛恋 🚪520\\288\\188",
+        "id": "1986999468814966785",
+        "location": "猫窝吖喵(o^^o)",
+        "name": "黛蒂喵",
+        "pinned_tweet_id": "1993651679313719639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987006640823132160/ttrgxMhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6155,
+          "following_count": 75,
+          "like_count": 77,
+          "listed_count": 21,
+          "media_count": 48,
+          "tweet_count": 130
+        },
+        "username": "uuu1099956",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989260856761483651",
+    "created_at": "2025-11-14T09:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T10:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989261222206947783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1923788255675469824",
+          "start": 0,
+          "username": "curllly005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989261222206947783",
+    "in_reply_to_user_id": "1923788255675469824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989261061183402164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@curllly005 不卡😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989260856761483651",
+        "created_at": "2025-11-14T09:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T10:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989261222206947783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1923788255675469824",
+              "start": 0,
+              "username": "curllly005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989261222206947783",
+        "in_reply_to_user_id": "1923788255675469824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989261061183402164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@curllly005 不卡😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923788255675469824",
+        "conversation_id": "1989260856761483651",
+        "created_at": "2025-11-14T09:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T10:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989261061183402164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989261061183402164",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989260856761483651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 卡性别吗小咪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "ⓘ 该账号涉嫌玩王者荣耀已被封禁",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16830,
+          "following_count": 160,
+          "like_count": 314,
+          "listed_count": 11,
+          "media_count": 957,
+          "tweet_count": 4945
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-17T17:11:15.000Z",
+        "description": "不知道几i，当狗的｜女的，活的｜不文爱，不卡泡，不网调｜随缘闲聊，别对我有要求",
+        "id": "1923788255675469824",
+        "location": "10.3km",
+        "name": "Curllly（不擦版",
+        "pinned_tweet_id": "1989157684512453036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989151831084396544/7gbXyjuq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 320,
+          "like_count": 25022,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 3006
+        },
+        "username": "curllly005",
+        "verified": false
+      }
+    ]
+  }
+}

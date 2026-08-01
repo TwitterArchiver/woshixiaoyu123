@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1977438175732895760",
+    "created_at": "2025-10-13T04:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T05:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977596581122895940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "871929447678709764",
+          "start": 0,
+          "username": "s_mhsss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977596581122895940",
+    "in_reply_to_user_id": "871929447678709764",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977554140239991040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s_mhsss 啊？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1977438175732895760",
+        "created_at": "2025-10-13T04:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977596581122895940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "871929447678709764",
+              "start": 0,
+              "username": "s_mhsss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977596581122895940",
+        "in_reply_to_user_id": "871929447678709764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977554140239991040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s_mhsss 啊？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "871929447678709764",
+        "conversation_id": "1977438175732895760",
+        "created_at": "2025-10-13T01:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T02:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977554140239991040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977554140239991040",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977438175732895760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 以前高端伴游群不是出来一个吗，拔指甲，咬掉一个乳头，多p，门口救护车24小时等待，转了不知道多少手一晚50w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢特别的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5078,
+          "following_count": 159,
+          "like_count": 279,
+          "listed_count": 6,
+          "media_count": 691,
+          "tweet_count": 4161
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-06T03:19:14.000Z",
+        "description": "戾气",
+        "id": "871929447678709764",
+        "location": "包邮区垃圾屋",
+        "name": "择也",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851684431649701888/qb410sjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 53,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 460
+        },
+        "username": "s_mhsss",
+        "verified": false
+      }
+    ]
+  }
+}

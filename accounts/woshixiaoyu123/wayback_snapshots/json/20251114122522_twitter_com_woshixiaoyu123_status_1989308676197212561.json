@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989307329989288239",
+    "created_at": "2025-11-14T12:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T13:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989308676197212561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1955924555308130304",
+          "start": 0,
+          "username": "1215wulirui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989308676197212561",
+    "in_reply_to_user_id": "1955924555308130304",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989308368129863696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1215wulirui 🥵🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989307329989288239",
+        "created_at": "2025-11-14T12:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989308676197212561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1955924555308130304",
+              "start": 0,
+              "username": "1215wulirui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989308676197212561",
+        "in_reply_to_user_id": "1955924555308130304",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989308368129863696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1215wulirui 🥵🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955924555308130304",
+        "conversation_id": "1989307329989288239",
+        "created_at": "2025-11-14T12:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989308368129863696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989308368129863696",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989307329989288239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 你埋岂不是奖励我了^ ^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "12小时没回就是不接😔",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16865,
+          "following_count": 160,
+          "like_count": 316,
+          "listed_count": 12,
+          "media_count": 963,
+          "tweet_count": 4957
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T09:28:59.000Z",
+        "description": "发点朋友圈发不了的疯和骚 叫我小咪就好^ ^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimimiao2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mimimiao2",
+                "start": 0,
+                "url": "https://t.co/EWvYw2Vu49"
+              }
+            ]
+          }
+        },
+        "id": "1955924555308130304",
+        "location": "🚪52",
+        "name": "喵喵又咪咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979820542438875137/EUeeu858_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 65,
+          "like_count": 1336,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/EWvYw2Vu49",
+        "username": "1215wulirui",
+        "verified": false
+      }
+    ]
+  }
+}

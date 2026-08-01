@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1982877840191434800",
+    "created_at": "2025-10-27T18:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T19:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982880006402613451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1481090441034539008",
+          "start": 0,
+          "username": "xixianwenyuann1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982880006402613451",
+    "in_reply_to_user_id": "1481090441034539008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982878784568369470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixianwenyuann1 俺类娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1982877840191434800",
+        "created_at": "2025-10-27T18:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T19:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982880006402613451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1481090441034539008",
+              "start": 0,
+              "username": "xixianwenyuann1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982880006402613451",
+        "in_reply_to_user_id": "1481090441034539008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982878784568369470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixianwenyuann1 俺类娘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481090441034539008",
+        "conversation_id": "1982877840191434800",
+        "created_at": "2025-10-27T18:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T19:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982878784568369470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982878784568369470",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982877840191434800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 竟然有我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我一直在哭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8372,
+          "following_count": 164,
+          "like_count": 290,
+          "listed_count": 8,
+          "media_count": 737,
+          "tweet_count": 4432
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T02:27:42.000Z",
+        "description": "寄",
+        "id": "1481090441034539008",
+        "name": "希仙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1481090574610583552/Zk8yBb2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 447,
+          "like_count": 5999,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 597
+        },
+        "username": "xixianwenyuann1",
+        "verified": false
+      }
+    ]
+  }
+}

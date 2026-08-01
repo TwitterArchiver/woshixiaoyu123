@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989185150861942784"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989185153370075353",
+    "created_at": "2025-11-14T04:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T05:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989185153370075353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1843632601749434371",
+          "start": 9,
+          "username": "kimodi4833302"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6I5Etjo2ES",
+          "end": 47,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989185153370075353/photo/1",
+          "media_key": "3_1989185150861942784",
+          "start": 24,
+          "url": "https://t.co/6I5Etjo2ES"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989185153370075353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "湖北🚪姐ddd\n\n@kimodi4833302 https://t.co/6I5Etjo2ES"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_1989185150861942784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sBWwWboAAdrB5.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989185150861942784"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989185153370075353",
+        "created_at": "2025-11-14T04:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989185153370075353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1843632601749434371",
+              "start": 9,
+              "username": "kimodi4833302"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6I5Etjo2ES",
+              "end": 47,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989185153370075353/photo/1",
+              "media_key": "3_1989185150861942784",
+              "start": 24,
+              "url": "https://t.co/6I5Etjo2ES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989185153370075353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "湖北🚪姐ddd\n\n@kimodi4833302 https://t.co/6I5Etjo2ES"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "祝你幸福///不接交友",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16741,
+          "following_count": 160,
+          "like_count": 314,
+          "listed_count": 11,
+          "media_count": 948,
+          "tweet_count": 4922
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T12:40:52.000Z",
+        "description": "",
+        "id": "1843632601749434371",
+        "name": "kimodi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989156285091106816/ULcIOUyY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 41,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "kimodi4833302",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983478837972439040"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1983478841038549296",
+    "created_at": "2025-10-29T10:19:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T11:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983478841038549296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mFALdONGfS",
+          "end": 29,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1983478841038549296/photo/1",
+          "media_key": "3_1983478837972439040",
+          "start": 6,
+          "url": "https://t.co/mFALdONGfS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983478841038549296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "算恋物癖吗 https://t.co/mFALdONGfS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 521,
+        "media_key": "3_1983478837972439040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4a7foTaEAAgfdC.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983478837972439040"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983478841038549296",
+        "created_at": "2025-10-29T10:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983478841038549296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFALdONGfS",
+              "end": 29,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1983478841038549296/photo/1",
+              "media_key": "3_1983478837972439040",
+              "start": 6,
+              "url": "https://t.co/mFALdONGfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983478841038549296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算恋物癖吗 https://t.co/mFALdONGfS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5n7e"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9218,
+          "following_count": 152,
+          "like_count": 288,
+          "listed_count": 10,
+          "media_count": 747,
+          "tweet_count": 4450
+        },
+        "url": "https://t.co/dzBrXP5n7e",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

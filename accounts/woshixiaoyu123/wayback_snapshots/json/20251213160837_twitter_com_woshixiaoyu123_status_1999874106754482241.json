@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1999864517162095012",
+    "created_at": "2025-12-13T16:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T17:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999874106754482241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971146142453989377",
+          "start": 0,
+          "username": "rhn1273035"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999874106754482241",
+    "in_reply_to_user_id": "1971146142453989377",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999868773504110971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rhn1273035 被打的找护航哥哭去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1999864517162095012",
+        "created_at": "2025-12-13T16:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T17:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999874106754482241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971146142453989377",
+              "start": 0,
+              "username": "rhn1273035"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999874106754482241",
+        "in_reply_to_user_id": "1971146142453989377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999868773504110971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rhn1273035 被打的找护航哥哭去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971146142453989377",
+        "conversation_id": "1999864517162095012",
+        "created_at": "2025-12-13T15:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999868773504110971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999868773504110971",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999864517162095012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 这就素你跟我说你快被打哭了？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16879,
+          "following_count": 164,
+          "like_count": 335,
+          "listed_count": 13,
+          "media_count": 1204,
+          "tweet_count": 5392
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T09:34:05.000Z",
+        "description": "爱玩三角洲 偶尔玩瓦罗兰特",
+        "id": "1971146142453989377",
+        "name": "心似刀锋",
+        "pinned_tweet_id": "1996891579496517855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996502355077189632/64PTtkMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 54
+        },
+        "username": "rhn1273035",
+        "verified": false
+      }
+    ]
+  }
+}

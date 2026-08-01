@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010397224723992576",
+        "3_2010397226368167936"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2010397228851175600",
+    "created_at": "2026-01-11T17:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T18:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010397228851175600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1919027041850281984",
+          "start": 0,
+          "username": "6jiaforn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KZNw4Dzr1a",
+          "end": 33,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2010397228851175600/photo/1",
+          "media_key": "3_2010397224723992576",
+          "start": 10,
+          "url": "https://t.co/KZNw4Dzr1a"
+        },
+        {
+          "display_url": "pic.x.com/KZNw4Dzr1a",
+          "end": 33,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2010397228851175600/photo/1",
+          "media_key": "3_2010397226368167936",
+          "start": 10,
+          "url": "https://t.co/KZNw4Dzr1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010397228851175600",
+    "in_reply_to_user_id": "1919027041850281984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@6jiaforn https://t.co/KZNw4Dzr1a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1361,
+        "media_key": "3_2010397224723992576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Zdn9Ua0AAKv7Q.jpg",
+        "width": 1255
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010397226368167936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ZdoDca8AAXiSL.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010397224723992576",
+            "3_2010397226368167936"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2010397228851175600",
+        "created_at": "2026-01-11T17:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T18:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010397228851175600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1919027041850281984",
+              "start": 0,
+              "username": "6jiaforn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZNw4Dzr1a",
+              "end": 33,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2010397228851175600/photo/1",
+              "media_key": "3_2010397224723992576",
+              "start": 10,
+              "url": "https://t.co/KZNw4Dzr1a"
+            },
+            {
+              "display_url": "pic.x.com/KZNw4Dzr1a",
+              "end": 33,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2010397228851175600/photo/1",
+              "media_key": "3_2010397226368167936",
+              "start": 10,
+              "url": "https://t.co/KZNw4Dzr1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010397228851175600",
+        "in_reply_to_user_id": "1919027041850281984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@6jiaforn https://t.co/KZNw4Dzr1a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我｜答疑解惑",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17846,
+          "following_count": 171,
+          "like_count": 343,
+          "listed_count": 17,
+          "media_count": 1551,
+          "tweet_count": 5815
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T13:51:29.000Z",
+        "description": "vx：…展开",
+        "id": "1919027041850281984",
+        "name": "6jia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992094502975361024/xWT88D4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 116,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 15
+        },
+        "username": "6jiaforn",
+        "verified": false
+      }
+    ]
+  }
+}

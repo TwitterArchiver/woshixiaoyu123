@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990083370693640192"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1990083373650341987",
+    "created_at": "2025-11-16T15:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T16:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990083373650341987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976643621400281088",
+          "start": 0,
+          "username": "ChenLoveXi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SUpC6a3UQK",
+          "end": 35,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1990083373650341987/photo/1",
+          "media_key": "3_1990083370693640192",
+          "start": 12,
+          "url": "https://t.co/SUpC6a3UQK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990083373650341987",
+    "in_reply_to_user_id": "1976643621400281088",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@ChenLoveXi https://t.co/SUpC6a3UQK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_1990083370693640192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54ySB-bQAAriL-.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990083370693640192"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1990083373650341987",
+        "created_at": "2025-11-16T15:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990083373650341987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976643621400281088",
+              "start": 0,
+              "username": "ChenLoveXi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SUpC6a3UQK",
+              "end": 35,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1990083373650341987/photo/1",
+              "media_key": "3_1990083370693640192",
+              "start": 12,
+              "url": "https://t.co/SUpC6a3UQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990083373650341987",
+        "in_reply_to_user_id": "1976643621400281088",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@ChenLoveXi https://t.co/SUpC6a3UQK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你对我的赞许是我最大的幸福",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16913,
+          "following_count": 165,
+          "like_count": 328,
+          "listed_count": 12,
+          "media_count": 1039,
+          "tweet_count": 5078
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T13:39:14.000Z",
+        "description": "上推特就是为了看黄的 嗯 打王者可以找我",
+        "id": "1976643621400281088",
+        "name": "以曦为名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977037263537344512/WEWK_-lD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 87,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 57
+        },
+        "username": "ChenLoveXi",
+        "verified": false
+      }
+    ]
+  }
+}

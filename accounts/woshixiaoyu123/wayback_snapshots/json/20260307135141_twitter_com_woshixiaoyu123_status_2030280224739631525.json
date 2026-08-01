@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2030280224739631525",
+    "created_at": "2026-03-07T13:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030280224739631525"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030280224739631525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小时候恨不得钻进电视里 想告诉男女主“你们都误会对方了” 直到我吵架说反话 直到我盯着没发的短信发呆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2030280224739631525",
+        "created_at": "2026-03-07T13:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030280224739631525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030280224739631525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候恨不得钻进电视里 想告诉男女主“你们都误会对方了” 直到我吵架说反话 直到我盯着没发的短信发呆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18679,
+          "following_count": 170,
+          "like_count": 348,
+          "listed_count": 18,
+          "media_count": 1703,
+          "tweet_count": 6085
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

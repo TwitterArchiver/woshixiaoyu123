@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2010745389780181383",
+    "created_at": "2026-01-12T16:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T17:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010747613700841800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944367905782501376",
+          "start": 0,
+          "username": "aRAN_1216_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010747613700841800",
+    "in_reply_to_user_id": "1944367905782501376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010746512829976877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aRAN_1216_ 嘿嘿！谢谢泥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2010745389780181383",
+        "created_at": "2026-01-12T16:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010747613700841800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944367905782501376",
+              "start": 0,
+              "username": "aRAN_1216_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010747613700841800",
+        "in_reply_to_user_id": "1944367905782501376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010746512829976877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aRAN_1216_ 嘿嘿！谢谢泥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944367905782501376",
+        "conversation_id": "2010745389780181383",
+        "created_at": "2026-01-12T16:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010746512829976877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010746512829976877",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010745389780181383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 我去 生日快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我｜答疑解惑｜看投稿点媒体",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18040,
+          "following_count": 171,
+          "like_count": 343,
+          "listed_count": 18,
+          "media_count": 1558,
+          "tweet_count": 5835
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T12:07:02.000Z",
+        "description": "养成系薄肌男 在努力成为一个美好的男菩萨\n\n不是男同\n\n之前发过贴 但忘记写在简介里了\n1＞4\n\n接举牌 谁想要\n\n有在好好健身！但进度很慢 如果有什么想看的也可以私信！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lychee60997",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lychee60997",
+                "start": 0,
+                "url": "https://t.co/l5zvXG9Bus"
+              }
+            ]
+          }
+        },
+        "id": "1944367905782501376",
+        "location": "上海",
+        "name": "荔枝",
+        "pinned_tweet_id": "2008213848516702711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986652786059321345/htT5GCHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 61,
+          "like_count": 1867,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/l5zvXG9Bus",
+        "username": "aRAN_1216_",
+        "verified": false
+      }
+    ]
+  }
+}

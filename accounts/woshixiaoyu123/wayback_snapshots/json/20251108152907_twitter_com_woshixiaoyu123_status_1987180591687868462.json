@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1987101685500784948",
+    "created_at": "2025-11-08T15:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T16:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987180591687868462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1649396522218553346",
+          "start": 0,
+          "username": "LUV_TRIPLE_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987180591687868462",
+    "in_reply_to_user_id": "1649396522218553346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987145078411042998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LUV_TRIPLE_X 嘿嘿挡id是为了遮队友id 我的无所谓😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1987101685500784948",
+        "created_at": "2025-11-08T15:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T16:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987180591687868462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1649396522218553346",
+              "start": 0,
+              "username": "LUV_TRIPLE_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987180591687868462",
+        "in_reply_to_user_id": "1649396522218553346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987145078411042998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LUV_TRIPLE_X 嘿嘿挡id是为了遮队友id 我的无所谓😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649396522218553346",
+        "conversation_id": "1987101685500784948",
+        "created_at": "2025-11-08T13:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987145078411042998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987145078411042998",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987101685500784948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 要挡id的话也给左下角那一串uid也挡了吧，毕竟搜那个也能搜出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我就是围着你转啊 我没有自己的生活的 我的手机一直在手边 一直不锁屏 看你有没有发信息 最喜欢你了 我已经离不开你了",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14632,
+          "following_count": 153,
+          "like_count": 305,
+          "listed_count": 11,
+          "media_count": 838,
+          "tweet_count": 4714
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T12:55:56.000Z",
+        "description": "",
+        "id": "1649396522218553346",
+        "name": "Ep4doki",
+        "pinned_tweet_id": "1669193616189964288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977458894218919936/JBvE_1QI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 48,
+          "like_count": 837,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 425
+        },
+        "username": "LUV_TRIPLE_X",
+        "verified": false
+      }
+    ]
+  }
+}

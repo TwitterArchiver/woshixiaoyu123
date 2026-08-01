@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003523288543428608"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "2003523292737732885",
+    "created_at": "2025-12-23T17:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T18:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003523292737732885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/380VAaTv3G",
+          "end": 39,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2003523292737732885/photo/1",
+          "media_key": "3_2003523288543428608",
+          "start": 16,
+          "url": "https://t.co/380VAaTv3G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003523292737732885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么认识爱好接近又好看的女生呢 https://t.co/380VAaTv3G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1925,
+        "media_key": "3_2003523288543428608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83x0NjagAAwwXE.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003523288543428608"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "2003523292737732885",
+        "created_at": "2025-12-23T17:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T18:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003523292737732885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/380VAaTv3G",
+              "end": 39,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2003523292737732885/photo/1",
+              "media_key": "3_2003523288543428608",
+              "start": 16,
+              "url": "https://t.co/380VAaTv3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003523292737732885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么认识爱好接近又好看的女生呢 https://t.co/380VAaTv3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16912,
+          "following_count": 166,
+          "like_count": 336,
+          "listed_count": 14,
+          "media_count": 1309,
+          "tweet_count": 5529
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

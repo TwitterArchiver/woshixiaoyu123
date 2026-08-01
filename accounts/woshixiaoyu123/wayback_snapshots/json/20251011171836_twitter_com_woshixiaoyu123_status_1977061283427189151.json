@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1976694112259915992",
+    "created_at": "2025-10-11T17:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T18:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977061283427189151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641796973077618688",
+          "start": 0,
+          "username": "Madarame_NZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977061283427189151",
+    "in_reply_to_user_id": "1641796973077618688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977054528005681289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Madarame_NZM 是！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1976694112259915992",
+        "created_at": "2025-10-11T17:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T18:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977061283427189151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641796973077618688",
+              "start": 0,
+              "username": "Madarame_NZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977061283427189151",
+        "in_reply_to_user_id": "1641796973077618688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977054528005681289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Madarame_NZM 是！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641796973077618688",
+        "conversation_id": "1976694112259915992",
+        "created_at": "2025-10-11T16:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T17:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977054528005681289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977054528005681289",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976694112259915992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 这大约是精神层面上的服从吧？🧐\n\n不是因为遭到外力的束缚、\n亦不是因为遭到责罚、\n而是让对方打从心底地屈服祟拜。\n\n无锁胜有锁、正就是如此境界吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢青年音",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4596,
+          "following_count": 159,
+          "like_count": 276,
+          "listed_count": 6,
+          "media_count": 683,
+          "tweet_count": 4098
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T13:38:24.000Z",
+        "description": "観察者であり、より深く、遠く彼方へ。\n\n不定期ゲーム実況動画を投稿します。\n\n投資は暫くタイミングを待つ。\n\nYoutube：https://t.co/48vTFODmRs\nニコニコ：https://t.co/jNaJNUv2RP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@user-nzm",
+                "end": 86,
+                "expanded_url": "https://www.youtube.com/@user-nzm",
+                "start": 63,
+                "url": "https://t.co/48vTFODmRs"
+              },
+              {
+                "display_url": "nicovideo.jp/user/132089277",
+                "end": 115,
+                "expanded_url": "https://www.nicovideo.jp/user/132089277",
+                "start": 92,
+                "url": "https://t.co/jNaJNUv2RP"
+              }
+            ]
+          }
+        },
+        "id": "1641796973077618688",
+        "name": "班目望",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641797093739364353/l-9WCqgl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 388,
+          "like_count": 5657,
+          "listed_count": 2,
+          "media_count": 474,
+          "tweet_count": 3003
+        },
+        "username": "Madarame_NZM",
+        "verified": true
+      }
+    ]
+  }
+}

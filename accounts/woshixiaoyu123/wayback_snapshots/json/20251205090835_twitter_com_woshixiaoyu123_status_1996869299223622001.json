@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1996869299223622001",
+    "created_at": "2025-12-05T09:08:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T10:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996869299223622001"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1996869299223622001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一不小心又跟别人讲了好多真心话 别人说了一句 我讲完了自己的一生 怎么就管不住自己那张滔滔不绝的嘴 怎么就那么爱分享那些无关紧要的破事 别人又多了我好多的把柄 又要被拿捏了 又有好多人要恨我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1996869299223622001",
+        "created_at": "2025-12-05T09:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T10:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996869299223622001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996869299223622001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一不小心又跟别人讲了好多真心话 别人说了一句 我讲完了自己的一生 怎么就管不住自己那张滔滔不绝的嘴 怎么就那么爱分享那些无关紧要的破事 别人又多了我好多的把柄 又要被拿捏了 又有好多人要恨我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "找我玩",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16261,
+          "following_count": 169,
+          "like_count": 333,
+          "listed_count": 12,
+          "media_count": 1111,
+          "tweet_count": 5244
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

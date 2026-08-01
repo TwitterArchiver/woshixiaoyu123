@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989538070589575168"
+      ],
+      "media_source_tweet_id": [
+        "1989538075538546883"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989541696183607615",
+    "created_at": "2025-11-15T03:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T04:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989541696183607615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1892595590527377408",
+          "start": 3,
+          "username": "woshixiaoyu123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lvWzmkXld4",
+          "end": 56,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1989538075538546883/photo/1",
+          "media_key": "3_1989538070589575168",
+          "start": 33,
+          "url": "https://t.co/lvWzmkXld4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989541696183607615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989538075538546883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woshixiaoyu123: 身材好干净大牛16＋dd https://t.co/lvWzmkXld4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989541696183607615].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989541696183607615",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989541696183607615"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2214,
+        "media_key": "3_1989538070589575168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xCVYybkAAQgWk.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989538070589575168"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989538075538546883",
+        "created_at": "2025-11-15T03:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989538075538546883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvWzmkXld4",
+              "end": 36,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989538075538546883/photo/1",
+              "media_key": "3_1989538070589575168",
+              "start": 13,
+              "url": "https://t.co/lvWzmkXld4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989538075538546883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "身材好干净大牛16＋dd https://t.co/lvWzmkXld4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "12小时没回就是不接😔",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16896,
+          "following_count": 165,
+          "like_count": 324,
+          "listed_count": 13,
+          "media_count": 995,
+          "tweet_count": 5013
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977011644212690949"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1977011646985015302",
+    "created_at": "2025-10-11T14:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T15:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977011646985015302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NCS1bglChV",
+          "end": 66,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1977011646985015302/photo/1",
+          "media_key": "3_1977011644212690949",
+          "start": 43,
+          "url": "https://t.co/NCS1bglChV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977011646985015302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "五排碰到个辅助不会玩还出全攻装\n..................\n烦死了一群傻逼 https://t.co/NCS1bglChV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 229,
+        "media_key": "3_1977011644212690949",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_BnaIbwAUrLcQ.jpg",
+        "width": 683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977011644212690949"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1977011646985015302",
+        "created_at": "2025-10-11T14:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T15:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977011646985015302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCS1bglChV",
+              "end": 66,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1977011646985015302/photo/1",
+              "media_key": "3_1977011644212690949",
+              "start": 43,
+              "url": "https://t.co/NCS1bglChV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977011646985015302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五排碰到个辅助不会玩还出全攻装\n..................\n烦死了一群傻逼 https://t.co/NCS1bglChV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢青年音",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4501,
+          "following_count": 159,
+          "like_count": 276,
+          "listed_count": 6,
+          "media_count": 680,
+          "tweet_count": 4084
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

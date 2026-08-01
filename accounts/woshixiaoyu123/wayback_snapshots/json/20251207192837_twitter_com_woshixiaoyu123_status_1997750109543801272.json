@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1997705671421436117",
+    "created_at": "2025-12-07T19:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T20:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997750109543801272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1871559577650524160",
+          "start": 0,
+          "username": "w_818_w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997750109543801272",
+    "in_reply_to_user_id": "1871559577650524160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997746218043416788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w_818_w 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1997705671421436117",
+        "created_at": "2025-12-07T19:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T20:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997750109543801272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1871559577650524160",
+              "start": 0,
+              "username": "w_818_w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997750109543801272",
+        "in_reply_to_user_id": "1871559577650524160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997746218043416788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w_818_w 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871559577650524160",
+        "conversation_id": "1997705671421436117",
+        "created_at": "2025-12-07T19:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T20:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997746218043416788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997746218043416788",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997705671421436117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 其实你是一只小猫咪🐱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16266,
+          "following_count": 168,
+          "like_count": 333,
+          "listed_count": 12,
+          "media_count": 1114,
+          "tweet_count": 5264
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T14:12:42.000Z",
+        "description": "0s\n\n偶尔发一下小猫ฅ^•ﻌ•^ฅ",
+        "id": "1871559577650524160",
+        "name": "安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996566051346350080/GhsXlAhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 48,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 142
+        },
+        "username": "w_818_w",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2073830082196726075",
+    "created_at": "2026-07-07T15:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074513222200369168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2019730220102885377",
+          "start": 0,
+          "username": "ysinx297289"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074513222200369168",
+    "in_reply_to_user_id": "2019730220102885377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074323254584737956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysinx297289 刷到发我看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2073830082196726075",
+        "created_at": "2026-07-07T15:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074513222200369168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2019730220102885377",
+              "start": 0,
+              "username": "ysinx297289"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074513222200369168",
+        "in_reply_to_user_id": "2019730220102885377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074323254584737956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysinx297289 刷到发我看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019730220102885377",
+        "conversation_id": "2073830082196726075",
+        "created_at": "2026-07-07T02:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074323254584737956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074323254584737956",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073830082196726075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 感觉马上就会在抖音刷到这个了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19256,
+          "following_count": 153,
+          "like_count": 392,
+          "listed_count": 19,
+          "media_count": 1751,
+          "tweet_count": 6537
+        },
+        "url": "",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T11:09:51.000Z",
+        "description": "",
+        "id": "2019730220102885377",
+        "name": "y sin x",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019730465398341632/fJzMUwDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 29,
+          "like_count": 1306,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "ysinx297289",
+        "verified": false
+      }
+    ]
+  }
+}

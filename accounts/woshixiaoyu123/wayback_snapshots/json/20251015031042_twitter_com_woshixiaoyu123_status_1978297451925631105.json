@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1978014507034370138",
+    "created_at": "2025-10-15T03:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T04:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978297451925631105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645654064191946753",
+          "start": 0,
+          "username": "Sara37606756771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978297451925631105",
+    "in_reply_to_user_id": "1645654064191946753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978283879074341066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sara37606756771 30多星"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1978014507034370138",
+        "created_at": "2025-10-15T03:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T04:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978297451925631105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645654064191946753",
+              "start": 0,
+              "username": "Sara37606756771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978297451925631105",
+        "in_reply_to_user_id": "1645654064191946753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978283879074341066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sara37606756771 30多星"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645654064191946753",
+        "conversation_id": "1978014507034370138",
+        "created_at": "2025-10-15T02:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T03:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978283879074341066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978283879074341066",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978014507034370138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 啥段位啊😳鸡爪不也该赢了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6387,
+          "following_count": 159,
+          "like_count": 283,
+          "listed_count": 9,
+          "media_count": 713,
+          "tweet_count": 4262
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T05:04:49.000Z",
+        "description": "",
+        "id": "1645654064191946753",
+        "location": "Utah, USA",
+        "name": "Sara",
+        "pinned_tweet_id": "1869961099816439951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862070160552841216/4mtt8hE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 86,
+          "like_count": 2930,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1630
+        },
+        "username": "Sara37606756771",
+        "verified": false
+      }
+    ]
+  }
+}

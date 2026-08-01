@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016738214439161856"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "2016738216708362602",
+    "created_at": "2026-01-29T05:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "entities": {
+      "urls": [
+        {
+          "description": "我希望活到老做到老 ｜诚找学习搭子😭｜🚪88/188/520/1314 ❗️推广自辨",
+          "display_url": "x.com/Tractor_xmq",
+          "end": 23,
+          "expanded_url": "https://x.com/Tractor_xmq",
+          "start": 0,
+          "status": 200,
+          "title": "西门庆坐拖拉机看武大郎洗澡 (@Tractor_xmq) on X",
+          "unwound_url": "https://x.com/Tractor_xmq",
+          "url": "https://t.co/vmzLKiJns4"
+        },
+        {
+          "display_url": "pic.x.com/Nn7ett5hdh",
+          "end": 47,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2016738216708362602/photo/1",
+          "media_key": "3_2016738214439161856",
+          "start": 24,
+          "url": "https://t.co/Nn7ett5hdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016738216708362602",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/vmzLKiJns4 https://t.co/Nn7ett5hdh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1241,
+        "media_key": "3_2016738214439161856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zkuIyaEAAyaeC.jpg",
+        "width": 1254
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我｜答疑解惑｜看投稿点媒体｜不接推广",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18576,
+          "following_count": 174,
+          "like_count": 345,
+          "listed_count": 17,
+          "media_count": 1685,
+          "tweet_count": 5987
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1989598432085119077",
+    "created_at": "2025-11-15T07:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T08:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989598523361280286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760232942260084736",
+          "start": 0,
+          "username": "hjy2004321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989598523361280286",
+    "in_reply_to_user_id": "1892595590527377408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989598432085119077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hjy2004321 你长得不错"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_1989598428834533376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5x5OsxbkAAJtr2.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989598432085119077",
+        "created_at": "2025-11-15T07:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T08:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989598523361280286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760232942260084736",
+              "start": 0,
+              "username": "hjy2004321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989598523361280286",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989598432085119077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hjy2004321 你长得不错"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989598428834533376"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1989598432085119077",
+        "created_at": "2025-11-15T07:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T08:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989598432085119077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1760232942260084736",
+              "start": 14,
+              "username": "hjy2004321"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fzqoQrZU4s",
+              "end": 49,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1989598432085119077/photo/1",
+              "media_key": "3_1989598428834533376",
+              "start": 26,
+              "url": "https://t.co/fzqoQrZU4s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989598432085119077",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能聊天的ddddd🚪也行\n\n@hjy2004321 https://t.co/fzqoQrZU4s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "12小时没回就是不接😔",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16891,
+          "following_count": 165,
+          "like_count": 325,
+          "listed_count": 13,
+          "media_count": 1007,
+          "tweet_count": 5032
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T09:20:21.000Z",
+        "description": "",
+        "id": "1760232942260084736",
+        "name": "杨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863052713279242240/lU0eO2Wi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 357,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 46
+        },
+        "username": "hjy2004321",
+        "verified": false
+      }
+    ]
+  }
+}

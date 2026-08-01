@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1970181052334514194",
+    "created_at": "2025-10-31T13:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T14:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984251596491116984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1725582547999141889",
+          "start": 0,
+          "username": "yy_xiaobaobao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984251596491116984",
+    "in_reply_to_user_id": "1725582547999141889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984015559231680778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy_xiaobaobao 带我带我带我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1970181052334514194",
+        "created_at": "2025-10-31T13:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T14:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984251596491116984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1725582547999141889",
+              "start": 0,
+              "username": "yy_xiaobaobao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984251596491116984",
+        "in_reply_to_user_id": "1725582547999141889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984015559231680778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy_xiaobaobao 带我带我带我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725582547999141889",
+        "conversation_id": "1970181052334514194",
+        "created_at": "2025-10-30T21:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T22:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984015559231680778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984015559231680778",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970181052334514194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 三角洲绝密5.8k可以一起玩吗😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "不接推广不收口令求求你们别找我了｜男科问题去医院挂号我不是医生｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 70,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 47,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12979,
+          "following_count": 149,
+          "like_count": 289,
+          "listed_count": 11,
+          "media_count": 775,
+          "tweet_count": 4538
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T18:32:01.000Z",
+        "description": "爱玩三角洲",
+        "id": "1725582547999141889",
+        "location": "长沙",
+        "name": "小词.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984016131691311105/0NsaV0OF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 57,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 24
+        },
+        "username": "yy_xiaobaobao",
+        "verified": false
+      }
+    ]
+  }
+}

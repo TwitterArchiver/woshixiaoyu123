@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "2006074220867117088",
+    "created_at": "2025-12-30T18:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T19:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006074220867117088"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006074220867117088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次认识新人的时候我总会幻想，对方会不会也喜欢玩一些小狗和主人的游戏（× 我们再偶然发现对方有这个癖好，然后开启一段甜甜蜜蜜的zn恋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "2006074220867117088",
+        "created_at": "2025-12-30T18:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T19:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006074220867117088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006074220867117088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次认识新人的时候我总会幻想，对方会不会也喜欢玩一些小狗和主人的游戏（× 我们再偶然发现对方有这个癖好，然后开启一段甜甜蜜蜜的zn恋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我｜看投稿点媒体｜没有收费项目 投喂随意˃ 𖥦 ˂",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17675,
+          "following_count": 170,
+          "like_count": 340,
+          "listed_count": 16,
+          "media_count": 1494,
+          "tweet_count": 5741
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

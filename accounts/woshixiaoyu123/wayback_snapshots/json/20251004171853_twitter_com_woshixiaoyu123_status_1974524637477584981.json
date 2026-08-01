@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1974524149763878966",
+    "created_at": "2025-10-04T17:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T18:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974524637477584981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842031313928519680",
+          "start": 0,
+          "username": "kami0583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974524637477584981",
+    "in_reply_to_user_id": "1842031313928519680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974524440886329378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami0583 有可能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1974524149763878966",
+        "created_at": "2025-10-04T17:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974524637477584981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842031313928519680",
+              "start": 0,
+              "username": "kami0583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974524637477584981",
+        "in_reply_to_user_id": "1842031313928519680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974524440886329378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami0583 有可能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842031313928519680",
+        "conversation_id": "1974524149763878966",
+        "created_at": "2025-10-04T17:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974524440886329378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974524440886329378",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974524149763878966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 对面是人机吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "想我就来找我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3884,
+          "following_count": 162,
+          "like_count": 263,
+          "listed_count": 7,
+          "media_count": 645,
+          "tweet_count": 3911
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T02:38:02.000Z",
+        "description": "孤独已是常态，死亡终为归宿",
+        "id": "1842031313928519680",
+        "location": "香港",
+        "name": "☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974385878262034433/m2xvIDny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 24,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 31
+        },
+        "username": "kami0583",
+        "verified": false
+      }
+    ]
+  }
+}

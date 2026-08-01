@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1990706127135482336",
+    "created_at": "2025-11-18T11:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T12:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990742074468282526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1779854410740633601",
+          "start": 0,
+          "username": "mua7788520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990742074468282526",
+    "in_reply_to_user_id": "1779854410740633601",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990707040445202723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mua7788520 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_1990707034548064256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BpgC4b0AAuRcK.jpg",
+        "width": 910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1990706127135482336",
+        "created_at": "2025-11-18T11:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990742074468282526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1779854410740633601",
+              "start": 0,
+              "username": "mua7788520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990742074468282526",
+        "in_reply_to_user_id": "1779854410740633601",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990707040445202723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mua7788520 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990707034548064256"
+          ]
+        },
+        "author_id": "1779854410740633601",
+        "conversation_id": "1990706127135482336",
+        "created_at": "2025-11-18T09:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990707040445202723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ap0sLMjET9",
+              "end": 41,
+              "expanded_url": "https://x.com/mua7788520/status/1990707040445202723/photo/1",
+              "media_key": "3_1990707034548064256",
+              "start": 18,
+              "url": "https://t.co/ap0sLMjET9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990707040445202723",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990706127135482336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 诺 https://t.co/ap0sLMjET9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "王者里面的金币怎么提现到微信和支付宝啊？",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16847,
+          "following_count": 166,
+          "like_count": 329,
+          "listed_count": 12,
+          "media_count": 1026,
+          "tweet_count": 5090
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T12:49:08.000Z",
+        "description": "让我占有你，占据你干净的心 温柔的声音 和完美柔软你的身体",
+        "id": "1779854410740633601",
+        "location": "🚪288/520/1314/3344/5200/8888",
+        "name": "幼の",
+        "pinned_tweet_id": "1989947942791479543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988954310932328448/hF15o9lV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26794,
+          "following_count": 16,
+          "like_count": 15589,
+          "listed_count": 58,
+          "media_count": 261,
+          "tweet_count": 4810
+        },
+        "username": "mua7788520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986875674951634944"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1986875677057163288",
+    "created_at": "2025-11-07T19:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T20:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986875677057163288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TsDplTl6Qg",
+          "end": 110,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1986875677057163288/photo/1",
+          "media_key": "3_1986875674951634944",
+          "start": 87,
+          "url": "https://t.co/TsDplTl6Qg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986875677057163288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经常被同学取外号 渣男 海王 鱼塘主啥的 感觉从高中开始就桃花不断，大学更是如此。感觉自己像是天选之人身边的御姐萌妹没有断过，感谢老天爷给我的颜值和气质，我将保持圣洁的贞操 https://t.co/TsDplTl6Qg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1986875674951634944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5LM5kJbUAAZa4n.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986875674951634944"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1986875677057163288",
+        "created_at": "2025-11-07T19:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T20:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986875677057163288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TsDplTl6Qg",
+              "end": 110,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1986875677057163288/photo/1",
+              "media_key": "3_1986875674951634944",
+              "start": 87,
+              "url": "https://t.co/TsDplTl6Qg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986875677057163288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经常被同学取外号 渣男 海王 鱼塘主啥的 感觉从高中开始就桃花不断，大学更是如此。感觉自己像是天选之人身边的御姐萌妹没有断过，感谢老天爷给我的颜值和气质，我将保持圣洁的贞操 https://t.co/TsDplTl6Qg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你的少女心事我都懂",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14483,
+          "following_count": 151,
+          "like_count": 302,
+          "listed_count": 11,
+          "media_count": 829,
+          "tweet_count": 4693
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

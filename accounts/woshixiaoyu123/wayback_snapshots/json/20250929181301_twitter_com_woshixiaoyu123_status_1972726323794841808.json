@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1972726323794841808",
+    "created_at": "2025-09-29T18:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T19:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972726323794841808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1853087949359058944",
+          "start": 3,
+          "username": "xizhou_03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972726323794841808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972673563065831762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xizhou_03: 我会忠诚地翻译你的反话，说我不行是催我再卖力点，不喜欢是被伺候舒服了想更刺激。我会认真阅读你的每个表情和反应，哭得好可爱，尖叫好可爱，没力气软成一滩好可爱。我会在你身上倾注所有服务精神，在你求饶前绝不停止，把你所有性癖实施一遍，直到你不断地、无法自…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1972726323794841808",
+        "created_at": "2025-09-29T18:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T19:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972726323794841808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853087949359058944",
+              "start": 3,
+              "username": "xizhou_03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972726323794841808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972673563065831762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xizhou_03: 我会忠诚地翻译你的反话，说我不行是催我再卖力点，不喜欢是被伺候舒服了想更刺激。我会认真阅读你的每个表情和反应，哭得好可爱，尖叫好可爱，没力气软成一滩好可爱。我会在你身上倾注所有服务精神，在你求饶前绝不停止，把你所有性癖实施一遍，直到你不断地、无法自…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853087949359058944",
+        "conversation_id": "1972673563065831762",
+        "created_at": "2025-09-29T14:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T15:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972673563065831762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972673563065831762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3792,
+          "like_count": 113,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我会忠诚地翻译你的反话，说我不行是催我再卖力点，不喜欢是被伺候舒服了想更刺激。我会认真阅读你的每个表情和反应，哭得好可爱，尖叫好可爱，没力气软成一滩好可爱。我会在你身上倾注所有服务精神，在你求饶前绝不停止，把你所有性癖实施一遍，直到你不断地、无法自控地高潮。乖宝宝，可以开始了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我是恋痛，我喜欢身上的淤青，我迷恋啃咬脖子掐腰。但不是让你推开我，不是让你精神凌辱我，不是践踏我的真心。你不懂，你不懂。",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3884,
+          "following_count": 166,
+          "like_count": 238,
+          "listed_count": 6,
+          "media_count": 636,
+          "tweet_count": 3805
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T14:53:07.000Z",
+        "description": "le/dom1",
+        "id": "1853087949359058944",
+        "name": "燕西洲",
+        "pinned_tweet_id": "1932469642381123670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905700366668513280/LFkDX-mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8554,
+          "following_count": 20,
+          "like_count": 1220,
+          "listed_count": 10,
+          "media_count": 64,
+          "tweet_count": 393
+        },
+        "username": "xizhou_03",
+        "verified": false
+      }
+    ]
+  }
+}

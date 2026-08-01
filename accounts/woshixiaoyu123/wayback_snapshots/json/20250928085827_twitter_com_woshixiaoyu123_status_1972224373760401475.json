@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972224370044289024",
+        "3_1972224369058521088"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1972224373760401475",
+    "created_at": "2025-09-28T08:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T09:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972224373760401475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TQTHy9xBj9",
+          "end": 30,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1972224373760401475/photo/1",
+          "media_key": "3_1972224370044289024",
+          "start": 7,
+          "url": "https://t.co/TQTHy9xBj9"
+        },
+        {
+          "display_url": "pic.x.com/TQTHy9xBj9",
+          "end": 30,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1972224373760401475/photo/1",
+          "media_key": "3_1972224369058521088",
+          "start": 7,
+          "url": "https://t.co/TQTHy9xBj9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972224373760401475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我笑的不行了 https://t.co/TQTHy9xBj9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2201,
+        "media_key": "3_1972224370044289024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G16_nYHbwAA1aMs.jpg",
+        "width": 1101
+      },
+      {
+        "height": 1900,
+        "media_key": "3_1972224369058521088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G16_nUcaIAAcE0J.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972224370044289024",
+            "3_1972224369058521088"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1972224373760401475",
+        "created_at": "2025-09-28T08:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T09:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972224373760401475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TQTHy9xBj9",
+              "end": 30,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1972224373760401475/photo/1",
+              "media_key": "3_1972224370044289024",
+              "start": 7,
+              "url": "https://t.co/TQTHy9xBj9"
+            },
+            {
+              "display_url": "pic.x.com/TQTHy9xBj9",
+              "end": 30,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1972224373760401475/photo/1",
+              "media_key": "3_1972224369058521088",
+              "start": 7,
+              "url": "https://t.co/TQTHy9xBj9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972224373760401475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我笑的不行了 https://t.co/TQTHy9xBj9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "我要打一辈子王者荣耀",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3802,
+          "following_count": 164,
+          "like_count": 238,
+          "listed_count": 6,
+          "media_count": 631,
+          "tweet_count": 3785
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

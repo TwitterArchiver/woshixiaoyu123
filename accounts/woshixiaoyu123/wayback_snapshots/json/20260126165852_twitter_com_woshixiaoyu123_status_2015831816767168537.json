@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015831814393266176"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "2015831816767168537",
+    "created_at": "2026-01-26T16:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T17:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015831816767168537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "👀",
+          "display_url": "x.com/kanyu13390",
+          "end": 23,
+          "expanded_url": "https://x.com/kanyu13390",
+          "start": 0,
+          "status": 200,
+          "title": "(@) on X",
+          "unwound_url": "https://x.com/kanyu13390",
+          "url": "https://t.co/vGPrP4s6BX"
+        },
+        {
+          "display_url": "pic.x.com/YjHRr1Ya6F",
+          "end": 47,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2015831816767168537/photo/1",
+          "media_key": "3_2015831814393266176",
+          "start": 24,
+          "url": "https://t.co/YjHRr1Ya6F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015831816767168537",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/vGPrP4s6BX https://t.co/YjHRr1Ya6F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 304,
+        "media_key": "3_2015831814393266176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_msWtfXgAAVXEu.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015831814393266176"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "2015831816767168537",
+        "created_at": "2026-01-26T16:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T17:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015831816767168537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "👀",
+              "display_url": "x.com/kanyu13390",
+              "end": 23,
+              "expanded_url": "https://x.com/kanyu13390",
+              "start": 0,
+              "status": 200,
+              "title": "(@) on X",
+              "unwound_url": "https://x.com/kanyu13390",
+              "url": "https://t.co/vGPrP4s6BX"
+            },
+            {
+              "display_url": "pic.x.com/YjHRr1Ya6F",
+              "end": 47,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2015831816767168537/photo/1",
+              "media_key": "3_2015831814393266176",
+              "start": 24,
+              "url": "https://t.co/YjHRr1Ya6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015831816767168537",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vGPrP4s6BX https://t.co/YjHRr1Ya6F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我｜答疑解惑｜看投稿点媒体｜不接推广",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18672,
+          "following_count": 174,
+          "like_count": 345,
+          "listed_count": 18,
+          "media_count": 1678,
+          "tweet_count": 5980
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1968989692642426880"
+      ],
+      "media_source_tweet_id": [
+        "1968990730434560477"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1995556572786032769",
+    "created_at": "2025-12-01T18:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T19:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995556572786032769"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "女性向け"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "小玩具"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1947937787212406784",
+          "start": 3,
+          "username": "onion3972548482"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yl2LR53CzT",
+          "end": 82,
+          "expanded_url": "https://x.com/onion3972548482/status/1968990730434560477/video/1",
+          "media_key": "13_1968989692642426880",
+          "start": 59,
+          "url": "https://t.co/Yl2LR53CzT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995556572786032769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980895817256046620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onion3972548482: #女性向け #小玩具  \n下次一定找人一起玩 \n因为自己对自己下不了狠手🫠\nhttps://t.co/Yl2LR53CzT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995556572786032769].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995556572786032769",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995556572786032769"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 213097,
+        "height": 1920,
+        "media_key": "13_1968989692642426880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968989692642426880/img/zGTPbS4SVNlkqeQ0.jpg",
+        "public_metrics": {
+          "view_count": 40690
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968989692642426880/vid/avc1/320x572/oLMbqxfqTi1vggHD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968989692642426880/vid/avc1/480x858/loZZySQm1CUyT2Bd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968989692642426880/vid/avc1/720x1288/QpYIElPQpXNGB2X1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968989692642426880/pl/aUnG55PDSpPHpUBd.m3u8?tag=14"
+          }
+        ],
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968989692642426880"
+          ],
+          "media_source_tweet_id": [
+            "1968990730434560477"
+          ]
+        },
+        "author_id": "1947937787212406784",
+        "conversation_id": "1980895817256046620",
+        "created_at": "2025-10-22T07:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T08:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980895817256046620"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "女性向け"
+            },
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "小玩具"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yl2LR53CzT",
+              "end": 61,
+              "expanded_url": "https://x.com/onion3972548482/status/1968990730434560477/video/1",
+              "media_key": "13_1968989692642426880",
+              "start": 38,
+              "url": "https://t.co/Yl2LR53CzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980895817256046620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 247,
+          "impression_count": 87441,
+          "like_count": 501,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "#女性向け #小玩具  \n下次一定找人一起玩 \n因为自己对自己下不了狠手🫠\nhttps://t.co/Yl2LR53CzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "找我玩",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1983224068137750535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16247,
+          "following_count": 170,
+          "like_count": 334,
+          "listed_count": 12,
+          "media_count": 1106,
+          "tweet_count": 5224
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T08:32:33.000Z",
+        "description": "🙌我们有自己的社区啦呜呜呜饱饱们快来玩！🙌\n\n主营女宝们爱吃的各种水饺蒸饺煎饺🥟\n在小小的花园里面挖呀挖呀挖 @xiangcai_wochi\n补药艾特原推饱饱们答应我好吗🥹好饱饱有无限多好饺子吃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 55,
+                "username": "xiangcai_wochi"
+              }
+            ]
+          }
+        },
+        "id": "1947937787212406784",
+        "name": "饺子要吃烫烫的",
+        "pinned_tweet_id": "1983386085129670906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957394782231392256/JqGs_4YB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30315,
+          "following_count": 15,
+          "like_count": 52,
+          "listed_count": 56,
+          "media_count": 194,
+          "tweet_count": 286
+        },
+        "username": "onion3972548482",
+        "verified": false
+      }
+    ]
+  }
+}

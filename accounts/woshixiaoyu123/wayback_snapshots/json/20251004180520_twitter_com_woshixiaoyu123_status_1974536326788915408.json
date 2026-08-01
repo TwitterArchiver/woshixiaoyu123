@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974536323936772097"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1970181052334514194",
+    "created_at": "2025-10-04T18:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T19:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974536326788915408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m7lCt3fAoz",
+          "end": 44,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1974536326788915408/photo/1",
+          "media_key": "3_1974536323936772097",
+          "start": 21,
+          "url": "https://t.co/m7lCt3fAoz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974536326788915408",
+    "in_reply_to_user_id": "1892595590527377408",
+    "lang": "sl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970181052334514194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Ciallo～(∠・ω &lt; )︵★ https://t.co/m7lCt3fAoz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974536323936772097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2b2UzhbYAEbi6I.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1207,
+        "media_key": "3_1970181049490776066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1d9Od4aoAIi7TS.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974536323936772097"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970181052334514194",
+        "created_at": "2025-10-04T18:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T19:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974536326788915408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7lCt3fAoz",
+              "end": 44,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1974536326788915408/photo/1",
+              "media_key": "3_1974536323936772097",
+              "start": 21,
+              "url": "https://t.co/m7lCt3fAoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974536326788915408",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "sl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970181052334514194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ciallo～(∠・ω &lt; )︵★ https://t.co/m7lCt3fAoz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970181049490776066"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1970181052334514194",
+        "created_at": "2025-09-22T17:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970181052334514194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sO2SLbiMvz",
+              "end": 29,
+              "expanded_url": "https://x.com/lngyj147021/status/1970181052334514194/photo/1",
+              "media_key": "3_1970181049490776066",
+              "start": 6,
+              "url": "https://t.co/sO2SLbiMvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970181052334514194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 25558,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "食用指南🥺 https://t.co/sO2SLbiMvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "纯爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshixiaoyu1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshixiaoyu1231",
+                "start": 0,
+                "url": "https://t.co/dzBrXP5UWM"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3885,
+          "following_count": 162,
+          "like_count": 263,
+          "listed_count": 7,
+          "media_count": 648,
+          "tweet_count": 3919
+        },
+        "url": "https://t.co/dzBrXP5UWM",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988975218187219314",
+    "created_at": "2025-11-13T14:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T15:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988981037502992598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1848710280836222978",
+          "start": 0,
+          "username": "kirk_one1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988981037502992598",
+    "in_reply_to_user_id": "1848710280836222978",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988980566314844454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirk_one1 男人再富也要去..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988975218187219314",
+        "created_at": "2025-11-13T14:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T15:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988981037502992598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1848710280836222978",
+              "start": 0,
+              "username": "kirk_one1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988981037502992598",
+        "in_reply_to_user_id": "1848710280836222978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988980566314844454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirk_one1 男人再富也要去..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848710280836222978",
+        "conversation_id": "1988975218187219314",
+        "created_at": "2025-11-13T14:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T15:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988980566314844454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988980566314844454",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988975218187219314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 ？男人不可以卖！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "请告诉我是否匿名˃ㅅ˂ 不匿会艾特｜不收费..硬要打赏我还是会笑纳的ovo",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16479,
+          "following_count": 161,
+          "like_count": 312,
+          "listed_count": 11,
+          "media_count": 925,
+          "tweet_count": 4887
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T12:57:43.000Z",
+        "description": "无法简介…",
+        "id": "1848710280836222978",
+        "name": "kirk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968861045637922818/m1pSq8R8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 31,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "username": "kirk_one1",
+        "verified": false
+      }
+    ]
+  }
+}

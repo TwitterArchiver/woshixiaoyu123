@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990268404473921536",
+        "3_1990268404578848768",
+        "3_1990268404834684929",
+        "3_1990268410715066368"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1990268414934569427",
+    "created_at": "2025-11-17T03:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T04:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990268414934569427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M4deLx0KZj",
+          "end": 33,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1990268414934569427/photo/1",
+          "media_key": "3_1990268404473921536",
+          "start": 10,
+          "url": "https://t.co/M4deLx0KZj"
+        },
+        {
+          "display_url": "pic.x.com/M4deLx0KZj",
+          "end": 33,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1990268414934569427/photo/1",
+          "media_key": "3_1990268404578848768",
+          "start": 10,
+          "url": "https://t.co/M4deLx0KZj"
+        },
+        {
+          "display_url": "pic.x.com/M4deLx0KZj",
+          "end": 33,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1990268414934569427/photo/1",
+          "media_key": "3_1990268404834684929",
+          "start": 10,
+          "url": "https://t.co/M4deLx0KZj"
+        },
+        {
+          "display_url": "pic.x.com/M4deLx0KZj",
+          "end": 33,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1990268414934569427/photo/1",
+          "media_key": "3_1990268410715066368",
+          "start": 10,
+          "url": "https://t.co/M4deLx0KZj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990268414934569427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我承认我是偷拍狂了 https://t.co/M4deLx0KZj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990268404473921536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57akahaAAA6DNs.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990268404578848768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57aka6bEAALXzI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990268404834684929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57akb3a0AEdWrA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990268410715066368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57akxxaUAAU2rZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990268404473921536",
+            "3_1990268404578848768",
+            "3_1990268404834684929",
+            "3_1990268410715066368"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1990268414934569427",
+        "created_at": "2025-11-17T03:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T04:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990268414934569427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M4deLx0KZj",
+              "end": 33,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1990268414934569427/photo/1",
+              "media_key": "3_1990268404473921536",
+              "start": 10,
+              "url": "https://t.co/M4deLx0KZj"
+            },
+            {
+              "display_url": "pic.x.com/M4deLx0KZj",
+              "end": 33,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1990268414934569427/photo/1",
+              "media_key": "3_1990268404578848768",
+              "start": 10,
+              "url": "https://t.co/M4deLx0KZj"
+            },
+            {
+              "display_url": "pic.x.com/M4deLx0KZj",
+              "end": 33,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1990268414934569427/photo/1",
+              "media_key": "3_1990268404834684929",
+              "start": 10,
+              "url": "https://t.co/M4deLx0KZj"
+            },
+            {
+              "display_url": "pic.x.com/M4deLx0KZj",
+              "end": 33,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1990268414934569427/photo/1",
+              "media_key": "3_1990268410715066368",
+              "start": 10,
+              "url": "https://t.co/M4deLx0KZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990268414934569427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我承认我是偷拍狂了 https://t.co/M4deLx0KZj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你的心事我都懂",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16935,
+          "following_count": 165,
+          "like_count": 328,
+          "listed_count": 12,
+          "media_count": 1053,
+          "tweet_count": 5096
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

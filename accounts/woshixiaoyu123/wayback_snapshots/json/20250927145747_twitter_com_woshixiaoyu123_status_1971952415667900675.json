@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1971465206342803748",
+    "created_at": "2025-09-27T14:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T15:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971952415667900675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1421731273672847362",
+          "start": 0,
+          "username": "yizengya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971952415667900675",
+    "in_reply_to_user_id": "1421731273672847362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971931026181308791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yizengya 我牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1971465206342803748",
+        "created_at": "2025-09-27T14:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T15:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971952415667900675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1421731273672847362",
+              "start": 0,
+              "username": "yizengya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971952415667900675",
+        "in_reply_to_user_id": "1421731273672847362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971931026181308791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizengya 我牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421731273672847362",
+        "conversation_id": "1971465206342803748",
+        "created_at": "2025-09-27T13:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T14:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971931026181308791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971931026181308791",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971465206342803748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 你咋上分这么快？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "多愁善感",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3713,
+          "following_count": 166,
+          "like_count": 234,
+          "listed_count": 6,
+          "media_count": 622,
+          "tweet_count": 3761
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T07:15:39.000Z",
+        "description": "网络重拳出击👊 工资不够生活\n学习 库乐队 & procreate ing",
+        "id": "1421731273672847362",
+        "location": "成都",
+        "name": "yz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523718868417474560/BGAxtRMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 177,
+          "like_count": 6588,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 860
+        },
+        "username": "yizengya",
+        "verified": false
+      }
+    ]
+  }
+}

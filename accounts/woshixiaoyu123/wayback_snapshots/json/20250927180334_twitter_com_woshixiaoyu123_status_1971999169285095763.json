@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971999166122676225",
+        "3_1971999166139453440"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "conversation_id": "1971999169285095763",
+    "created_at": "2025-09-27T18:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T19:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971999169285095763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5tY2j5XZoX",
+          "end": 84,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1971999169285095763/photo/1",
+          "media_key": "3_1971999166122676225",
+          "start": 61,
+          "url": "https://t.co/5tY2j5XZoX"
+        },
+        {
+          "display_url": "pic.x.com/5tY2j5XZoX",
+          "end": 84,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/1971999169285095763/photo/1",
+          "media_key": "3_1971999166139453440",
+          "start": 61,
+          "url": "https://t.co/5tY2j5XZoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971999169285095763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天打游戏队友都死了，我毫无战斗力。队友一直说xxx剩一滴血，和我说在左边在右边在后面什莫的。最后原地转了一圈被抽死了。 https://t.co/5tY2j5XZoX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1704,
+        "media_key": "3_1971999166122676225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13yyyIb0AEknXl.jpg",
+        "width": 1238
+      },
+      {
+        "height": 1756,
+        "media_key": "3_1971999166139453440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13yyyMb0AASLdb.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971999166122676225",
+            "3_1971999166139453440"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1971999169285095763",
+        "created_at": "2025-09-27T18:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T19:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971999169285095763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5tY2j5XZoX",
+              "end": 84,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1971999169285095763/photo/1",
+              "media_key": "3_1971999166122676225",
+              "start": 61,
+              "url": "https://t.co/5tY2j5XZoX"
+            },
+            {
+              "display_url": "pic.x.com/5tY2j5XZoX",
+              "end": 84,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1971999169285095763/photo/1",
+              "media_key": "3_1971999166139453440",
+              "start": 61,
+              "url": "https://t.co/5tY2j5XZoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971999169285095763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天打游戏队友都死了，我毫无战斗力。队友一直说xxx剩一滴血，和我说在左边在右边在后面什莫的。最后原地转了一圈被抽死了。 https://t.co/5tY2j5XZoX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "多愁善感",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3739,
+          "following_count": 166,
+          "like_count": 234,
+          "listed_count": 6,
+          "media_count": 626,
+          "tweet_count": 3769
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

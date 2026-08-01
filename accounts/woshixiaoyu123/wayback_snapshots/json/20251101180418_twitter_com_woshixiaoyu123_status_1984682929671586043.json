@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1984597643302224094",
+    "created_at": "2025-11-01T18:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T19:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984682929671586043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291988176496545792",
+          "start": 0,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984682929671586043",
+    "in_reply_to_user_id": "1291988176496545792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984597643302224094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vox35112635 抽我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_1984597633063927809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4q1CEzbQAElNnc.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1984597643302224094",
+        "created_at": "2025-11-01T18:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T19:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984682929671586043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984682929671586043",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984597643302224094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 抽我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984597633063927809"
+          ]
+        },
+        "author_id": "1291988176496545792",
+        "conversation_id": "1984597643302224094",
+        "created_at": "2025-11-01T12:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T13:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984597643302224094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ov0zBaLwkg",
+              "end": 39,
+              "expanded_url": "https://x.com/Vox35112635/status/1984597643302224094/photo/1",
+              "media_key": "3_1984597633063927809",
+              "start": 16,
+              "url": "https://t.co/ov0zBaLwkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984597643302224094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 97556,
+          "like_count": 365,
+          "quote_count": 1,
+          "reply_count": 932,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "5个200转给我了 记得开私信 https://t.co/ov0zBaLwkg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "找我玩游戏(｡í _ ì｡)———————————————————匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnDDBy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 71,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 48,
+                "url": "https://t.co/kwrUsnDDBy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WMvAR"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13346,
+          "following_count": 150,
+          "like_count": 295,
+          "listed_count": 11,
+          "media_count": 778,
+          "tweet_count": 4559
+        },
+        "url": "https://t.co/Qxp67WMvAR",
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/现在会接一点有偿转发/付费线上绿色交友委托/广告正规推以外的其他投稿均为免费/加vx随缘给门槛就好了/算卦找她@minglishii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "minglishii"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272868,
+          "following_count": 558,
+          "like_count": 491,
+          "listed_count": 304,
+          "media_count": 10371,
+          "tweet_count": 14974
+        },
+        "username": "Vox35112635",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1892595590527377408",
+    "conversation_id": "1988977957776638014",
+    "created_at": "2025-11-14T14:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T15:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989332620803445123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1468547816050290694",
+          "start": 0,
+          "username": "SeinMao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989332620803445123",
+    "in_reply_to_user_id": "1892595590527377408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988977957776638014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeinMao 已开~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_1988977955360632835",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5pE6Y9acAMNbVf.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988977957776638014",
+        "created_at": "2025-11-14T14:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989332620803445123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1468547816050290694",
+              "start": 0,
+              "username": "SeinMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989332620803445123",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988977957776638014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeinMao 已开~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988977955360632835"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "1988977957776638014",
+        "created_at": "2025-11-13T14:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T15:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988977957776638014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1468547816050290694",
+              "start": 20,
+              "username": "SeinMao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/APcIZq1yJK",
+              "end": 52,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/1988977957776638014/photo/1",
+              "media_key": "3_1988977955360632835",
+              "start": 29,
+              "url": "https://t.co/APcIZq1yJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988977957776638014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24462,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 159,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抽三杯星巴克\n广东的🚪姐ddd\n\n稿主 @SeinMao https://t.co/APcIZq1yJK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "12小时没回就是不接😔",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16870,
+          "following_count": 162,
+          "like_count": 317,
+          "listed_count": 12,
+          "media_count": 966,
+          "tweet_count": 4965
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T11:47:45.000Z",
+        "description": "冒险 平等 自由",
+        "id": "1468547816050290694",
+        "name": "Sereinwish👨‍🍳🍚",
+        "pinned_tweet_id": "1481707353926172677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872809909265547268/We6IcJAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 1589,
+          "like_count": 214,
+          "listed_count": 5,
+          "media_count": 15,
+          "tweet_count": 719
+        },
+        "username": "SeinMao",
+        "verified": false
+      }
+    ]
+  }
+}

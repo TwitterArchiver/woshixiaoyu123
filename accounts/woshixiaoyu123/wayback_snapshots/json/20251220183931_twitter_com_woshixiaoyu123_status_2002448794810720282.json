@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002448792696860678"
+      ]
+    },
+    "author_id": "1892595590527377408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002448794810720282",
+    "created_at": "2025-12-20T18:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T19:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002448794810720282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1985338317794357248",
+          "start": 0,
+          "username": "ma91796"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V5gXgqRNDE",
+          "end": 32,
+          "expanded_url": "https://x.com/woshixiaoyu123/status/2002448794810720282/photo/1",
+          "media_key": "3_2002448792696860678",
+          "start": 9,
+          "url": "https://t.co/V5gXgqRNDE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002448794810720282",
+    "in_reply_to_user_id": "1985338317794357248",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@ma91796 https://t.co/V5gXgqRNDE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 711,
+        "media_key": "3_2002448792696860678",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ogkUmbMAYxPQ0.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002448792696860678"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002448794810720282",
+        "created_at": "2025-12-20T18:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T19:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002448794810720282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1985338317794357248",
+              "start": 0,
+              "username": "ma91796"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V5gXgqRNDE",
+              "end": 32,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2002448794810720282/photo/1",
+              "media_key": "3_2002448792696860678",
+              "start": 9,
+              "url": "https://t.co/V5gXgqRNDE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002448794810720282",
+        "in_reply_to_user_id": "1985338317794357248",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@ma91796 https://t.co/V5gXgqRNDE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16665,
+          "following_count": 166,
+          "like_count": 337,
+          "listed_count": 13,
+          "media_count": 1245,
+          "tweet_count": 5452
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T13:28:50.000Z",
+        "description": "打瓦（瓦手）小帅 聊天 每天都特别无聊 来人骚扰我一下",
+        "id": "1985338317794357248",
+        "name": "小杰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985338884360654849/tOSOj2BL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 46
+        },
+        "username": "ma91796",
+        "verified": false
+      }
+    ]
+  }
+}
